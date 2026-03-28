@@ -29,7 +29,7 @@ project-kg/
 ├── src/rag/          # RAG system (LLM → SPARQL)
 ├── data/             # Data used in the pipeline
 ├── kg_artifacts/     # RDF graphs, ontology, alignment files
-├── kge/              # KGE datasets
+├── kge_data/              # KGE datasets
 ├── results/          # Evaluation results (CSV and plots)
 ├── reports/          # Final report
 ├── README.md
@@ -127,7 +127,7 @@ This includes:
 Datasets are stored in:
 
 ```text
-kge/
+kge_data/
 ```
 
 Files:
