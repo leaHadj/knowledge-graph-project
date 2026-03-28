@@ -1,0 +1,10 @@
+spacy
+rdflib
+owlready2
+pykeen
+pandas
+numpy
+tqdm
+trafilatura
+requests
+matplotlib

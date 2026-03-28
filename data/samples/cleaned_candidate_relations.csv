@@ -1,0 +1,807 @@
+subject,relation,object,subject_uri,relation_uri,object_uri,object_type
+"""Design Computing and Cognition",lead,biannual,http://example.org/entity/%22Design_Computing_and_Cognition,http://example.org/relation/lead,http://example.org/entity/biannual,entity
+'PaxSims' blog,archive,2 November 2022,http://example.org/entity/%27PaxSims%27_blog,http://example.org/relation/archive,http://example.org/entity/2_November_2022,entity
+'PaxSims' blog,archive,the Wayback Machine,http://example.org/entity/%27PaxSims%27_blog,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+1 January 2019.[89][90,issue,Lithuania,http://example.org/entity/1_January_2019.%5B89%5D%5B90,http://example.org/relation/issue,http://example.org/entity/Lithuania,entity
+10 December 2017,design,Encyclopedia of Computer Science,http://example.org/entity/10_December_2017,http://example.org/relation/design,http://example.org/entity/Encyclopedia_of_Computer_Science,entity
+10 December 2017,design,the Wayback Machine,http://example.org/entity/10_December_2017,http://example.org/relation/design,http://example.org/entity/the_Wayback_Machine,entity
+10 October 2020,react,the Wayback Machine,http://example.org/entity/10_October_2020,http://example.org/relation/react,http://example.org/entity/the_Wayback_Machine,entity
+14 July 2012,archiveToday,2005,http://example.org/entity/14_July_2012,http://example.org/relation/archiveToday,,literal
+14 July 2012,archiveToday,Eriksson,http://example.org/entity/14_July_2012,http://example.org/relation/archiveToday,http://example.org/entity/Eriksson,entity
+14 July 2012,archiveToday,Ulf,http://example.org/entity/14_July_2012,http://example.org/relation/archiveToday,http://example.org/entity/Ulf,entity
+16 April 2009,react,the Wayback Machine,http://example.org/entity/16_April_2009,http://example.org/relation/react,http://example.org/entity/the_Wayback_Machine,entity
+18 aprile 2016,archive,25 January 2021,http://example.org/entity/18_aprile_2016,http://example.org/relation/archive,http://example.org/entity/25_January_2021,entity
+19 September 2021,retrieve,Lindsay,http://example.org/entity/19_September_2021,http://example.org/relation/retrieve,http://example.org/entity/Lindsay,entity
+19 September 2021,retrieve,Richard P.,http://example.org/entity/19_September_2021,http://example.org/relation/retrieve,http://example.org/entity/Richard_P.,entity
+19 September 2021,retrieve,September 1964,http://example.org/entity/19_September_2021,http://example.org/relation/retrieve,http://example.org/entity/September_1964,entity
+1949,canadianPsychologist,Donald Hebb,http://example.org/entity/1949,http://example.org/relation/canadianPsychologist,http://example.org/entity/Donald_Hebb,entity
+1949,describe,Donald Hebb,http://example.org/entity/1949,http://example.org/relation/describe,http://example.org/entity/Donald_Hebb,entity
+1956,archive,26 April 2011,http://example.org/entity/1956,http://example.org/relation/archive,http://example.org/entity/26_April_2011,entity
+1956,discover,Svaetichin,http://example.org/entity/1956,http://example.org/relation/discover,http://example.org/entity/Svaetichin,entity
+1958,call,Willy Higginbotham,http://example.org/entity/1958,http://example.org/relation/call,http://example.org/entity/Willy_Higginbotham,entity
+1970s,use,early 1980s,http://example.org/entity/1970s,http://example.org/relation/use,http://example.org/entity/early_1980s,entity
+1972,austrianLinguist,Edgar W. Schneider,http://example.org/entity/1972,http://example.org/relation/austrianLinguist,http://example.org/entity/Edgar_W._Schneider,entity
+1980,cause,1984,http://example.org/entity/1980,http://example.org/relation/cause,,literal
+1980,cause,Acornsoft,http://example.org/entity/1980,http://example.org/relation/cause,http://example.org/entity/Acornsoft,entity
+1981,book,1999,http://example.org/entity/1981,http://example.org/relation/book,,literal
+1981,book,Jean Baudrillard,http://example.org/entity/1981,http://example.org/relation/book,http://example.org/entity/Jean_Baudrillard,entity
+1983,fall,1985,http://example.org/entity/1983,http://example.org/relation/fall,,literal
+1983,fall,Nintendo,http://example.org/entity/1983,http://example.org/relation/fall,http://example.org/entity/Nintendo,entity
+1985,fall,Nintendo,http://example.org/entity/1985,http://example.org/relation/fall,http://example.org/entity/Nintendo,entity
+1987,follow,Universal,http://example.org/entity/1987,http://example.org/relation/follow,http://example.org/entity/Universal,entity
+1987,regard,ArchiCAD,http://example.org/entity/1987,http://example.org/relation/regard,http://example.org/entity/ArchiCAD,entity
+1988,find,Commission for Racial Equality,http://example.org/entity/1988,http://example.org/relation/find,http://example.org/entity/Commission_for_Racial_Equality,entity
+1988,find,St. George's Medical School,http://example.org/entity/1988,http://example.org/relation/find,http://example.org/entity/St._George%27s_Medical_School,entity
+1988,find,UK,http://example.org/entity/1988,http://example.org/relation/find,http://example.org/entity/UK,entity
+1989,support,France,http://example.org/entity/1989,http://example.org/relation/support,http://example.org/entity/France,entity
+1992,paper,F. P. Tolman.[16,http://example.org/entity/1992,http://example.org/relation/paper,http://example.org/entity/F._P._Tolman.%5B16,entity
+1992,paper,G.A. van Nederveen,http://example.org/entity/1992,http://example.org/relation/paper,http://example.org/entity/G.A._van_Nederveen,entity
+1998,create,Andrew Edmonds,http://example.org/entity/1998,http://example.org/relation/create,http://example.org/entity/Andrew_Edmonds,entity
+1998,create,Science in Finance Ltd,http://example.org/entity/1998,http://example.org/relation/create,http://example.org/entity/Science_in_Finance_Ltd,entity
+1998,create,UK,http://example.org/entity/1998,http://example.org/relation/create,http://example.org/entity/UK,entity
+2 November 2013,magazine,December 2011,http://example.org/entity/2_November_2013,http://example.org/relation/magazine,http://example.org/entity/December_2011,entity
+2 November 2022,archive,the Wayback Machine,http://example.org/entity/2_November_2022,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+2002,archive,2015-05-22,http://example.org/entity/2002,http://example.org/relation/archive,,literal
+2002,form,SSH,http://example.org/entity/2002,http://example.org/relation/form,http://example.org/entity/SSH,entity
+2002,form,the Society for Simulation in Healthcare,http://example.org/entity/2002,http://example.org/relation/form,http://example.org/entity/the_Society_for_Simulation_in_Healthcare,entity
+2002,release,Autodesk,http://example.org/entity/2002,http://example.org/relation/release,http://example.org/entity/Autodesk,entity
+2003,archive,-07-08,http://example.org/entity/2003,http://example.org/relation/archive,http://example.org/entity/-07-08,entity
+2003,archive,2017-07-04,http://example.org/entity/2003,http://example.org/relation/archive,,literal
+2003,concern,the University of Sydney,http://example.org/entity/2003,http://example.org/relation/concern,http://example.org/entity/the_University_of_Sydney,entity
+2004,research,the University of Hong Kong,http://example.org/entity/2004,http://example.org/relation/research,http://example.org/entity/the_University_of_Hong_Kong,entity
+2005,found,Marc Wirk,http://example.org/entity/2005,http://example.org/relation/found,http://example.org/entity/Marc_Wirk,entity
+2005,include,Greg Lynn,http://example.org/entity/2005,http://example.org/relation/include,http://example.org/entity/Greg_Lynn,entity
+2005,include,Quantum Film,http://example.org/entity/2005,http://example.org/relation/include,http://example.org/entity/Quantum_Film,entity
+2006,mediaServiceProvider,Netflix,http://example.org/entity/2006,http://example.org/relation/mediaServiceProvider,http://example.org/entity/Netflix,entity
+2007,archive,2009-08-12,http://example.org/entity/2007,http://example.org/relation/archive,,literal
+2007,found,DBpedia,http://example.org/entity/2007,http://example.org/relation/found,http://example.org/entity/DBpedia,entity
+2007,found,Freebase,http://example.org/entity/2007,http://example.org/relation/found,http://example.org/entity/Freebase,entity
+2007,need,Erezi,http://example.org/entity/2007,http://example.org/relation/need,http://example.org/entity/Erezi,entity
+2007,need,Utiome,http://example.org/entity/2007,http://example.org/relation/need,http://example.org/entity/Utiome,entity
+2008,foreword,Eastman,http://example.org/entity/2008,http://example.org/relation/foreword,http://example.org/entity/Eastman,entity
+2008,opCitPXii,Van Nederveen,http://example.org/entity/2008,http://example.org/relation/opCitPXii,http://example.org/entity/Van_Nederveen,entity
+2009,throughInitiative,2013,http://example.org/entity/2009,http://example.org/relation/throughInitiative,,literal
+2009,throughInitiative,Switzerland,http://example.org/entity/2009,http://example.org/relation/throughInitiative,http://example.org/entity/Switzerland,entity
+2010,article,The Wall Street Journal,http://example.org/entity/2010,http://example.org/relation/article,http://example.org/entity/The_Wall_Street_Journal,entity
+2010,establish,Cisco Systems,http://example.org/entity/2010,http://example.org/relation/establish,http://example.org/entity/Cisco_Systems,entity
+2010,establish,the Clinton Foundation,http://example.org/entity/2010,http://example.org/relation/establish,http://example.org/entity/the_Clinton_Foundation,entity
+2011,attract,Barcelona,http://example.org/entity/2011,http://example.org/relation/attract,http://example.org/entity/Barcelona,entity
+2011,attract,the Smart City Expo World Congress,http://example.org/entity/2011,http://example.org/relation/attract,http://example.org/entity/the_Smart_City_Expo_World_Congress,entity
+2011,hear,2020,http://example.org/entity/2011,http://example.org/relation/hear,,literal
+2012,businessValue,South Korea,http://example.org/entity/2012,http://example.org/relation/businessValue,http://example.org/entity/South_Korea,entity
+2012,coFounder,", Vinod Khosla",http://example.org/entity/2012,http://example.org/relation/coFounder,http://example.org/entity/%2C_Vinod_Khosla,entity
+2012,coFounder,Sun Microsystems,http://example.org/entity/2012,http://example.org/relation/coFounder,http://example.org/entity/Sun_Microsystems,entity
+2012,establish,the Smart Cities Marketplace,http://example.org/entity/2012,http://example.org/relation/establish,http://example.org/entity/the_Smart_Cities_Marketplace,entity
+2012,estimate,2017,http://example.org/entity/2012,http://example.org/relation/estimate,,literal
+2012,include,the Civil and Environmental Engineering Department,http://example.org/entity/2012,http://example.org/relation/include,http://example.org/entity/the_Civil_and_Environmental_Engineering_Department,entity
+2012,introduce,DBpedia,http://example.org/entity/2012,http://example.org/relation/introduce,http://example.org/entity/DBpedia,entity
+2012,introduce,Freebase,http://example.org/entity/2012,http://example.org/relation/introduce,http://example.org/entity/Freebase,entity
+2012,introduce,Google,http://example.org/entity/2012,http://example.org/relation/introduce,http://example.org/entity/Google,entity
+2012,professionalEngineerUniversity,Iran,http://example.org/entity/2012,http://example.org/relation/professionalEngineerUniversity,http://example.org/entity/Iran,entity
+2012,statusAdoptionImplementation,South Korea.[74,http://example.org/entity/2012,http://example.org/relation/statusAdoptionImplementation,http://example.org/entity/South_Korea.%5B74,entity
+2012,through,Ministry of Housing and Urban-Rural Development.[36,http://example.org/entity/2012,http://example.org/relation/through,http://example.org/entity/Ministry_of_Housing_and_Urban-Rural_Development.%5B36,entity
+2013,develop,2007,http://example.org/entity/2013,http://example.org/relation/develop,,literal
+2013,develop,the United Kingdom,http://example.org/entity/2013,http://example.org/relation/develop,http://example.org/entity/the_United_Kingdom,entity
+2013,mandate,2015 to 2017,http://example.org/entity/2013,http://example.org/relation/mandate,http://example.org/entity/2015_to_2017,entity
+2013,show,France,http://example.org/entity/2013,http://example.org/relation/show,http://example.org/entity/France,entity
+2013,structuralMESubmission,2014,http://example.org/entity/2013,http://example.org/relation/structuralMESubmission,,literal
+2013,survey,European BIM,http://example.org/entity/2013,http://example.org/relation/survey,http://example.org/entity/European_BIM,entity
+2014,stateOutlook,India,http://example.org/entity/2014,http://example.org/relation/stateOutlook,http://example.org/entity/India,entity
+2015,archive,14 April 2019,http://example.org/entity/2015,http://example.org/relation/archive,http://example.org/entity/14_April_2019,entity
+2015,archive,16 August 2019,http://example.org/entity/2015,http://example.org/relation/archive,http://example.org/entity/16_August_2019,entity
+2015,archive,the Wayback Machine,http://example.org/entity/2015,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+2015,chapter,Domingos,http://example.org/entity/2015,http://example.org/relation/chapter,http://example.org/entity/Domingos,entity
+2015,manyProjectRebuilding,Christchurch,http://example.org/entity/2015,http://example.org/relation/manyProjectRebuilding,http://example.org/entity/Christchurch,entity
+2015,possibility,Russia,http://example.org/entity/2015,http://example.org/relation/possibility,http://example.org/entity/Russia,entity
+2015,promote,Portugal,http://example.org/entity/2015,http://example.org/relation/promote,http://example.org/entity/Portugal,entity
+2015,promote,the Technical Committee for BIM Standardisation,http://example.org/entity/2015,http://example.org/relation/promote,http://example.org/entity/the_Technical_Committee_for_BIM_Standardisation,entity
+2015,propose,the United Kingdom,http://example.org/entity/2015,http://example.org/relation/propose,http://example.org/entity/the_United_Kingdom,entity
+2015,tag,Google Photos,http://example.org/entity/2015,http://example.org/relation/tag,http://example.org/entity/Google_Photos,entity
+2016,launch,AT&T,http://example.org/entity/2016,http://example.org/relation/launch,http://example.org/entity/AT%26T,entity
+2016,launch,Cisco,http://example.org/entity/2016,http://example.org/relation/launch,http://example.org/entity/Cisco,entity
+2016,launch,Deloitte,http://example.org/entity/2016,http://example.org/relation/launch,http://example.org/entity/Deloitte,entity
+2016,launch,Ericsson,http://example.org/entity/2016,http://example.org/relation/launch,http://example.org/entity/Ericsson,entity
+2016,launch,General Electric,http://example.org/entity/2016,http://example.org/relation/launch,http://example.org/entity/General_Electric,entity
+2016,lead,UK,http://example.org/entity/2016,http://example.org/relation/lead,http://example.org/entity/UK,entity
+2016,set,Quality and Conformity Commission,http://example.org/entity/2016,http://example.org/relation/set,http://example.org/entity/Quality_and_Conformity_Commission,entity
+2016,set,UAE,http://example.org/entity/2016,http://example.org/relation/set,http://example.org/entity/UAE,entity
+2016,test,Microsoft,http://example.org/entity/2016,http://example.org/relation/test,http://example.org/entity/Microsoft,entity
+2016,test,Twitter,http://example.org/entity/2016,http://example.org/relation/test,http://example.org/entity/Twitter,entity
+2017,detection,Encyclopedia of Database Systems,http://example.org/entity/2017,http://example.org/relation/detection,http://example.org/entity/Encyclopedia_of_Database_Systems,entity
+2017,detection,Springer New York,http://example.org/entity/2017,http://example.org/relation/detection,http://example.org/entity/Springer_New_York,entity
+2017,supersede,CSTB,http://example.org/entity/2017,http://example.org/relation/supersede,http://example.org/entity/CSTB,entity
+2017,supersede,France,http://example.org/entity/2017,http://example.org/relation/supersede,http://example.org/entity/France,entity
+2018,administer,the Association for the Development of Digital in Construction,http://example.org/entity/2018,http://example.org/relation/administer,http://example.org/entity/the_Association_for_the_Development_of_Digital_in_Construction,entity
+2018,announce,Belgrade,http://example.org/entity/2018,http://example.org/relation/announce,http://example.org/entity/Belgrade,entity
+2018,announce,Huawei,http://example.org/entity/2018,http://example.org/relation/announce,http://example.org/entity/Huawei,entity
+2018,announce,Serbia,http://example.org/entity/2018,http://example.org/relation/announce,http://example.org/entity/Serbia,entity
+2018,automationCongress,WAC,http://example.org/entity/2018,http://example.org/relation/automationCongress,http://example.org/entity/WAC,entity
+2018,begin,Kuala Lumpur,http://example.org/entity/2018,http://example.org/relation/begin,http://example.org/entity/Kuala_Lumpur,entity
+2018,drive,Uber,http://example.org/entity/2018,http://example.org/relation/drive,http://example.org/entity/Uber,entity
+2018,promote,the Ministry of Economic Affairs,http://example.org/entity/2018,http://example.org/relation/promote,http://example.org/entity/the_Ministry_of_Economic_Affairs,entity
+2019-04-01,archive,the Wayback Machine,http://example.org/entity/2019-04-01,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+2019-12-05,archive,28 November 2019,http://example.org/entity/2019-12-05,http://example.org/relation/archive,http://example.org/entity/28_November_2019,entity
+2019-12-05,archive,The Sun,http://example.org/entity/2019-12-05,http://example.org/relation/archive,http://example.org/entity/The_Sun,entity
+2020-07-28,externalLink,1982,http://example.org/entity/2020-07-28,http://example.org/relation/externalLink,,literal
+2020-07-28,externalLink,MIT,http://example.org/entity/2020-07-28,http://example.org/relation/externalLink,http://example.org/entity/MIT,entity
+2020-08-01,archive,CAEWatch,http://example.org/entity/2020-08-01,http://example.org/relation/archive,http://example.org/entity/CAEWatch,entity
+2020-08-01,archive,"September 12, 2011",http://example.org/entity/2020-08-01,http://example.org/relation/archive,http://example.org/entity/September_12%2C_2011,entity
+2020-08-01,archive,the Wayback Machine,http://example.org/entity/2020-08-01,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+2021,look,NIBS,http://example.org/entity/2021,http://example.org/relation/look,http://example.org/entity/NIBS,entity
+2021,look,the National Institute of Building Sciences,http://example.org/entity/2021,http://example.org/relation/look,http://example.org/entity/the_National_Institute_of_Building_Sciences,entity
+2022,forecast,New York City,http://example.org/entity/2022,http://example.org/relation/forecast,http://example.org/entity/New_York_City,entity
+2022,forecast,Singapore,http://example.org/entity/2022,http://example.org/relation/forecast,http://example.org/entity/Singapore,entity
+2022,forecast,Tokyo,http://example.org/entity/2022,http://example.org/relation/forecast,http://example.org/entity/Tokyo,entity
+2023,empower,Salisbury,http://example.org/entity/2023,http://example.org/relation/empower,http://example.org/entity/Salisbury,entity
+2024,exemplify,LLM,http://example.org/entity/2024,http://example.org/relation/exemplify,http://example.org/entity/LLM,entity
+2025,start,1 January 2019.[89][90,http://example.org/entity/2025,http://example.org/relation/start,http://example.org/entity/1_January_2019.%5B89%5D%5B90,entity
+2025-12-05,bC,Ehrlinger,http://example.org/entity/2025-12-05,http://example.org/relation/bC,http://example.org/entity/Ehrlinger,entity
+2025-12-05,bC,Lisa,http://example.org/entity/2025-12-05,http://example.org/relation/bC,http://example.org/entity/Lisa,entity
+2025-12-05,bC,Wöß,http://example.org/entity/2025-12-05,http://example.org/relation/bC,http://example.org/entity/W%C3%B6%C3%9F,entity
+22 December 2017,thesis,1970,http://example.org/entity/22_December_2017,http://example.org/relation/thesis,,literal
+22 December 2017,thesis,University of Edinburgh,http://example.org/entity/22_December_2017,http://example.org/relation/thesis,http://example.org/entity/University_of_Edinburgh,entity
+25 February 2021,archive,the Wayback Machine,http://example.org/entity/25_February_2021,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+26 April 2011,circulate,1956,http://example.org/entity/26_April_2011,http://example.org/relation/circulate,,literal
+27 January 2009,archive,2 November 2022,http://example.org/entity/27_January_2009,http://example.org/relation/archive,http://example.org/entity/2_November_2022,entity
+27 January 2009,archive,Kratzig,http://example.org/entity/27_January_2009,http://example.org/relation/archive,http://example.org/entity/Kratzig,entity
+27 January 2009,archive,the Wayback Machine,http://example.org/entity/27_January_2009,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+28 November 2019,archive,Nigeria,http://example.org/entity/28_November_2019,http://example.org/relation/archive,http://example.org/entity/Nigeria,entity
+28 November 2019,archive,The Sun,http://example.org/entity/28_November_2019,http://example.org/relation/archive,http://example.org/entity/The_Sun,entity
+31 January 2019,access,28 January 2024,http://example.org/entity/31_January_2019,http://example.org/relation/access,http://example.org/entity/28_January_2024,entity
+4,publish,January 2017,http://example.org/entity/4,http://example.org/relation/publish,http://example.org/entity/January_2017,entity
+4 June 2016,archive,the Wayback Machine,http://example.org/entity/4_June_2016,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+5 October 2012,archive,the Wayback Machine,http://example.org/entity/5_October_2012,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+6 March 2008,see,the Wayback Machine,http://example.org/entity/6_March_2008,http://example.org/relation/see,http://example.org/entity/the_Wayback_Machine,entity
+82,develop,Apollo,http://example.org/entity/82,http://example.org/relation/develop,http://example.org/entity/Apollo,entity
+AID,rename,"""Design Computing and Cognition",http://example.org/entity/AID,http://example.org/relation/rename,http://example.org/entity/%22Design_Computing_and_Cognition,entity
+AND Construction,found,2017,http://example.org/entity/AND_Construction,http://example.org/relation/found,,literal
+ASCN,advanceAcross,ASEAN,http://example.org/entity/ASCN,http://example.org/relation/advanceAcross,http://example.org/entity/ASEAN,entity
+ASP,script,Kerr,http://example.org/entity/ASP,http://example.org/relation/script,http://example.org/entity/Kerr,entity
+AT&T,launch,Cisco,http://example.org/entity/AT%26T,http://example.org/relation/launch,http://example.org/entity/Cisco,entity
+AT&T,launch,Deloitte,http://example.org/entity/AT%26T,http://example.org/relation/launch,http://example.org/entity/Deloitte,entity
+AT&T,launch,Ericsson,http://example.org/entity/AT%26T,http://example.org/relation/launch,http://example.org/entity/Ericsson,entity
+AT&T,launch,General Electric,http://example.org/entity/AT%26T,http://example.org/relation/launch,http://example.org/entity/General_Electric,entity
+AT&T Labs-Research,collaborationTeam,Big Chaos,http://example.org/entity/AT%26T_Labs-Research,http://example.org/relation/collaborationTeam,http://example.org/entity/Big_Chaos,entity
+AT&T Labs-Research,collaborationTeam,Pragmatic Theory,http://example.org/entity/AT%26T_Labs-Research,http://example.org/relation/collaborationTeam,http://example.org/entity/Pragmatic_Theory,entity
+Accuscore,license,ESPN,http://example.org/entity/Accuscore,http://example.org/relation/license,http://example.org/entity/ESPN,entity
+Acornsoft,cause,1984,http://example.org/entity/Acornsoft,http://example.org/relation/cause,,literal
+Airbnb,include,Amazon,http://example.org/entity/Airbnb,http://example.org/relation/include,http://example.org/entity/Amazon,entity
+Airbnb,include,Microsoft,http://example.org/entity/Airbnb,http://example.org/relation/include,http://example.org/entity/Microsoft,entity
+Airbnb,include,Uber,http://example.org/entity/Airbnb,http://example.org/relation/include,http://example.org/entity/Uber,entity
+Alexander Bain,propose,William James,http://example.org/entity/Alexander_Bain,http://example.org/relation/propose,http://example.org/entity/William_James,entity
+Alfredo,reconstruct,2002,http://example.org/entity/Alfredo,http://example.org/relation/reconstruct,,literal
+Alibaba,clash,China,http://example.org/entity/Alibaba,http://example.org/relation/clash,http://example.org/entity/China,entity
+Amazon,include,Uber,http://example.org/entity/Amazon,http://example.org/relation/include,http://example.org/entity/Uber,entity
+Amazon,socialNetworkSuch,Facebook,http://example.org/entity/Amazon,http://example.org/relation/socialNetworkSuch,http://example.org/entity/Facebook,entity
+Amazon,socialNetworkSuch,LinkedIn,http://example.org/entity/Amazon,http://example.org/relation/socialNetworkSuch,http://example.org/entity/LinkedIn,entity
+America,accord,David K. Owens,http://example.org/entity/America,http://example.org/relation/accord,http://example.org/entity/David_K._Owens,entity
+America,need,NARUC,http://example.org/entity/America,http://example.org/relation/need,http://example.org/entity/NARUC,entity
+Amsterdam,establish,Seoul,http://example.org/entity/Amsterdam,http://example.org/relation/establish,http://example.org/entity/Seoul,entity
+Andia,reconstruct,2002,http://example.org/entity/Andia,http://example.org/relation/reconstruct,,literal
+Andia,reconstruct,Alfredo,http://example.org/entity/Andia,http://example.org/relation/reconstruct,http://example.org/entity/Alfredo,entity
+Andrew Edmonds,create,Science in Finance Ltd,http://example.org/entity/Andrew_Edmonds,http://example.org/relation/create,http://example.org/entity/Science_in_Finance_Ltd,entity
+Andrew Edmonds,create,UK,http://example.org/entity/Andrew_Edmonds,http://example.org/relation/create,http://example.org/entity/UK,entity
+Apple,associate,Amazon,http://example.org/entity/Apple,http://example.org/relation/associate,http://example.org/entity/Amazon,entity
+Apple,socialNetworkSuch,LinkedIn,http://example.org/entity/Apple,http://example.org/relation/socialNetworkSuch,http://example.org/entity/LinkedIn,entity
+April 2016,publish,the UK Government,http://example.org/entity/April_2016,http://example.org/relation/publish,http://example.org/entity/the_UK_Government,entity
+Arthur Samuel,coin,1959,http://example.org/entity/Arthur_Samuel,http://example.org/relation/coin,,literal
+Associated General Contractors of America,require,US,http://example.org/entity/Associated_General_Contractors_of_America,http://example.org/relation/require,http://example.org/entity/US,entity
+Atari,cause,1980,http://example.org/entity/Atari,http://example.org/relation/cause,,literal
+Atari,cause,1984,http://example.org/entity/Atari,http://example.org/relation/cause,,literal
+Atari,cause,Acornsoft,http://example.org/entity/Atari,http://example.org/relation/cause,http://example.org/entity/Acornsoft,entity
+August 2004,estimate,Institute of Standards and Technology,http://example.org/entity/August_2004,http://example.org/relation/estimate,http://example.org/entity/Institute_of_Standards_and_Technology,entity
+August 2004,estimate,NIST,http://example.org/entity/August_2004,http://example.org/relation/estimate,http://example.org/entity/NIST,entity
+August 2004,estimate,US,http://example.org/entity/August_2004,http://example.org/relation/estimate,http://example.org/entity/US,entity
+Australia,moreThanYear,the late 1960s,http://example.org/entity/Australia,http://example.org/relation/moreThanYear,http://example.org/entity/the_late_1960s,entity
+Autodesk,dominate,Dassault Systèmes,http://example.org/entity/Autodesk,http://example.org/relation/dominate,http://example.org/entity/Dassault_Syst%C3%A8mes,entity
+Autodesk,dominate,PTC,http://example.org/entity/Autodesk,http://example.org/relation/dominate,http://example.org/entity/PTC,entity
+Autodesk,dominate,Siemens PLM Software,http://example.org/entity/Autodesk,http://example.org/relation/dominate,http://example.org/entity/Siemens_PLM_Software,entity
+Autodesk,help,Bentley Systems,http://example.org/entity/Autodesk,http://example.org/relation/help,http://example.org/entity/Bentley_Systems,entity
+Autodesk,help,Graphisoft,http://example.org/entity/Autodesk,http://example.org/relation/help,http://example.org/entity/Graphisoft,entity
+BCA,magazine,December 2011,http://example.org/entity/BCA,http://example.org/relation/magazine,http://example.org/entity/December_2011,entity
+BIM,enhance,Fashola,http://example.org/entity/BIM,http://example.org/relation/enhance,http://example.org/entity/Fashola,entity
+BIM,mustBecomeStandardConstruction,Germany,http://example.org/entity/BIM,http://example.org/relation/mustBecomeStandardConstruction,http://example.org/entity/Germany,entity
+BIM,pencil,2018,http://example.org/entity/BIM,http://example.org/relation/pencil,,literal
+BIM Africa Initiative,base,Nigeria,http://example.org/entity/BIM_Africa_Initiative,http://example.org/relation/base,http://example.org/entity/Nigeria,entity
+BIMaS,establish,January 2013,http://example.org/entity/BIMaS,http://example.org/relation/establish,http://example.org/entity/January_2013,entity
+BIMaS,support,Chamber of Architects,http://example.org/entity/BIMaS,http://example.org/relation/support,http://example.org/entity/Chamber_of_Architects,entity
+BIMaS,support,the Chamber of Civil Engineers,http://example.org/entity/BIMaS,http://example.org/relation/support,http://example.org/entity/the_Chamber_of_Civil_Engineers,entity
+BS2015,14th,Hyderabad,http://example.org/entity/BS2015,http://example.org/relation/14th,http://example.org/entity/Hyderabad,entity
+BS2015,14th,India,http://example.org/entity/BS2015,http://example.org/relation/14th,http://example.org/entity/India,entity
+BSI,launch,CDBB,http://example.org/entity/BSI,http://example.org/relation/launch,http://example.org/entity/CDBB,entity
+Baidu,clash,China,http://example.org/entity/Baidu,http://example.org/relation/clash,http://example.org/entity/China,entity
+Baidu,develop,Apollo,http://example.org/entity/Baidu,http://example.org/relation/develop,http://example.org/entity/Apollo,entity
+Banks,design,2009,http://example.org/entity/Banks,http://example.org/relation/design,,literal
+Barcelona,establish,ITeC,http://example.org/entity/Barcelona,http://example.org/relation/establish,http://example.org/entity/ITeC,entity
+Barcelona,professional,Spain,http://example.org/entity/Barcelona,http://example.org/relation/professional,http://example.org/entity/Spain,entity
+Basel,raise,Felix Platter Hospital[99,http://example.org/entity/Basel,http://example.org/relation/raise,http://example.org/entity/Felix_Platter_Hospital%5B99,entity
+Belgrade,conjunction,Huawei,http://example.org/entity/Belgrade,http://example.org/relation/conjunction,http://example.org/entity/Huawei,entity
+Bentley Systems,help,Graphisoft,http://example.org/entity/Bentley_Systems,http://example.org/relation/help,http://example.org/entity/Graphisoft,entity
+Bernard P. Zeigler,author,Phillip E. Hammonds,http://example.org/entity/Bernard_P._Zeigler,http://example.org/relation/author,http://example.org/entity/Phillip_E._Hammonds,entity
+Berry,get,Christopher R.,http://example.org/entity/Berry,http://example.org/relation/get,http://example.org/entity/Christopher_R.,entity
+Big Chaos,build,Pragmatic Theory,http://example.org/entity/Big_Chaos,http://example.org/relation/build,http://example.org/entity/Pragmatic_Theory,entity
+Bill East,devise,the United States Army Corps of Engineers,http://example.org/entity/Bill_East,http://example.org/relation/devise,http://example.org/entity/the_United_States_Army_Corps_of_Engineers,entity
+Bing,associate,Yahoo,http://example.org/entity/Bing,http://example.org/relation/associate,http://example.org/entity/Yahoo,entity
+Bischof,prove,Pfurtscheller[30,http://example.org/entity/Bischof,http://example.org/relation/prove,http://example.org/entity/Pfurtscheller%5B30,entity
+Bloomberg Philanthropies,launch,the Rockefeller Foundation,http://example.org/entity/Bloomberg_Philanthropies,http://example.org/relation/launch,http://example.org/entity/the_Rockefeller_Foundation,entity
+Bloomberg Philanthropies,launch,the United States Department of Transportation.[21,http://example.org/entity/Bloomberg_Philanthropies,http://example.org/relation/launch,http://example.org/entity/the_United_States_Department_of_Transportation.%5B21,entity
+Boston,televisionRadioStation,Polshek Partnership,http://example.org/entity/Boston,http://example.org/relation/televisionRadioStation,http://example.org/entity/Polshek_Partnership,entity
+Boston,televisionRadioStation,WGBH,http://example.org/entity/Boston,http://example.org/relation/televisionRadioStation,http://example.org/entity/WGBH,entity
+British Standards Institute,initiative,UK,http://example.org/entity/British_Standards_Institute,http://example.org/relation/initiative,http://example.org/entity/UK,entity
+Bruzzone A.G.,base,Guide to Simulation-Based Disciplines,http://example.org/entity/Bruzzone_A.G.,http://example.org/relation/base,http://example.org/entity/Guide_to_Simulation-Based_Disciplines,entity
+Brydges,etAl,2013,http://example.org/entity/Brydges,http://example.org/relation/etAl,,literal
+BuildSmart,archive,2 November 2013,http://example.org/entity/BuildSmart,http://example.org/relation/archive,http://example.org/entity/2_November_2013,entity
+BuildSmart,archive,BCA,http://example.org/entity/BuildSmart,http://example.org/relation/archive,http://example.org/entity/BCA,entity
+BuildSmart,archive,the Wayback Machine,http://example.org/entity/BuildSmart,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+Building and Construction Authority,announce,BCA,http://example.org/entity/Building_and_Construction_Authority,http://example.org/relation/announce,http://example.org/entity/BCA,entity
+BuildingSmart Hong Kong,inaugurate,Hong Kong,http://example.org/entity/BuildingSmart_Hong_Kong,http://example.org/relation/inaugurate,http://example.org/entity/Hong_Kong,entity
+BuildingSmart Hong Kong,inaugurate,late April 2012.[62,http://example.org/entity/BuildingSmart_Hong_Kong,http://example.org/relation/inaugurate,http://example.org/entity/late_April_2012.%5B62,entity
+C. A. Brebbia,digitalArchitectureConstructionAbstract,S. Hatzellis,http://example.org/entity/C._A._Brebbia,http://example.org/relation/digitalArchitectureConstructionAbstract,http://example.org/entity/S._Hatzellis,entity
+C. A. Brebbia,digitalArchitectureConstructionAbstract,University of Technology,http://example.org/entity/C._A._Brebbia,http://example.org/relation/digitalArchitectureConstructionAbstract,http://example.org/entity/University_of_Technology,entity
+CAEWatch,archive,"September 12, 2011",http://example.org/entity/CAEWatch,http://example.org/relation/archive,http://example.org/entity/September_12%2C_2011,entity
+CANBIM,found,the Institute for BIM,http://example.org/entity/CANBIM,http://example.org/relation/found,http://example.org/entity/the_Institute_for_BIM,entity
+CDBB,launch,the BSI Group,http://example.org/entity/CDBB,http://example.org/relation/launch,http://example.org/entity/the_BSI_Group,entity
+CDBB,launch,the UK BIM Alliance[a,http://example.org/entity/CDBB,http://example.org/relation/launch,http://example.org/entity/the_UK_BIM_Alliance%5Ba,entity
+CDBB,launch,the UK BIM Framework,http://example.org/entity/CDBB,http://example.org/relation/launch,http://example.org/entity/the_UK_BIM_Framework,entity
+CIA,incorporate,Wikidata,http://example.org/entity/CIA,http://example.org/relation/incorporate,http://example.org/entity/Wikidata,entity
+CRIDA,include,"Faculty of Architecture, Building and Planning",http://example.org/entity/CRIDA,http://example.org/relation/include,http://example.org/entity/Faculty_of_Architecture%2C_Building_and_Planning,entity
+CRIDA,include,University of Melbourne,http://example.org/entity/CRIDA,http://example.org/relation/include,http://example.org/entity/University_of_Melbourne,entity
+CSTB,supersede,France,http://example.org/entity/CSTB,http://example.org/relation/supersede,http://example.org/entity/France,entity
+CT197-BIM,create,Portugal,http://example.org/entity/CT197-BIM,http://example.org/relation/create,http://example.org/entity/Portugal,entity
+Cambridge,base,Centre for Digital Built Britain,http://example.org/entity/Cambridge,http://example.org/relation/base,http://example.org/entity/Centre_for_Digital_Built_Britain,entity
+Cambridge,base,December 2017,http://example.org/entity/Cambridge,http://example.org/relation/base,http://example.org/entity/December_2017,entity
+Cambridge,reprint,1991,http://example.org/entity/Cambridge,http://example.org/relation/reprint,,literal
+Cambridge,reprint,MA,http://example.org/entity/Cambridge,http://example.org/relation/reprint,http://example.org/entity/MA,entity
+Canada,found,the Institute for BIM,http://example.org/entity/Canada,http://example.org/relation/found,http://example.org/entity/the_Institute_for_BIM,entity
+Canada,paper,Bank of Canada,http://example.org/entity/Canada,http://example.org/relation/paper,http://example.org/entity/Bank_of_Canada,entity
+Canada,support,CANBIM,http://example.org/entity/Canada,http://example.org/relation/support,http://example.org/entity/CANBIM,entity
+Canada,support,the Canada BIM Council,http://example.org/entity/Canada,http://example.org/relation/support,http://example.org/entity/the_Canada_BIM_Council,entity
+Carnegie Mellon,include,Department of Computer Science,http://example.org/entity/Carnegie_Mellon,http://example.org/relation/include,http://example.org/entity/Department_of_Computer_Science,entity
+Carnegie Mellon,include,University College London,http://example.org/entity/Carnegie_Mellon,http://example.org/relation/include,http://example.org/entity/University_College_London,entity
+Celestino Soddu,paper,Generative Art Design Papers,http://example.org/entity/Celestino_Soddu,http://example.org/relation/paper,http://example.org/entity/Generative_Art_Design_Papers,entity
+Centre for Digital Built Britain,announce,December 2017,http://example.org/entity/Centre_for_Digital_Built_Britain,http://example.org/relation/announce,http://example.org/entity/December_2017,entity
+Centre for Digital Built Britain,announce,early 2018.[108,http://example.org/entity/Centre_for_Digital_Built_Britain,http://example.org/relation/announce,http://example.org/entity/early_2018.%5B108,entity
+Chan,enable,3 April 2017,http://example.org/entity/Chan,http://example.org/relation/enable,http://example.org/entity/3_April_2017,entity
+Chan,enable,Karin,http://example.org/entity/Chan,http://example.org/relation/enable,http://example.org/entity/Karin,entity
+Chicoutimi,researchTeamOutdoorResearch,Laboratoire d'Expertise et de Recherche en Plein Air,http://example.org/entity/Chicoutimi,http://example.org/relation/researchTeamOutdoorResearch,http://example.org/entity/Laboratoire_d%27Expertise_et_de_Recherche_en_Plein_Air,entity
+China,during,Eleventh,http://example.org/entity/China,http://example.org/relation/during,http://example.org/entity/Eleventh,entity
+China,during,Five-Year Plan,http://example.org/entity/China,http://example.org/relation/during,http://example.org/entity/Five-Year_Plan,entity
+China,include,2014-2020,http://example.org/entity/China,http://example.org/relation/include,http://example.org/entity/2014-2020,entity
+Christmas,themeAround,Santa Claus,http://example.org/entity/Christmas,http://example.org/relation/themeAround,http://example.org/entity/Santa_Claus,entity
+Cisco,launch,Deloitte,http://example.org/entity/Cisco,http://example.org/relation/launch,http://example.org/entity/Deloitte,entity
+Cisco,launch,Ericsson,http://example.org/entity/Cisco,http://example.org/relation/launch,http://example.org/entity/Ericsson,entity
+Cisco,launch,General Electric,http://example.org/entity/Cisco,http://example.org/relation/launch,http://example.org/entity/General_Electric,entity
+Cisco,launch,IBM,http://example.org/entity/Cisco,http://example.org/relation/launch,http://example.org/entity/IBM,entity
+Cisco,launch,Intel,http://example.org/entity/Cisco,http://example.org/relation/launch,http://example.org/entity/Intel,entity
+Cisco Systems,establish,the Clinton Foundation,http://example.org/entity/Cisco_Systems,http://example.org/relation/establish,http://example.org/entity/the_Clinton_Foundation,entity
+Commission for Racial Equality,find,St. George's Medical School,http://example.org/entity/Commission_for_Racial_Equality,http://example.org/relation/find,http://example.org/entity/St._George%27s_Medical_School,entity
+Computational Logic,reprint,1991,http://example.org/entity/Computational_Logic,http://example.org/relation/reprint,,literal
+Computational Logic,reprint,Cambridge,http://example.org/entity/Computational_Logic,http://example.org/relation/reprint,http://example.org/entity/Cambridge,entity
+Computational Logic,reprint,MA,http://example.org/entity/Computational_Logic,http://example.org/relation/reprint,http://example.org/entity/MA,entity
+Computational Logic,reprint,The MIT Press,http://example.org/entity/Computational_Logic,http://example.org/relation/reprint,http://example.org/entity/The_MIT_Press,entity
+Critical Research in Digital Architecture,include,CRIDA,http://example.org/entity/Critical_Research_in_Digital_Architecture,http://example.org/relation/include,http://example.org/entity/CRIDA,entity
+Critical Research in Digital Architecture,include,"Faculty of Architecture, Building and Planning",http://example.org/entity/Critical_Research_in_Digital_Architecture,http://example.org/relation/include,http://example.org/entity/Faculty_of_Architecture%2C_Building_and_Planning,entity
+Critical Research in Digital Architecture,include,University of Melbourne,http://example.org/entity/Critical_Research_in_Digital_Architecture,http://example.org/relation/include,http://example.org/entity/University_of_Melbourne,entity
+Czech Republic,establish,May 2011,http://example.org/entity/Czech_Republic,http://example.org/relation/establish,http://example.org/entity/May_2011,entity
+DBpedia,focus,Freebase,http://example.org/entity/DBpedia,http://example.org/relation/focus,http://example.org/entity/Freebase,entity
+DBpedia,focus,Wikipedia,http://example.org/entity/DBpedia,http://example.org/relation/focus,http://example.org/entity/Wikipedia,entity
+DBpedia,found,Freebase,http://example.org/entity/DBpedia,http://example.org/relation/found,http://example.org/entity/Freebase,entity
+DBpedia,introduce,Freebase,http://example.org/entity/DBpedia,http://example.org/relation/introduce,http://example.org/entity/Freebase,entity
+Dahua Technology,market,Huawei,http://example.org/entity/Dahua_Technology,http://example.org/relation/market,http://example.org/entity/Huawei,entity
+Dahua Technology,market,ZTE,http://example.org/entity/Dahua_Technology,http://example.org/relation/market,http://example.org/entity/ZTE,entity
+Dassault Systèmes,dominate,PTC,http://example.org/entity/Dassault_Syst%C3%A8mes,http://example.org/relation/dominate,http://example.org/entity/PTC,entity
+Dassault Systèmes,dominate,Siemens PLM Software,http://example.org/entity/Dassault_Syst%C3%A8mes,http://example.org/relation/dominate,http://example.org/entity/Siemens_PLM_Software,entity
+David K. Owens,formerExecutiveVicePresident,the Edison Electric Institute,http://example.org/entity/David_K._Owens,http://example.org/relation/formerExecutiveVicePresident,http://example.org/entity/the_Edison_Electric_Institute,entity
+David Rumelhart,continue,Geoffrey Hinton,http://example.org/entity/David_Rumelhart,http://example.org/relation/continue,http://example.org/entity/Geoffrey_Hinton,entity
+Deakin,hamper,Al Waer,http://example.org/entity/Deakin,http://example.org/relation/hamper,http://example.org/entity/Al_Waer,entity
+December 2011,approve,National Institute of Building Sciences,http://example.org/entity/December_2011,http://example.org/relation/approve,http://example.org/entity/National_Institute_of_Building_Sciences,entity
+December 2011,approve,US,http://example.org/entity/December_2011,http://example.org/relation/approve,http://example.org/entity/US,entity
+December 2015,germanMinisterTransport,Alexander Dobrindt,http://example.org/entity/December_2015,http://example.org/relation/germanMinisterTransport,http://example.org/entity/Alexander_Dobrindt,entity
+December 2017,launch,early 2018.[108,http://example.org/entity/December_2017,http://example.org/relation/launch,http://example.org/entity/early_2018.%5B108,entity
+Deloitte,launch,Ericsson,http://example.org/entity/Deloitte,http://example.org/relation/launch,http://example.org/entity/Ericsson,entity
+Deloitte,launch,General Electric,http://example.org/entity/Deloitte,http://example.org/relation/launch,http://example.org/entity/General_Electric,entity
+Deloitte,launch,IBM,http://example.org/entity/Deloitte,http://example.org/relation/launch,http://example.org/entity/IBM,entity
+Deloitte,launch,Intel,http://example.org/entity/Deloitte,http://example.org/relation/launch,http://example.org/entity/Intel,entity
+Department of Computer Science,include,University College London,http://example.org/entity/Department_of_Computer_Science,http://example.org/relation/include,http://example.org/entity/University_College_London,entity
+Design and Computation,know,MIT,http://example.org/entity/Design_and_Computation,http://example.org/relation/know,http://example.org/entity/MIT,entity
+Design and Computation,know,the Massachusetts Institute of Technology,http://example.org/entity/Design_and_Computation,http://example.org/relation/know,http://example.org/entity/the_Massachusetts_Institute_of_Technology,entity
+Digitaalehituse Klaster,form,2015,http://example.org/entity/Digitaalehituse_Klaster,http://example.org/relation/form,,literal
+Digital Construction in Lithuania,hold,2012,http://example.org/entity/Digital_Construction_in_Lithuania,http://example.org/relation/hold,,literal
+Digital Construction in Lithuania,hold,annually,http://example.org/entity/Digital_Construction_in_Lithuania,http://example.org/relation/hold,http://example.org/entity/annually,entity
+Disney,follow,Universal,http://example.org/entity/Disney,http://example.org/relation/follow,http://example.org/entity/Universal,entity
+Domingos,chapter,2015,http://example.org/entity/Domingos,http://example.org/relation/chapter,,literal
+Duda,continue,Hart,http://example.org/entity/Duda,http://example.org/relation/continue,http://example.org/entity/Hart,entity
+ERANet,project,FinSESCo,http://example.org/entity/ERANet,http://example.org/relation/project,http://example.org/entity/FinSESCo,entity
+Economist,provide,2012,http://example.org/entity/Economist,http://example.org/relation/provide,,literal
+Eder-Van Hook,note,2004,http://example.org/entity/Eder-Van_Hook,http://example.org/relation/note,,literal
+Edward Bellamy,include,Frank Lloyd Wright,http://example.org/entity/Edward_Bellamy,http://example.org/relation/include,http://example.org/entity/Frank_Lloyd_Wright,entity
+Edward Bellamy,include,Le Corbusier.[45][49,http://example.org/entity/Edward_Bellamy,http://example.org/relation/include,http://example.org/entity/Le_Corbusier.%5B45%5D%5B49,entity
+Edward L.,get,Berry,http://example.org/entity/Edward_L.,http://example.org/relation/get,http://example.org/entity/Berry,entity
+Edward L.,get,Christopher R.,http://example.org/entity/Edward_L.,http://example.org/relation/get,http://example.org/entity/Christopher_R.,entity
+Ehrlinger,retrieve,2016,http://example.org/entity/Ehrlinger,http://example.org/relation/retrieve,,literal
+Ehrlinger,retrieve,Lisa,http://example.org/entity/Ehrlinger,http://example.org/relation/retrieve,http://example.org/entity/Lisa,entity
+Ehrlinger,retrieve,Wolfram,http://example.org/entity/Ehrlinger,http://example.org/relation/retrieve,http://example.org/entity/Wolfram,entity
+Ehrlinger,retrieve,Wöß,http://example.org/entity/Ehrlinger,http://example.org/relation/retrieve,http://example.org/entity/W%C3%B6%C3%9F,entity
+Ehud Y.,archive,21 August 2021,http://example.org/entity/Ehud_Y.,http://example.org/relation/archive,http://example.org/entity/21_August_2021,entity
+Ehud Y.,archive,the Wayback Machine,http://example.org/entity/Ehud_Y.,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+Erich,detection,Encyclopedia of Database Systems,http://example.org/entity/Erich,http://example.org/relation/detection,http://example.org/entity/Encyclopedia_of_Database_Systems,entity
+Ericsson,launch,General Electric,http://example.org/entity/Ericsson,http://example.org/relation/launch,http://example.org/entity/General_Electric,entity
+Ericsson,launch,IBM,http://example.org/entity/Ericsson,http://example.org/relation/launch,http://example.org/entity/IBM,entity
+Ericsson,launch,Intel,http://example.org/entity/Ericsson,http://example.org/relation/launch,http://example.org/entity/Intel,entity
+Estonia,digitalConstructionCluster,Digitaalehituse Klaster,http://example.org/entity/Estonia,http://example.org/relation/digitalConstructionCluster,http://example.org/entity/Digitaalehituse_Klaster,entity
+Estonia,form,2015,http://example.org/entity/Estonia,http://example.org/relation/form,,literal
+European BIM,show,France,http://example.org/entity/European_BIM,http://example.org/relation/show,http://example.org/entity/France,entity
+European Structural and Investment Funds,through,Enterprise Estonia,http://example.org/entity/European_Structural_and_Investment_Funds,http://example.org/relation/through,http://example.org/entity/Enterprise_Estonia,entity
+Facebook,include,Airbnb,http://example.org/entity/Facebook,http://example.org/relation/include,http://example.org/entity/Airbnb,entity
+Facebook,include,Amazon,http://example.org/entity/Facebook,http://example.org/relation/include,http://example.org/entity/Amazon,entity
+Facebook,include,LinkedIn,http://example.org/entity/Facebook,http://example.org/relation/include,http://example.org/entity/LinkedIn,entity
+Facebook,include,Microsoft,http://example.org/entity/Facebook,http://example.org/relation/include,http://example.org/entity/Microsoft,entity
+Facebook,include,Uber,http://example.org/entity/Facebook,http://example.org/relation/include,http://example.org/entity/Uber,entity
+"Faculty of Architecture, Building and Planning",include,Carnegie Mellon,http://example.org/entity/Faculty_of_Architecture%2C_Building_and_Planning,http://example.org/relation/include,http://example.org/entity/Carnegie_Mellon,entity
+"Faculty of Architecture, Building and Planning",include,School of Architecture,http://example.org/entity/Faculty_of_Architecture%2C_Building_and_Planning,http://example.org/relation/include,http://example.org/entity/School_of_Architecture,entity
+"Faculty of Architecture, Building and Planning",include,University of Melbourne,http://example.org/entity/Faculty_of_Architecture%2C_Building_and_Planning,http://example.org/relation/include,http://example.org/entity/University_of_Melbourne,entity
+February 2015,summit,Barcelona,http://example.org/entity/February_2015,http://example.org/relation/summit,http://example.org/entity/Barcelona,entity
+February 2015,summitProfessional,Spain,http://example.org/entity/February_2015,http://example.org/relation/summitProfessional,http://example.org/entity/Spain,entity
+February 2016,recommend,Infrastructure Australia,http://example.org/entity/February_2016,http://example.org/relation/recommend,http://example.org/entity/Infrastructure_Australia,entity
+Feng,see,"January 9, 2022",http://example.org/entity/Feng,http://example.org/relation/see,http://example.org/entity/January_9%2C_2022,entity
+Feng,see,Shen,http://example.org/entity/Feng,http://example.org/relation/see,http://example.org/entity/Shen,entity
+Feng,see,Zheng,http://example.org/entity/Feng,http://example.org/relation/see,http://example.org/entity/Zheng,entity
+Ford,use,« Siemens PLM Software Blog,http://example.org/entity/Ford,http://example.org/relation/use,http://example.org/entity/%C2%AB_Siemens_PLM_Software_Blog,entity
+France,lastPlaceGovernmentSupport,2017,http://example.org/entity/France,http://example.org/relation/lastPlaceGovernmentSupport,,literal
+Francis Bacon,fade,1597,http://example.org/entity/Francis_Bacon,http://example.org/relation/fade,,literal
+Frank Lloyd Wright,include,Le Corbusier.[45][49,http://example.org/entity/Frank_Lloyd_Wright,http://example.org/relation/include,http://example.org/entity/Le_Corbusier.%5B45%5D%5B49,entity
+Friedman,view,1998,http://example.org/entity/Friedman,http://example.org/relation/view,,literal
+Friedman,view,Jerome H.,http://example.org/entity/Friedman,http://example.org/relation/view,http://example.org/entity/Jerome_H.,entity
+Fuller,explanationSynergeticGeometry,R. Buckminster Fuller,http://example.org/entity/Fuller,http://example.org/relation/explanationSynergeticGeometry,http://example.org/entity/R._Buckminster_Fuller,entity
+G.A. van Nederveen,appear,F. P. Tolman.[16,http://example.org/entity/G.A._van_Nederveen,http://example.org/relation/appear,http://example.org/entity/F._P._Tolman.%5B16,entity
+GMW,employee,Jonathan Ingram,http://example.org/entity/GMW,http://example.org/relation/employee,http://example.org/entity/Jonathan_Ingram,entity
+General Electric,launch,IBM,http://example.org/entity/General_Electric,http://example.org/relation/launch,http://example.org/entity/IBM,entity
+General Electric,launch,Intel,http://example.org/entity/General_Electric,http://example.org/relation/launch,http://example.org/entity/Intel,entity
+Georgia Tech,approve,the American Institute of Steel Construction,http://example.org/entity/Georgia_Tech,http://example.org/relation/approve,http://example.org/entity/the_American_Institute_of_Steel_Construction,entity
+Gerhard Schmitt,choose,Birger Sevaldson,http://example.org/entity/Gerhard_Schmitt,http://example.org/relation/choose,http://example.org/entity/Birger_Sevaldson,entity
+Germany,confirm,2020,http://example.org/entity/Germany,http://example.org/relation/confirm,,literal
+Germany,say,two to three years,http://example.org/entity/Germany,http://example.org/relation/say,http://example.org/entity/two_to_three_years,entity
+Germany,yearBehind,The Netherlands,http://example.org/entity/Germany,http://example.org/relation/yearBehind,http://example.org/entity/The_Netherlands,entity
+Germany,yearBehind,UK,http://example.org/entity/Germany,http://example.org/relation/yearBehind,http://example.org/entity/UK,entity
+Glaeser,get,Berry,http://example.org/entity/Glaeser,http://example.org/relation/get,http://example.org/entity/Berry,entity
+Glaeser,get,Christopher R.,http://example.org/entity/Glaeser,http://example.org/relation/get,http://example.org/entity/Christopher_R.,entity
+Glaeser,get,Edward L.,http://example.org/entity/Glaeser,http://example.org/relation/get,http://example.org/entity/Edward_L.,entity
+Google,achieve,Harvard U,http://example.org/entity/Google,http://example.org/relation/achieve,http://example.org/entity/Harvard_U,entity
+Google,achieve,Purdue,http://example.org/entity/Google,http://example.org/relation/achieve,http://example.org/entity/Purdue,entity
+Google,associate,Bing,http://example.org/entity/Google,http://example.org/relation/associate,http://example.org/entity/Bing,entity
+Google,associate,Yahoo,http://example.org/entity/Google,http://example.org/relation/associate,http://example.org/entity/Yahoo,entity
+Google,include,IBM,http://example.org/entity/Google,http://example.org/relation/include,http://example.org/entity/IBM,entity
+Google,introduce,DBpedia,http://example.org/entity/Google,http://example.org/relation/introduce,http://example.org/entity/DBpedia,entity
+Google,introduce,Freebase,http://example.org/entity/Google,http://example.org/relation/introduce,http://example.org/entity/Freebase,entity
+Google,use,LinkedIn,http://example.org/entity/Google,http://example.org/relation/use,http://example.org/entity/LinkedIn,entity
+Google,use,Microsoft,http://example.org/entity/Google,http://example.org/relation/use,http://example.org/entity/Microsoft,entity
+Google Cloud AI,serviceLargeScaleMachine,Google,http://example.org/entity/Google_Cloud_AI,http://example.org/relation/serviceLargeScaleMachine,http://example.org/entity/Google,entity
+Gordon Plotkin,lay,Ehud Shapiro,http://example.org/entity/Gordon_Plotkin,http://example.org/relation/lay,http://example.org/entity/Ehud_Shapiro,entity
+Graphisoft,acknowledge,Jonathan Ingram,http://example.org/entity/Graphisoft,http://example.org/relation/acknowledge,http://example.org/entity/Jonathan_Ingram,entity
+Graphisoft,developThan,Laiserin,http://example.org/entity/Graphisoft,http://example.org/relation/developThan,http://example.org/entity/Laiserin,entity
+Graphisoft,founder,Gábor Bojár,http://example.org/entity/Graphisoft,http://example.org/relation/founder,http://example.org/entity/G%C3%A1bor_Boj%C3%A1r,entity
+Graphisoft,otherIndustryObserver200320Unreliable,Jerry Laiserin,http://example.org/entity/Graphisoft,http://example.org/relation/otherIndustryObserver200320Unreliable,http://example.org/entity/Jerry_Laiserin,entity
+Greg Lynn,choose,Gerhard Schmitt,http://example.org/entity/Greg_Lynn,http://example.org/relation/choose,http://example.org/entity/Gerhard_Schmitt,entity
+Greg Lynn,choose,Greg Lynn FORM,http://example.org/entity/Greg_Lynn,http://example.org/relation/choose,http://example.org/entity/Greg_Lynn_FORM,entity
+Greg Lynn,choose,Jacob van Rijs,http://example.org/entity/Greg_Lynn,http://example.org/relation/choose,http://example.org/entity/Jacob_van_Rijs,entity
+Greg Lynn,choose,MVRDV,http://example.org/entity/Greg_Lynn,http://example.org/relation/choose,http://example.org/entity/MVRDV,entity
+Greg Lynn FORM,choose,Birger Sevaldson,http://example.org/entity/Greg_Lynn_FORM,http://example.org/relation/choose,http://example.org/entity/Birger_Sevaldson,entity
+Greg Lynn FORM,choose,Gerhard Schmitt,http://example.org/entity/Greg_Lynn_FORM,http://example.org/relation/choose,http://example.org/entity/Gerhard_Schmitt,entity
+Greg Lynn FORM,choose,Jacob van Rijs,http://example.org/entity/Greg_Lynn_FORM,http://example.org/relation/choose,http://example.org/entity/Jacob_van_Rijs,entity
+Greg Lynn FORM,choose,MVRDV,http://example.org/entity/Greg_Lynn_FORM,http://example.org/relation/choose,http://example.org/entity/MVRDV,entity
+Gábor Bojár,acknowledge,Jonathan Ingram,http://example.org/entity/G%C3%A1bor_Boj%C3%A1r,http://example.org/relation/acknowledge,http://example.org/entity/Jonathan_Ingram,entity
+Hamstra,etAl,2013,http://example.org/entity/Hamstra,http://example.org/relation/etAl,,literal
+Helsinki,planCarbonNeutral,2030,http://example.org/entity/Helsinki,http://example.org/relation/planCarbonNeutral,,literal
+Hong Kong,inaugurate,late April 2012.[62,http://example.org/entity/Hong_Kong,http://example.org/relation/inaugurate,http://example.org/entity/late_April_2012.%5B62,entity
+Hong Kong,introduce,2006,http://example.org/entity/Hong_Kong,http://example.org/relation/introduce,,literal
+Hong Kong,introduce,the Hong Kong Housing Authority,http://example.org/entity/Hong_Kong,http://example.org/relation/introduce,http://example.org/entity/the_Hong_Kong_Housing_Authority,entity
+Huawei,market,ZTE,http://example.org/entity/Huawei,http://example.org/relation/market,http://example.org/entity/ZTE,entity
+IBIMA,found,2012,http://example.org/entity/IBIMA,http://example.org/relation/found,,literal
+IBIMA,found,Iran,http://example.org/entity/IBIMA,http://example.org/relation/found,http://example.org/entity/Iran,entity
+IBM,failAfter,years,http://example.org/entity/IBM,http://example.org/relation/failAfter,http://example.org/entity/years,entity
+IBM,include,Google,http://example.org/entity/IBM,http://example.org/relation/include,http://example.org/entity/Google,entity
+IBM,launch,Intel,http://example.org/entity/IBM,http://example.org/relation/launch,http://example.org/entity/Intel,entity
+IBM,recommend,STAT,http://example.org/entity/IBM,http://example.org/relation/recommend,http://example.org/entity/STAT,entity
+IBM,recommend,Watson,http://example.org/entity/IBM,http://example.org/relation/recommend,http://example.org/entity/Watson,entity
+IDC,forecast,2022,http://example.org/entity/IDC,http://example.org/relation/forecast,,literal
+Innovation,automate,Helsinki,http://example.org/entity/Innovation,http://example.org/relation/automate,http://example.org/entity/Helsinki,entity
+Innovation,planCarbonNeutral,2030,http://example.org/entity/Innovation,http://example.org/relation/planCarbonNeutral,,literal
+Institute of Standards and Technology,estimate,NIST,http://example.org/entity/Institute_of_Standards_and_Technology,http://example.org/relation/estimate,http://example.org/entity/NIST,entity
+Institute of Standards and Technology,estimate,annually,http://example.org/entity/Institute_of_Standards_and_Technology,http://example.org/relation/estimate,http://example.org/entity/annually,entity
+Iran,include,Amirkabir University of Technology.[67,http://example.org/entity/Iran,http://example.org/relation/include,http://example.org/entity/Amirkabir_University_of_Technology.%5B67,entity
+Iran,include,the Civil and Environmental Engineering Department,http://example.org/entity/Iran,http://example.org/relation/include,http://example.org/entity/the_Civil_and_Environmental_Engineering_Department,entity
+Iran,preliminaryResult,September 2016,http://example.org/entity/Iran,http://example.org/relation/preliminaryResult,http://example.org/entity/September_2016,entity
+Ireland,pilot,Department for Public Expenditure and Reform,http://example.org/entity/Ireland,http://example.org/relation/pilot,http://example.org/entity/Department_for_Public_Expenditure_and_Reform,entity
+Ireland,pilot,November 2017,http://example.org/entity/Ireland,http://example.org/relation/pilot,http://example.org/entity/November_2017,entity
+J.-L. Lassez,reprint,Computational Logic,http://example.org/entity/J.-L._Lassez,http://example.org/relation/reprint,http://example.org/entity/Computational_Logic,entity
+J.-L. Lassez,reprint,Plotkin,http://example.org/entity/J.-L._Lassez,http://example.org/relation/reprint,http://example.org/entity/Plotkin,entity
+J.-L. Lassez,reprint,The MIT Press,http://example.org/entity/J.-L._Lassez,http://example.org/relation/reprint,http://example.org/entity/The_MIT_Press,entity
+JIA,release,2012,http://example.org/entity/JIA,http://example.org/relation/release,,literal
+Jacob van Rijs,choose,Birger Sevaldson,http://example.org/entity/Jacob_van_Rijs,http://example.org/relation/choose,http://example.org/entity/Birger_Sevaldson,entity
+Jacob van Rijs,choose,Gerhard Schmitt,http://example.org/entity/Jacob_van_Rijs,http://example.org/relation/choose,http://example.org/entity/Gerhard_Schmitt,entity
+Jacob van Rijs,choose,MVRDV,http://example.org/entity/Jacob_van_Rijs,http://example.org/relation/choose,http://example.org/entity/MVRDV,entity
+January 2017,followWithin,a year,http://example.org/entity/January_2017,http://example.org/relation/followWithin,http://example.org/entity/a_year,entity
+January 2019,publish,ISO,http://example.org/entity/January_2019,http://example.org/relation/publish,http://example.org/entity/ISO,entity
+Japan Institute of Architects,release,2012,http://example.org/entity/Japan_Institute_of_Architects,http://example.org/relation/release,,literal
+Japan Institute of Architects,release,JIA,http://example.org/entity/Japan_Institute_of_Architects,http://example.org/relation/release,http://example.org/entity/JIA,entity
+Jerome H.,view,1998,http://example.org/entity/Jerome_H.,http://example.org/relation/view,,literal
+Jerry,foreword,Eastman,http://example.org/entity/Jerry,http://example.org/relation/foreword,http://example.org/entity/Eastman,entity
+Jie,etAl,2020,http://example.org/entity/Jie,http://example.org/relation/etAl,,literal
+John Fontana,pull,4 Dec 2007,http://example.org/entity/John_Fontana,http://example.org/relation/pull,http://example.org/entity/4_Dec_2007,entity
+John Hopfield,continue,David Rumelhart,http://example.org/entity/John_Hopfield,http://example.org/relation/continue,http://example.org/entity/David_Rumelhart,entity
+John Hopfield,continue,Geoffrey Hinton,http://example.org/entity/John_Hopfield,http://example.org/relation/continue,http://example.org/entity/Geoffrey_Hinton,entity
+John Maeda,designNumber,2001,http://example.org/entity/John_Maeda,http://example.org/relation/designNumber,,literal
+John Maeda,designNumber,MIT Press,http://example.org/entity/John_Maeda,http://example.org/relation/designNumber,http://example.org/entity/MIT_Press,entity
+Jonathan Ingram,openLetterAdvanced,1986,http://example.org/entity/Jonathan_Ingram,http://example.org/relation/openLetterAdvanced,,literal
+July 2015,meeting,Ministry of Infrastructure,http://example.org/entity/July_2015,http://example.org/relation/meeting,http://example.org/entity/Ministry_of_Infrastructure,entity
+July 2015,meeting,Spain,http://example.org/entity/July_2015,http://example.org/relation/meeting,http://example.org/entity/Spain,entity
+June 2011,publish,UK,http://example.org/entity/June_2011,http://example.org/relation/publish,http://example.org/entity/UK,entity
+KCDC,know,the Design Lab,http://example.org/entity/KCDC,http://example.org/relation/know,http://example.org/entity/the_Design_Lab,entity
+KCDC,know,the University of Sydney,http://example.org/entity/KCDC,http://example.org/relation/know,http://example.org/entity/the_University_of_Sydney,entity
+Karin,enable,3 April 2017,http://example.org/entity/Karin,http://example.org/relation/enable,http://example.org/entity/3_April_2017,entity
+Keinrath,prove,Bischof,http://example.org/entity/Keinrath,http://example.org/relation/prove,http://example.org/entity/Bischof,entity
+Keinrath,prove,Pfurtscheller[30,http://example.org/entity/Keinrath,http://example.org/relation/prove,http://example.org/entity/Pfurtscheller%5B30,entity
+Keinrath,prove,Scherer,http://example.org/entity/Keinrath,http://example.org/relation/prove,http://example.org/entity/Scherer,entity
+La Comissió Construïm el Futur,transl,The Commission Building the Future,http://example.org/entity/La_Comissi%C3%B3_Constru%C3%AFm_el_Futur,http://example.org/relation/transl,http://example.org/entity/The_Commission_Building_the_Future,entity
+Laiserin,archive,-07-08,http://example.org/entity/Laiserin,http://example.org/relation/archive,http://example.org/entity/-07-08,entity
+Laiserin,archive,2017-07-04,http://example.org/entity/Laiserin,http://example.org/relation/archive,,literal
+Laiserin,commentLetter,John Mullan,http://example.org/entity/Laiserin,http://example.org/relation/commentLetter,http://example.org/entity/John_Mullan,entity
+Laiserin,foreword,Eastman,http://example.org/entity/Laiserin,http://example.org/relation/foreword,http://example.org/entity/Eastman,entity
+Laiserin,foreword,"Eastman, et al",http://example.org/entity/Laiserin,http://example.org/relation/foreword,http://example.org/entity/Eastman%2C_et_al,entity
+Lee,prove,Bischof,http://example.org/entity/Lee,http://example.org/relation/prove,http://example.org/entity/Bischof,entity
+Lee,prove,Keinrath,http://example.org/entity/Lee,http://example.org/relation/prove,http://example.org/entity/Keinrath,entity
+Lee,prove,Pfurtscheller[30,http://example.org/entity/Lee,http://example.org/relation/prove,http://example.org/entity/Pfurtscheller%5B30,entity
+Lee,prove,Scherer,http://example.org/entity/Lee,http://example.org/relation/prove,http://example.org/entity/Scherer,entity
+Leite,address,Akinci,http://example.org/entity/Leite,http://example.org/relation/address,http://example.org/entity/Akinci,entity
+Lindsay,retrieve,Richard P.,http://example.org/entity/Lindsay,http://example.org/relation/retrieve,http://example.org/entity/Richard_P.,entity
+Lindsay,retrieve,September 1964,http://example.org/entity/Lindsay,http://example.org/relation/retrieve,http://example.org/entity/September_1964,entity
+LinkedIn,associate,Facebook,http://example.org/entity/LinkedIn,http://example.org/relation/associate,http://example.org/entity/Facebook,entity
+LinkedIn,include,Airbnb,http://example.org/entity/LinkedIn,http://example.org/relation/include,http://example.org/entity/Airbnb,entity
+LinkedIn,include,Amazon,http://example.org/entity/LinkedIn,http://example.org/relation/include,http://example.org/entity/Amazon,entity
+LinkedIn,include,Microsoft,http://example.org/entity/LinkedIn,http://example.org/relation/include,http://example.org/entity/Microsoft,entity
+LinkedIn,include,Uber,http://example.org/entity/LinkedIn,http://example.org/relation/include,http://example.org/entity/Uber,entity
+LinkedIn,use,Facebook,http://example.org/entity/LinkedIn,http://example.org/relation/use,http://example.org/entity/Facebook,entity
+Lisa,retrieve,2016,http://example.org/entity/Lisa,http://example.org/relation/retrieve,,literal
+Lisa,retrieve,Wolfram,http://example.org/entity/Lisa,http://example.org/relation/retrieve,http://example.org/entity/Wolfram,entity
+Lisa,retrieve,Wöß,http://example.org/entity/Lisa,http://example.org/relation/retrieve,http://example.org/entity/W%C3%B6%C3%9F,entity
+Liu,influence,2022,http://example.org/entity/Liu,http://example.org/relation/influence,,literal
+London,introduce,2009,http://example.org/entity/London,http://example.org/relation/introduce,,literal
+Los Angeles,experience,the late 1960s[50,http://example.org/entity/Los_Angeles,http://example.org/relation/experience,http://example.org/entity/the_late_1960s%5B50,entity
+Los Angeles,lateEstablishment,Singapore,http://example.org/entity/Los_Angeles,http://example.org/relation/lateEstablishment,http://example.org/entity/Singapore,entity
+Los Angeles,lateEstablishment,the National Computer Board,http://example.org/entity/Los_Angeles,http://example.org/relation/lateEstablishment,http://example.org/entity/the_National_Computer_Board,entity
+MA,reprint,1991,http://example.org/entity/MA,http://example.org/relation/reprint,,literal
+MIT Press,isbn,1995,http://example.org/entity/MIT_Press,http://example.org/relation/isbn,,literal
+MIT Press,isbn,Bishop,http://example.org/entity/MIT_Press,http://example.org/relation/isbn,http://example.org/entity/Bishop,entity
+MIT Technology Review,volNo,May/June 2021,http://example.org/entity/MIT_Technology_Review,http://example.org/relation/volNo,http://example.org/entity/May/June_2021,entity
+MVRDV,choose,Birger Sevaldson,http://example.org/entity/MVRDV,http://example.org/relation/choose,http://example.org/entity/Birger_Sevaldson,entity
+MVRDV,choose,Gerhard Schmitt,http://example.org/entity/MVRDV,http://example.org/relation/choose,http://example.org/entity/Gerhard_Schmitt,entity
+Malaysia,targetTowards,the year 2020,http://example.org/entity/Malaysia,http://example.org/relation/targetTowards,http://example.org/entity/the_year_2020,entity
+Massachusetts Institute of Technology's,group,Georgia Tech,http://example.org/entity/Massachusetts_Institute_of_Technology%27s,http://example.org/relation/group,http://example.org/entity/Georgia_Tech,entity
+Massei M.,base,Guide to Simulation-Based Disciplines,http://example.org/entity/Massei_M.,http://example.org/relation/base,http://example.org/entity/Guide_to_Simulation-Based_Disciplines,entity
+May 2011,call,Paul Morrell,http://example.org/entity/May_2011,http://example.org/relation/call,http://example.org/entity/Paul_Morrell,entity
+McGraw Hill,publish,2012,http://example.org/entity/McGraw_Hill,http://example.org/relation/publish,,literal
+McGraw Hill Construction[page,need,Drogemuller,http://example.org/entity/McGraw_Hill_Construction%5Bpage,http://example.org/relation/need,http://example.org/entity/Drogemuller,entity
+McGraw Hill Construction[page,need,Erezi,http://example.org/entity/McGraw_Hill_Construction%5Bpage,http://example.org/relation/need,http://example.org/entity/Erezi,entity
+McGraw Hill Construction[page,need,Robin,http://example.org/entity/McGraw_Hill_Construction%5Bpage,http://example.org/relation/need,http://example.org/entity/Robin,entity
+McGraw Hill Construction[page,need,Utiome,http://example.org/entity/McGraw_Hill_Construction%5Bpage,http://example.org/relation/need,http://example.org/entity/Utiome,entity
+Mediaconstruct,exist,1989,http://example.org/entity/Mediaconstruct,http://example.org/relation/exist,,literal
+Mediaconstruct,exist,France,http://example.org/entity/Mediaconstruct,http://example.org/relation/exist,http://example.org/entity/France,entity
+Meintjes,see,Keith,http://example.org/entity/Meintjes,http://example.org/relation/see,http://example.org/entity/Keith,entity
+Microsoft,include,Amazon,http://example.org/entity/Microsoft,http://example.org/relation/include,http://example.org/entity/Amazon,entity
+Microsoft,include,Uber,http://example.org/entity/Microsoft,http://example.org/relation/include,http://example.org/entity/Uber,entity
+Microsoft,pull,4 Dec 2007,http://example.org/entity/Microsoft,http://example.org/relation/pull,http://example.org/entity/4_Dec_2007,entity
+Microsoft,pull,John Fontana,http://example.org/entity/Microsoft,http://example.org/relation/pull,http://example.org/entity/John_Fontana,entity
+Microsoft,test,Twitter,http://example.org/entity/Microsoft,http://example.org/relation/test,http://example.org/entity/Twitter,entity
+Microsoft,use,Facebook,http://example.org/entity/Microsoft,http://example.org/relation/use,http://example.org/entity/Facebook,entity
+Microsoft,use,LinkedIn,http://example.org/entity/Microsoft,http://example.org/relation/use,http://example.org/entity/LinkedIn,entity
+Microsoft Research’s,exemplify,2024,http://example.org/entity/Microsoft_Research%E2%80%99s,http://example.org/relation/exemplify,,literal
+Microsoft Research’s,exemplify,LLM,http://example.org/entity/Microsoft_Research%E2%80%99s,http://example.org/relation/exemplify,http://example.org/entity/LLM,entity
+Mitchell,archive,1997,http://example.org/entity/Mitchell,http://example.org/relation/archive,,literal
+NIBS,look,UK,http://example.org/entity/NIBS,http://example.org/relation/look,http://example.org/entity/UK,entity
+NIBS,look,US,http://example.org/entity/NIBS,http://example.org/relation/look,http://example.org/entity/US,entity
+NIST,estimate,annually,http://example.org/entity/NIST,http://example.org/relation/estimate,http://example.org/entity/annually,entity
+NORAD,track,Santa Claus,http://example.org/entity/NORAD,http://example.org/relation/track,http://example.org/entity/Santa_Claus,entity
+NORAD,track,today,http://example.org/entity/NORAD,http://example.org/relation/track,http://example.org/entity/today,entity
+National Aeronautics and Space Administration,documentRevision,2009,http://example.org/entity/National_Aeronautics_and_Space_Administration,http://example.org/relation/documentRevision,,literal
+National Aeronautics and Space Administration,revision,June 2009,http://example.org/entity/National_Aeronautics_and_Space_Administration,http://example.org/relation/revision,http://example.org/entity/June_2009,entity
+National Building Specification,publishInto,UK,http://example.org/entity/National_Building_Specification,http://example.org/relation/publishInto,http://example.org/entity/UK,entity
+New Zealand,commission,2015,http://example.org/entity/New_Zealand,http://example.org/relation/commission,,literal
+New Zealand,manyProjectRebuilding,Christchurch,http://example.org/entity/New_Zealand,http://example.org/relation/manyProjectRebuilding,http://example.org/entity/Christchurch,entity
+Nikolai,archive,14 April 2019,http://example.org/entity/Nikolai,http://example.org/relation/archive,http://example.org/entity/14_April_2019,entity
+Nikolai,possibility,Russia,http://example.org/entity/Nikolai,http://example.org/relation/possibility,http://example.org/entity/Russia,entity
+Nils J.,archive,16 August 2019,http://example.org/entity/Nils_J.,http://example.org/relation/archive,http://example.org/entity/16_August_2019,entity
+Nils J.,archive,the Wayback Machine,http://example.org/entity/Nils_J.,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+Nilsson,archive,16 August 2019,http://example.org/entity/Nilsson,http://example.org/relation/archive,http://example.org/entity/16_August_2019,entity
+Nima,put,UK BIM Alliance,http://example.org/entity/Nima,http://example.org/relation/put,http://example.org/entity/UK_BIM_Alliance,entity
+November 2017,merge,Ireland,http://example.org/entity/November_2017,http://example.org/relation/merge,http://example.org/entity/Ireland,entity
+November 2017,merge,UK,http://example.org/entity/November_2017,http://example.org/relation/merge,http://example.org/entity/UK,entity
+November 2017,merge,the UK BIM Alliance,http://example.org/entity/November_2017,http://example.org/relation/merge,http://example.org/entity/the_UK_BIM_Alliance,entity
+November 2017,pilot,Department for Public Expenditure and Reform,http://example.org/entity/November_2017,http://example.org/relation/pilot,http://example.org/entity/Department_for_Public_Expenditure_and_Reform,entity
+November 2017,pilot,Ireland,http://example.org/entity/November_2017,http://example.org/relation/pilot,http://example.org/entity/Ireland,entity
+Oceania,recommend,February 2016,http://example.org/entity/Oceania,http://example.org/relation/recommend,http://example.org/entity/February_2016,entity
+Oceania,recommend,Infrastructure Australia,http://example.org/entity/Oceania,http://example.org/relation/recommend,http://example.org/entity/Infrastructure_Australia,entity
+October 2019,launch,CDBB,http://example.org/entity/October_2019,http://example.org/relation/launch,http://example.org/entity/CDBB,entity
+October 2019,launch,the BSI Group,http://example.org/entity/October_2019,http://example.org/relation/launch,http://example.org/entity/the_BSI_Group,entity
+October 2019,launch,the UK BIM Alliance[a,http://example.org/entity/October_2019,http://example.org/relation/launch,http://example.org/entity/the_UK_BIM_Alliance%5Ba,entity
+Oh,propose,2019,http://example.org/entity/Oh,http://example.org/relation/propose,,literal
+OpenBIM,initiative,buildingSMART,http://example.org/entity/OpenBIM,http://example.org/relation/initiative,http://example.org/entity/buildingSMART,entity
+PTNB,create,2013,http://example.org/entity/PTNB,http://example.org/relation/create,,literal
+PTNB,create,2015 to 2017,http://example.org/entity/PTNB,http://example.org/relation/create,http://example.org/entity/2015_to_2017,entity
+PTNB,supersede,2018,http://example.org/entity/PTNB,http://example.org/relation/supersede,,literal
+Patrick Jensen,research,the University of Hong Kong,http://example.org/entity/Patrick_Jensen,http://example.org/relation/research,http://example.org/entity/the_University_of_Hong_Kong,entity
+Patrick Jensen,trace,2004,http://example.org/entity/Patrick_Jensen,http://example.org/relation/trace,,literal
+Pittsburgh,put,San Diego,http://example.org/entity/Pittsburgh,http://example.org/relation/put,http://example.org/entity/San_Diego,entity
+Plotkin,reprint,Cambridge,http://example.org/entity/Plotkin,http://example.org/relation/reprint,http://example.org/entity/Cambridge,entity
+Plotkin,reprint,Computational Logic,http://example.org/entity/Plotkin,http://example.org/relation/reprint,http://example.org/entity/Computational_Logic,entity
+Plotkin,reprint,The MIT Press,http://example.org/entity/Plotkin,http://example.org/relation/reprint,http://example.org/entity/The_MIT_Press,entity
+Poland,centre,BIM Cluster,http://example.org/entity/Poland,http://example.org/relation/centre,http://example.org/entity/BIM_Cluster,entity
+Portugal,begin,2015,http://example.org/entity/Portugal,http://example.org/relation/begin,,literal
+Portugal,normalisation,CT197-BIM,http://example.org/entity/Portugal,http://example.org/relation/normalisation,http://example.org/entity/CT197-BIM,entity
+Portugal,normalisation,the Technical Committee for BIM Standardisation,http://example.org/entity/Portugal,http://example.org/relation/normalisation,http://example.org/entity/the_Technical_Committee_for_BIM_Standardisation,entity
+Pragmatic Theory,build,2009,http://example.org/entity/Pragmatic_Theory,http://example.org/relation/build,,literal
+Public Services and Procurement Canada,update,31 January 2019,http://example.org/entity/Public_Services_and_Procurement_Canada,http://example.org/relation/update,http://example.org/entity/31_January_2019,entity
+Purdue,achieve,Harvard U,http://example.org/entity/Purdue,http://example.org/relation/achieve,http://example.org/entity/Harvard_U,entity
+Quantum Film,choose,Greg Lynn,http://example.org/entity/Quantum_Film,http://example.org/relation/choose,http://example.org/entity/Greg_Lynn,entity
+Quantum Film,choose,Greg Lynn FORM,http://example.org/entity/Quantum_Film,http://example.org/relation/choose,http://example.org/entity/Greg_Lynn_FORM,entity
+Quantum Film,choose,Jacob van Rijs,http://example.org/entity/Quantum_Film,http://example.org/relation/choose,http://example.org/entity/Jacob_van_Rijs,entity
+Quantum Film,choose,MVRDV,http://example.org/entity/Quantum_Film,http://example.org/relation/choose,http://example.org/entity/MVRDV,entity
+Rakesh Agrawal,introduce,Arun Swami,http://example.org/entity/Rakesh_Agrawal,http://example.org/relation/introduce,http://example.org/entity/Arun_Swami,entity
+Rakesh Agrawal,introduce,Tomasz Imieliński,http://example.org/entity/Rakesh_Agrawal,http://example.org/relation/introduce,http://example.org/entity/Tomasz_Imieli%C5%84ski,entity
+Ray,archive,26 April 2011,http://example.org/entity/Ray,http://example.org/relation/archive,http://example.org/entity/26_April_2011,entity
+Rebellion Research,predict,2008,http://example.org/entity/Rebellion_Research,http://example.org/relation/predict,,literal
+Richard P.,retrieve,September 1964,http://example.org/entity/Richard_P.,http://example.org/relation/retrieve,http://example.org/entity/September_1964,entity
+Robert South,fade,1697,http://example.org/entity/Robert_South,http://example.org/relation/fade,,literal
+Robert South,fade,South,http://example.org/entity/Robert_South,http://example.org/relation/fade,http://example.org/entity/South,entity
+Royal Academy of Engineering;[6,former,GMW,http://example.org/entity/Royal_Academy_of_Engineering%3B%5B6,http://example.org/relation/former,http://example.org/entity/GMW,entity
+Royal Academy of Engineering;[6,formerEmployee,Jonathan Ingram,http://example.org/entity/Royal_Academy_of_Engineering%3B%5B6,http://example.org/relation/formerEmployee,http://example.org/entity/Jonathan_Ingram,entity
+Russia,archive,14 April 2019,http://example.org/entity/Russia,http://example.org/relation/archive,http://example.org/entity/14_April_2019,entity
+Russia,archive,the Wayback Machine,http://example.org/entity/Russia,http://example.org/relation/archive,http://example.org/entity/the_Wayback_Machine,entity
+Sagrada Família,base,Buckminster Fuller's,http://example.org/entity/Sagrada_Fam%C3%ADlia,http://example.org/relation/base,http://example.org/entity/Buckminster_Fuller%27s,entity
+Samuel Johnson,think,South,http://example.org/entity/Samuel_Johnson,http://example.org/relation/think,http://example.org/entity/South,entity
+San Francisco,establish,Amsterdam,http://example.org/entity/San_Francisco,http://example.org/relation/establish,http://example.org/entity/Amsterdam,entity
+San Francisco,establish,Seoul,http://example.org/entity/San_Francisco,http://example.org/relation/establish,http://example.org/entity/Seoul,entity
+Santa,run,ASP,http://example.org/entity/Santa,http://example.org/relation/run,http://example.org/entity/ASP,entity
+Santa,run,Kerr,http://example.org/entity/Santa,http://example.org/relation/run,http://example.org/entity/Kerr,entity
+Scherer,prove,Bischof,http://example.org/entity/Scherer,http://example.org/relation/prove,http://example.org/entity/Bischof,entity
+Scherer,prove,Pfurtscheller[30,http://example.org/entity/Scherer,http://example.org/relation/prove,http://example.org/entity/Pfurtscheller%5B30,entity
+School of Architecture,include,Carnegie Mellon,http://example.org/entity/School_of_Architecture,http://example.org/relation/include,http://example.org/entity/Carnegie_Mellon,entity
+School of Architecture,include,Department of Computer Science,http://example.org/entity/School_of_Architecture,http://example.org/relation/include,http://example.org/entity/Department_of_Computer_Science,entity
+School of Architecture,include,University College London,http://example.org/entity/School_of_Architecture,http://example.org/relation/include,http://example.org/entity/University_College_London,entity
+School of Architecture + Planning,group,Georgia Tech,http://example.org/entity/School_of_Architecture_%2B_Planning,http://example.org/relation/group,http://example.org/entity/Georgia_Tech,entity
+Schubert,detection,Encyclopedia of Database Systems,http://example.org/entity/Schubert,http://example.org/relation/detection,http://example.org/entity/Encyclopedia_of_Database_Systems,entity
+Science in Finance Ltd,create,UK,http://example.org/entity/Science_in_Finance_Ltd,http://example.org/relation/create,http://example.org/entity/UK,entity
+Seoul,shape,Milan,http://example.org/entity/Seoul,http://example.org/relation/shape,http://example.org/entity/Milan,entity
+September 2016,begin,the Ministry of Infrastructure and Construction,http://example.org/entity/September_2016,http://example.org/relation/begin,http://example.org/entity/the_Ministry_of_Infrastructure_and_Construction,entity
+Serbia,announce,Belgrade,http://example.org/entity/Serbia,http://example.org/relation/announce,http://example.org/entity/Belgrade,entity
+Serbia,announce,Huawei,http://example.org/entity/Serbia,http://example.org/relation/announce,http://example.org/entity/Huawei,entity
+Shao,see,Feng,http://example.org/entity/Shao,http://example.org/relation/see,http://example.org/entity/Feng,entity
+Shao,see,"January 9, 2022",http://example.org/entity/Shao,http://example.org/relation/see,http://example.org/entity/January_9%2C_2022,entity
+Shao,see,Shen,http://example.org/entity/Shao,http://example.org/relation/see,http://example.org/entity/Shen,entity
+Shao,see,Zheng,http://example.org/entity/Shao,http://example.org/relation/see,http://example.org/entity/Zheng,entity
+Shapiro,archive,21 August 2021,http://example.org/entity/Shapiro,http://example.org/relation/archive,http://example.org/entity/21_August_2021,entity
+Shapiro,build,1981,http://example.org/entity/Shapiro,http://example.org/relation/build,,literal
+Shen,see,"January 9, 2022",http://example.org/entity/Shen,http://example.org/relation/see,http://example.org/entity/January_9%2C_2022,entity
+Shen,see,Zheng,http://example.org/entity/Shen,http://example.org/relation/see,http://example.org/entity/Zheng,entity
+Shubin,archive,14 April 2019,http://example.org/entity/Shubin,http://example.org/relation/archive,http://example.org/entity/14_April_2019,entity
+Shubin,possibility,Russia,http://example.org/entity/Shubin,http://example.org/relation/possibility,http://example.org/entity/Russia,entity
+Sidewalk Labs,showcase,Singapore,http://example.org/entity/Sidewalk_Labs,http://example.org/relation/showcase,http://example.org/entity/Singapore,entity
+Sidewalk Labs,showcase,Smart Nation Initiative,http://example.org/entity/Sidewalk_Labs,http://example.org/relation/showcase,http://example.org/entity/Smart_Nation_Initiative,entity
+Sidewalk Labs,showcase,Toronto,http://example.org/entity/Sidewalk_Labs,http://example.org/relation/showcase,http://example.org/entity/Toronto,entity
+Siemens,platform,Honeywell,http://example.org/entity/Siemens,http://example.org/relation/platform,http://example.org/entity/Honeywell,entity
+Siemens,retrieve,2004,http://example.org/entity/Siemens,http://example.org/relation/retrieve,,literal
+Siemens PLM Software,dominate,PTC,http://example.org/entity/Siemens_PLM_Software,http://example.org/relation/dominate,http://example.org/entity/PTC,entity
+Singapore,experience,the National Computer Board,http://example.org/entity/Singapore,http://example.org/relation/experience,http://example.org/entity/the_National_Computer_Board,entity
+Singapore,forecast,New York City,http://example.org/entity/Singapore,http://example.org/relation/forecast,http://example.org/entity/New_York_City,entity
+Singapore,forecast,Tokyo,http://example.org/entity/Singapore,http://example.org/relation/forecast,http://example.org/entity/Tokyo,entity
+Singapore,showcase,Smart Nation Initiative,http://example.org/entity/Singapore,http://example.org/relation/showcase,http://example.org/entity/Smart_Nation_Initiative,entity
+Skywalker,turnOff,1977,http://example.org/entity/Skywalker,http://example.org/relation/turnOff,,literal
+Slovakia,establish,BIMaS,http://example.org/entity/Slovakia,http://example.org/relation/establish,http://example.org/entity/BIMaS,entity
+Slovakia,establish,January 2013,http://example.org/entity/Slovakia,http://example.org/relation/establish,http://example.org/entity/January_2013,entity
+Sokolowski,design,2009,http://example.org/entity/Sokolowski,http://example.org/relation/design,,literal
+Sokolowski,design,Banks,http://example.org/entity/Sokolowski,http://example.org/relation/design,http://example.org/entity/Banks,entity
+Solomonoff,archive,26 April 2011,http://example.org/entity/Solomonoff,http://example.org/relation/archive,http://example.org/entity/26_April_2011,entity
+Soramäki,economize,Reserve Bank of New York Economic Policy Review,http://example.org/entity/Soram%C3%A4ki,http://example.org/relation/economize,http://example.org/entity/Reserve_Bank_of_New_York_Economic_Policy_Review,entity
+South,fade,1697,http://example.org/entity/South,http://example.org/relation/fade,,literal
+South Africa,establish,May 2015,http://example.org/entity/South_Africa,http://example.org/relation/establish,http://example.org/entity/May_2015,entity
+South Korea,exist,the 1990s,http://example.org/entity/South_Korea,http://example.org/relation/exist,http://example.org/entity/the_1990s,entity
+Spain,establish,ITeC,http://example.org/entity/Spain,http://example.org/relation/establish,http://example.org/entity/ITeC,entity
+Spain,launch,2018,http://example.org/entity/Spain,http://example.org/relation/launch,,literal
+Spain,launch,BIM,http://example.org/entity/Spain,http://example.org/relation/launch,http://example.org/entity/BIM,entity
+Spain,launch,Ministry of Infrastructure,http://example.org/entity/Spain,http://example.org/relation/launch,http://example.org/entity/Ministry_of_Infrastructure,entity
+Steel Construction Institute,develop,the late 1990s,http://example.org/entity/Steel_Construction_Institute,http://example.org/relation/develop,http://example.org/entity/the_late_1990s,entity
+Steel Construction Institute,late1990Input,Georgia Tech,http://example.org/entity/Steel_Construction_Institute,http://example.org/relation/late1990Input,http://example.org/entity/Georgia_Tech,entity
+SteelVis,viewer,NIST,http://example.org/entity/SteelVis,http://example.org/relation/viewer,http://example.org/entity/NIST,entity
+Stockholm,see,Hong Kong,http://example.org/entity/Stockholm,http://example.org/relation/see,http://example.org/entity/Hong_Kong,entity
+Stockholm,see,the Cyberport Zone,http://example.org/entity/Stockholm,http://example.org/relation/see,http://example.org/entity/the_Cyberport_Zone,entity
+Switzerland,raise,2009,http://example.org/entity/Switzerland,http://example.org/relation/raise,,literal
+Switzerland,raise,2013,http://example.org/entity/Switzerland,http://example.org/relation/raise,,literal
+Switzerland,throughInitiative,2013,http://example.org/entity/Switzerland,http://example.org/relation/throughInitiative,,literal
+Sydney Australia,page,Yu-Tung Liu,http://example.org/entity/Sydney_Australia,http://example.org/relation/page,http://example.org/entity/Yu-Tung_Liu,entity
+Taipei,showcase,Taiwan,http://example.org/entity/Taipei,http://example.org/relation/showcase,http://example.org/entity/Taiwan,entity
+"Taoyuan,[165",partner,Tainan[166,http://example.org/entity/Taoyuan%2C%5B165,http://example.org/relation/partner,http://example.org/entity/Tainan%5B166,entity
+Tencent,clash,China,http://example.org/entity/Tencent,http://example.org/relation/clash,http://example.org/entity/China,entity
+Tencent,launch,Tencent Doctorwork,http://example.org/entity/Tencent,http://example.org/relation/launch,http://example.org/entity/Tencent_Doctorwork,entity
+Tencent,launch,WeChat Intelligent Healthcare,http://example.org/entity/Tencent,http://example.org/relation/launch,http://example.org/entity/WeChat_Intelligent_Healthcare,entity
+Tencent,shape,China,http://example.org/entity/Tencent,http://example.org/relation/shape,http://example.org/entity/China,entity
+The BCA Academy,train,Japan,http://example.org/entity/The_BCA_Academy,http://example.org/relation/train,http://example.org/entity/Japan,entity
+The European Commission,establish,2012,http://example.org/entity/The_European_Commission,http://example.org/relation/establish,,literal
+The European Commission,establish,the Smart Cities Marketplace,http://example.org/entity/The_European_Commission,http://example.org/relation/establish,http://example.org/entity/the_Smart_Cities_Marketplace,entity
+The First Year,describe,China,http://example.org/entity/The_First_Year,http://example.org/relation/describe,http://example.org/entity/China,entity
+The MIT Press,reprint,1991,http://example.org/entity/The_MIT_Press,http://example.org/relation/reprint,,literal
+The MIT Press,reprint,Cambridge,http://example.org/entity/The_MIT_Press,http://example.org/relation/reprint,http://example.org/entity/Cambridge,entity
+The MIT Press,reprint,MA,http://example.org/entity/The_MIT_Press,http://example.org/relation/reprint,http://example.org/entity/MA,entity
+The Ministry of Science and Technology,announce,MOST,http://example.org/entity/The_Ministry_of_Science_and_Technology,http://example.org/relation/announce,http://example.org/entity/MOST,entity
+The Netherlands,say,UK,http://example.org/entity/The_Netherlands,http://example.org/relation/say,http://example.org/entity/UK,entity
+The Sun,archive,Nigeria,http://example.org/entity/The_Sun,http://example.org/relation/archive,http://example.org/entity/Nigeria,entity
+The University of Sydney,offer,the University of New South Wales,http://example.org/entity/The_University_of_Sydney,http://example.org/relation/offer,http://example.org/entity/the_University_of_New_South_Wales,entity
+The Wall Street Journal,note,2008,http://example.org/entity/The_Wall_Street_Journal,http://example.org/relation/note,,literal
+The Wall Street Journal,note,Rebellion Research,http://example.org/entity/The_Wall_Street_Journal,http://example.org/relation/note,http://example.org/entity/Rebellion_Research,entity
+Tokyo,forecast,New York City,http://example.org/entity/Tokyo,http://example.org/relation/forecast,http://example.org/entity/New_York_City,entity
+Tomasz Imieliński,introduce,Arun Swami,http://example.org/entity/Tomasz_Imieli%C5%84ski,http://example.org/relation/introduce,http://example.org/entity/Arun_Swami,entity
+Toronto,showcase,Singapore,http://example.org/entity/Toronto,http://example.org/relation/showcase,http://example.org/entity/Singapore,entity
+Toronto,showcase,Smart Nation Initiative,http://example.org/entity/Toronto,http://example.org/relation/showcase,http://example.org/entity/Smart_Nation_Initiative,entity
+UAE,set,Quality and Conformity Commission,http://example.org/entity/UAE,http://example.org/relation/set,http://example.org/entity/Quality_and_Conformity_Commission,entity
+UK,adopt,US,http://example.org/entity/UK,http://example.org/relation/adopt,http://example.org/entity/US,entity
+UK,call,Paul Morrell,http://example.org/entity/UK,http://example.org/relation/call,http://example.org/entity/Paul_Morrell,entity
+UK,describe,2011,http://example.org/entity/UK,http://example.org/relation/describe,,literal
+UK,develop,Steel Construction Institute,http://example.org/entity/UK,http://example.org/relation/develop,http://example.org/entity/Steel_Construction_Institute,entity
+UK,develop,US,http://example.org/entity/UK,http://example.org/relation/develop,http://example.org/entity/US,entity
+UK,develop,the late 1990s,http://example.org/entity/UK,http://example.org/relation/develop,http://example.org/entity/the_late_1990s,entity
+UK,find,Commission for Racial Equality,http://example.org/entity/UK,http://example.org/relation/find,http://example.org/entity/Commission_for_Racial_Equality,entity
+UK,find,St. George's Medical School,http://example.org/entity/UK,http://example.org/relation/find,http://example.org/entity/St._George%27s_Medical_School,entity
+UK,former,GMW,http://example.org/entity/UK,http://example.org/relation/former,http://example.org/entity/GMW,entity
+UK,formerEmployee,Jonathan Ingram,http://example.org/entity/UK,http://example.org/relation/formerEmployee,http://example.org/entity/Jonathan_Ingram,entity
+UK,help,US,http://example.org/entity/UK,http://example.org/relation/help,http://example.org/entity/US,entity
+UK,late1990Input,Georgia Tech,http://example.org/entity/UK,http://example.org/relation/late1990Input,http://example.org/entity/Georgia_Tech,entity
+UK,merge,Ireland,http://example.org/entity/UK,http://example.org/relation/merge,http://example.org/entity/Ireland,entity
+UK,processPractice112,National Building Specification,http://example.org/entity/UK,http://example.org/relation/processPractice112,http://example.org/entity/National_Building_Specification,entity
+UK,work,Royal Academy of Engineering;[6,http://example.org/entity/UK,http://example.org/relation/work,http://example.org/entity/Royal_Academy_of_Engineering%3B%5B6,entity
+UK BIM Alliance,launch,BSI,http://example.org/entity/UK_BIM_Alliance,http://example.org/relation/launch,http://example.org/entity/BSI,entity
+UK BIM Alliance,launch,CDBB,http://example.org/entity/UK_BIM_Alliance,http://example.org/relation/launch,http://example.org/entity/CDBB,entity
+UK BIM Alliance,merge,BIM,http://example.org/entity/UK_BIM_Alliance,http://example.org/relation/merge,http://example.org/entity/BIM,entity
+UN,forecast,2100,http://example.org/entity/UN,http://example.org/relation/forecast,,literal
+UN,member,United States,http://example.org/entity/UN,http://example.org/relation/member,http://example.org/entity/United_States,entity
+US,base,National Institute of Building Sciences,http://example.org/entity/US,http://example.org/relation/base,http://example.org/entity/National_Institute_of_Building_Sciences,entity
+US,estimate,Institute of Standards and Technology,http://example.org/entity/US,http://example.org/relation/estimate,http://example.org/entity/Institute_of_Standards_and_Technology,entity
+US,estimate,NIST,http://example.org/entity/US,http://example.org/relation/estimate,http://example.org/entity/NIST,entity
+US,know,Design and Computation,http://example.org/entity/US,http://example.org/relation/know,http://example.org/entity/Design_and_Computation,entity
+United Arab Emirates,issue,2014,http://example.org/entity/United_Arab_Emirates,http://example.org/relation/issue,,literal
+United Kingdom,call,May 2011,http://example.org/entity/United_Kingdom,http://example.org/relation/call,http://example.org/entity/May_2011,entity
+United Kingdom,call,Paul Morrell,http://example.org/entity/United_Kingdom,http://example.org/relation/call,http://example.org/entity/Paul_Morrell,entity
+United Kingdom,call,UK,http://example.org/entity/United_Kingdom,http://example.org/relation/call,http://example.org/entity/UK,entity
+United States,require,Associated General Contractors of America,http://example.org/entity/United_States,http://example.org/relation/require,http://example.org/entity/Associated_General_Contractors_of_America,entity
+United States,require,US,http://example.org/entity/United_States,http://example.org/relation/require,http://example.org/entity/US,entity
+University of Melbourne,include,Carnegie Mellon,http://example.org/entity/University_of_Melbourne,http://example.org/relation/include,http://example.org/entity/Carnegie_Mellon,entity
+University of Melbourne,include,Department of Computer Science,http://example.org/entity/University_of_Melbourne,http://example.org/relation/include,http://example.org/entity/Department_of_Computer_Science,entity
+University of Melbourne,include,School of Architecture,http://example.org/entity/University_of_Melbourne,http://example.org/relation/include,http://example.org/entity/School_of_Architecture,entity
+University of Technology,page,Yu-Tung Liu,http://example.org/entity/University_of_Technology,http://example.org/relation/page,http://example.org/entity/Yu-Tung_Liu,entity
+University of Twente,begin,Knowledge Graphs,http://example.org/entity/University_of_Twente,http://example.org/relation/begin,http://example.org/entity/Knowledge_Graphs,entity
+Virginia Tech’s,utilize,SmithGroup,http://example.org/entity/Virginia_Tech%E2%80%99s,http://example.org/relation/utilize,http://example.org/entity/SmithGroup,entity
+Volker Wissing,announced,2025,http://example.org/entity/Volker_Wissing,http://example.org/relation/announced,,literal
+WGBH,discuss,Polshek Partnership,http://example.org/entity/WGBH,http://example.org/relation/discuss,http://example.org/entity/Polshek_Partnership,entity
+Walter Pitts,contribute,Warren McCulloch,http://example.org/entity/Walter_Pitts,http://example.org/relation/contribute,http://example.org/entity/Warren_McCulloch,entity
+Walter Pitts,follow,Frank Rosenblatt,http://example.org/entity/Walter_Pitts,http://example.org/relation/follow,http://example.org/entity/Frank_Rosenblatt,entity
+Warren McCulloch,become,Walter Pitts,http://example.org/entity/Warren_McCulloch,http://example.org/relation/become,http://example.org/entity/Walter_Pitts,entity
+Watson,recommend,STAT,http://example.org/entity/Watson,http://example.org/relation/recommend,http://example.org/entity/STAT,entity
+WeChat Intelligent Healthcare,launch,Tencent Doctorwork,http://example.org/entity/WeChat_Intelligent_Healthcare,http://example.org/relation/launch,http://example.org/entity/Tencent_Doctorwork,entity
+What If,specialize,StatFox,http://example.org/entity/What_If,http://example.org/relation/specialize,http://example.org/entity/StatFox,entity
+Wikipedia,focus,Freebase,http://example.org/entity/Wikipedia,http://example.org/relation/focus,http://example.org/entity/Freebase,entity
+Wolfram,retrieve,2016,http://example.org/entity/Wolfram,http://example.org/relation/retrieve,,literal
+WolframAlpha,associate,Amazon,http://example.org/entity/WolframAlpha,http://example.org/relation/associate,http://example.org/entity/Amazon,entity
+WolframAlpha,associate,Apple,http://example.org/entity/WolframAlpha,http://example.org/relation/associate,http://example.org/entity/Apple,entity
+Wöß,retrieve,2016,http://example.org/entity/W%C3%B6%C3%9F,http://example.org/relation/retrieve,,literal
+Wöß,retrieve,Wolfram,http://example.org/entity/W%C3%B6%C3%9F,http://example.org/relation/retrieve,http://example.org/entity/Wolfram,entity
+YAGO,use,Wikidata,http://example.org/entity/YAGO,http://example.org/relation/use,http://example.org/entity/Wikidata,entity
+Yahoo,answer,Apple,http://example.org/entity/Yahoo,http://example.org/relation/answer,http://example.org/entity/Apple,entity
+Yahoo,answer,WolframAlpha,http://example.org/entity/Yahoo,http://example.org/relation/answer,http://example.org/entity/WolframAlpha,entity
+Yahoo,semanticSearchAssistant,Google,http://example.org/entity/Yahoo,http://example.org/relation/semanticSearchAssistant,http://example.org/entity/Google,entity
+Yahoo,semanticSearchAssistant,Microsoft,http://example.org/entity/Yahoo,http://example.org/relation/semanticSearchAssistant,http://example.org/entity/Microsoft,entity
+Zendejas,etAl,2013,http://example.org/entity/Zendejas,http://example.org/relation/etAl,,literal
+Zheng,see,"January 9, 2022",http://example.org/entity/Zheng,http://example.org/relation/see,http://example.org/entity/January_9%2C_2022,entity
+Zhou,etAl,2020,http://example.org/entity/Zhou,http://example.org/relation/etAl,,literal
+annual,become,Taipei,http://example.org/entity/annual,http://example.org/relation/become,http://example.org/entity/Taipei,entity
+annually,estimate,U.S.,http://example.org/entity/annually,http://example.org/relation/estimate,http://example.org/entity/U.S.,entity
+annually,hold,2012,http://example.org/entity/annually,http://example.org/relation/hold,,literal
+buildingSMART,call,1989,http://example.org/entity/buildingSMART,http://example.org/relation/call,,literal
+buildingSMART,call,Mediaconstruct,http://example.org/entity/buildingSMART,http://example.org/relation/call,http://example.org/entity/Mediaconstruct,entity
+buildingSMART,merge,BIM,http://example.org/entity/buildingSMART,http://example.org/relation/merge,http://example.org/entity/BIM,entity
+buildingSMART Canada,canadianChapter,buildingSMART International).[117,http://example.org/entity/buildingSMART_Canada,http://example.org/relation/canadianChapter,http://example.org/entity/buildingSMART_International%29.%5B117,entity
+buildingSMART Norway,represent,Poland,http://example.org/entity/buildingSMART_Norway,http://example.org/relation/represent,http://example.org/entity/Poland,entity
+early 1980s,fall,1983,http://example.org/entity/early_1980s,http://example.org/relation/fall,,literal
+early 1980s,fall,1985,http://example.org/entity/early_1980s,http://example.org/relation/fall,,literal
+early 1980s,include,Chuck Eastman's,http://example.org/entity/early_1980s,http://example.org/relation/include,http://example.org/entity/Chuck_Eastman%27s,entity
+early 1980s to 1990s,editAdvanceTechnology,the 1980s,http://example.org/entity/early_1980s_to_1990s,http://example.org/relation/editAdvanceTechnology,http://example.org/entity/the_1980s,entity
+early 2000s–present,adventVirtualCinematography,the early 2000s,http://example.org/entity/early_2000s%E2%80%93present,http://example.org/relation/adventVirtualCinematography,http://example.org/entity/the_early_2000s,entity
+early 2018,italian,Ministry of Infrastructure and Transport,http://example.org/entity/early_2018,http://example.org/relation/italian,http://example.org/entity/Ministry_of_Infrastructure_and_Transport,entity
+early 2018.[108,outsideGovernmentIndustryAdoption,2016,http://example.org/entity/early_2018.%5B108,http://example.org/relation/outsideGovernmentIndustryAdoption,,literal
+early March 2026,schedule,June 2026.[34,http://example.org/entity/early_March_2026,http://example.org/relation/schedule,http://example.org/entity/June_2026.%5B34,entity
+et al.,propose,2019,http://example.org/entity/et_al.,http://example.org/relation/propose,,literal
+monthly,electricityUsageAroundAverage,U.S.,http://example.org/entity/monthly,http://example.org/relation/electricityUsageAroundAverage,http://example.org/entity/U.S.,entity
+the 1950s,use,Arthur Samuel,http://example.org/entity/the_1950s,http://example.org/relation/use,http://example.org/entity/Arthur_Samuel,entity
+the 1970s,agree,the early 2000s,http://example.org/entity/the_1970s,http://example.org/relation/agree,http://example.org/entity/the_early_2000s,entity
+the 1970s,describe,Duda,http://example.org/entity/the_1970s,http://example.org/relation/describe,http://example.org/entity/Duda,entity
+the 1970s,describe,Hart,http://example.org/entity/the_1970s,http://example.org/relation/describe,http://example.org/entity/Hart,entity
+the 1970s,fall,1983,http://example.org/entity/the_1970s,http://example.org/relation/fall,,literal
+the 1970s,fall,early 1980s,http://example.org/entity/the_1970s,http://example.org/relation/fall,http://example.org/entity/early_1980s,entity
+the 1980s,makeComputerAffordableCapable,"previous decades,[61",http://example.org/entity/the_1980s,http://example.org/relation/makeComputerAffordableCapable,http://example.org/entity/previous_decades%2C%5B61,entity
+the 2010s,launch,Bloomberg Philanthropies,http://example.org/entity/the_2010s,http://example.org/relation/launch,http://example.org/entity/Bloomberg_Philanthropies,entity
+the 2010s,launch,the Rockefeller Foundation,http://example.org/entity/the_2010s,http://example.org/relation/launch,http://example.org/entity/the_Rockefeller_Foundation,entity
+the 2010s,launch,the United States Department of Transportation.[21,http://example.org/entity/the_2010s,http://example.org/relation/launch,http://example.org/entity/the_United_States_Department_of_Transportation.%5B21,entity
+the Association for the Development of Digital in Construction,found,2017,http://example.org/entity/the_Association_for_the_Development_of_Digital_in_Construction,http://example.org/relation/found,,literal
+the Association for the Development of Digital in Construction,supersede,AND Construction,http://example.org/entity/the_Association_for_the_Development_of_Digital_in_Construction,http://example.org/relation/supersede,http://example.org/entity/AND_Construction,entity
+the Australian Government,commission,the Australasian Procurement and Construction Council,http://example.org/entity/the_Australian_Government,http://example.org/relation/commission,http://example.org/entity/the_Australasian_Procurement_and_Construction_Council,entity
+the BIM Task Group,continueUnder,Cambridge,http://example.org/entity/the_BIM_Task_Group,http://example.org/relation/continueUnder,http://example.org/entity/Cambridge,entity
+the BIM Task Group,continueUnder,Centre for Digital Built Britain,http://example.org/entity/the_BIM_Task_Group,http://example.org/relation/continueUnder,http://example.org/entity/Centre_for_Digital_Built_Britain,entity
+the BSI Group,launch,the UK BIM Framework,http://example.org/entity/the_BSI_Group,http://example.org/relation/launch,http://example.org/entity/the_UK_BIM_Framework,entity
+the Canada BIM Council,found,the Institute for BIM,http://example.org/entity/the_Canada_BIM_Council,http://example.org/relation/found,http://example.org/entity/the_Institute_for_BIM,entity
+the Canada BIM Council,support,CANBIM,http://example.org/entity/the_Canada_BIM_Council,http://example.org/relation/support,http://example.org/entity/CANBIM,entity
+the Civil and Environmental Engineering Department,found,Amirkabir University of Technology.[67,http://example.org/entity/the_Civil_and_Environmental_Engineering_Department,http://example.org/relation/found,http://example.org/entity/Amirkabir_University_of_Technology.%5B67,entity
+the Clinton Foundation,establish,San Francisco,http://example.org/entity/the_Clinton_Foundation,http://example.org/relation/establish,http://example.org/entity/San_Francisco,entity
+the Community Analysis Bureau,experience,Los Angeles,http://example.org/entity/the_Community_Analysis_Bureau,http://example.org/relation/experience,http://example.org/entity/Los_Angeles,entity
+the Community Analysis Bureau,experience,the late 1960s[50,http://example.org/entity/the_Community_Analysis_Bureau,http://example.org/relation/experience,http://example.org/entity/the_late_1960s%5B50,entity
+the Community Analysis Bureau,lateEstablishment,Singapore,http://example.org/entity/the_Community_Analysis_Bureau,http://example.org/relation/lateEstablishment,http://example.org/entity/Singapore,entity
+the Computing Research Association,make,2021,http://example.org/entity/the_Computing_Research_Association,http://example.org/relation/make,,literal
+the Construction Industry Development Board,aim,CIDB Malaysia,http://example.org/entity/the_Construction_Industry_Development_Board,http://example.org/relation/aim,http://example.org/entity/CIDB_Malaysia,entity
+the Cyberport Zone,see,Hong Kong,http://example.org/entity/the_Cyberport_Zone,http://example.org/relation/see,http://example.org/entity/Hong_Kong,entity
+the Institute for BIM,canadianChapter,buildingSMART International).[117,http://example.org/entity/the_Institute_for_BIM,http://example.org/relation/canadianChapter,http://example.org/entity/buildingSMART_International%29.%5B117,entity
+the Institute for BIM,support,buildingSMART Canada,http://example.org/entity/the_Institute_for_BIM,http://example.org/relation/support,http://example.org/entity/buildingSMART_Canada,entity
+the Key Centre of Design Computing and Cognition,know,the Design Lab,http://example.org/entity/the_Key_Centre_of_Design_Computing_and_Cognition,http://example.org/relation/know,http://example.org/entity/the_Design_Lab,entity
+the Key Centre of Design Computing and Cognition,know,the University of Sydney,http://example.org/entity/the_Key_Centre_of_Design_Computing_and_Cognition,http://example.org/relation/know,http://example.org/entity/the_University_of_Sydney,entity
+the Kista Science City,see,Hong Kong,http://example.org/entity/the_Kista_Science_City,http://example.org/relation/see,http://example.org/entity/Hong_Kong,entity
+the Kista Science City,see,Stockholm,http://example.org/entity/the_Kista_Science_City,http://example.org/relation/see,http://example.org/entity/Stockholm,entity
+the Kista Science City,see,the Cyberport Zone,http://example.org/entity/the_Kista_Science_City,http://example.org/relation/see,http://example.org/entity/the_Cyberport_Zone,entity
+the Massachusetts Institute of Technology,know,MIT,http://example.org/entity/the_Massachusetts_Institute_of_Technology,http://example.org/relation/know,http://example.org/entity/MIT,entity
+the National Institute of Building Sciences,look,NIBS,http://example.org/entity/the_National_Institute_of_Building_Sciences,http://example.org/relation/look,http://example.org/entity/NIBS,entity
+the National Institute of Building Sciences,look,UK,http://example.org/entity/the_National_Institute_of_Building_Sciences,http://example.org/relation/look,http://example.org/entity/UK,entity
+the National Institute of Building Sciences,look,US,http://example.org/entity/the_National_Institute_of_Building_Sciences,http://example.org/relation/look,http://example.org/entity/US,entity
+"the Rijksgebouwendienst,",agencyWithin,"Ministry of Housing, Spatial Planning and the Environment",http://example.org/entity/the_Rijksgebouwendienst%2C,http://example.org/relation/agencyWithin,http://example.org/entity/Ministry_of_Housing%2C_Spatial_Planning_and_the_Environment,entity
+the Rockefeller Foundation,launch,the United States Department of Transportation.[21,http://example.org/entity/the_Rockefeller_Foundation,http://example.org/relation/launch,http://example.org/entity/the_United_States_Department_of_Transportation.%5B21,entity
+the Smart Cities Marketplace,centralizedHubUrbanInitiative,the European Union.[57,http://example.org/entity/the_Smart_Cities_Marketplace,http://example.org/relation/centralizedHubUrbanInitiative,http://example.org/entity/the_European_Union.%5B57,entity
+the Smart City Expo World Congress,attract,Barcelona,http://example.org/entity/the_Smart_City_Expo_World_Congress,http://example.org/relation/attract,http://example.org/entity/Barcelona,entity
+the Society for Simulation in Healthcare,form,SSH,http://example.org/entity/the_Society_for_Simulation_in_Healthcare,http://example.org/relation/form,http://example.org/entity/SSH,entity
+the Swiss Society for Engineers and Architects,call,May 2011,http://example.org/entity/the_Swiss_Society_for_Engineers_and_Architects,http://example.org/relation/call,http://example.org/entity/May_2011,entity
+the Swiss Society for Engineers and Architects,call,UK,http://example.org/entity/the_Swiss_Society_for_Engineers_and_Architects,http://example.org/relation/call,http://example.org/entity/UK,entity
+the Swiss Society for Engineers and Architects,call,United Kingdom,http://example.org/entity/the_Swiss_Society_for_Engineers_and_Architects,http://example.org/relation/call,http://example.org/entity/United_Kingdom,entity
+the Technical Committee for BIM Standardisation,begin,CT197-BIM,http://example.org/entity/the_Technical_Committee_for_BIM_Standardisation,http://example.org/relation/begin,http://example.org/entity/CT197-BIM,entity
+the UK BIM Alliance,merge,Ireland,http://example.org/entity/the_UK_BIM_Alliance,http://example.org/relation/merge,http://example.org/entity/Ireland,entity
+the UK BIM Alliance,merge,UK,http://example.org/entity/the_UK_BIM_Alliance,http://example.org/relation/merge,http://example.org/entity/UK,entity
+the UK BIM Alliance[a,launch,the BSI Group,http://example.org/entity/the_UK_BIM_Alliance%5Ba,http://example.org/relation/launch,http://example.org/entity/the_BSI_Group,entity
+the UK BIM Alliance[a,launch,the UK BIM Framework,http://example.org/entity/the_UK_BIM_Alliance%5Ba,http://example.org/relation/launch,http://example.org/entity/the_UK_BIM_Framework,entity
+the United Kingdom,become,2007,http://example.org/entity/the_United_Kingdom,http://example.org/relation/become,,literal
+the United Nations Development Programme,useRevisedForm,the World Bank,http://example.org/entity/the_United_Nations_Development_Programme,http://example.org/relation/useRevisedForm,http://example.org/entity/the_World_Bank,entity
+the University of Groningen,begin,Knowledge Graphs,http://example.org/entity/the_University_of_Groningen,http://example.org/relation/begin,http://example.org/entity/Knowledge_Graphs,entity
+the University of Groningen,begin,University of Twente,http://example.org/entity/the_University_of_Groningen,http://example.org/relation/begin,http://example.org/entity/University_of_Twente,entity
+the University of Illinois at Chicago,allow,UIC,http://example.org/entity/the_University_of_Illinois_at_Chicago,http://example.org/relation/allow,http://example.org/entity/UIC,entity
+the University of Leeds,develop,Steel Construction Institute,http://example.org/entity/the_University_of_Leeds,http://example.org/relation/develop,http://example.org/entity/Steel_Construction_Institute,entity
+the University of Leeds,develop,UK,http://example.org/entity/the_University_of_Leeds,http://example.org/relation/develop,http://example.org/entity/UK,entity
+the University of Leeds,develop,the late 1990s,http://example.org/entity/the_University_of_Leeds,http://example.org/relation/develop,http://example.org/entity/the_late_1990s,entity
+the University of New South Wales,offer,Sydney,http://example.org/entity/the_University_of_New_South_Wales,http://example.org/relation/offer,http://example.org/entity/Sydney,entity
+the University of Québec,specialize,Chicoutimi,http://example.org/entity/the_University_of_Qu%C3%A9bec,http://example.org/relation/specialize,http://example.org/entity/Chicoutimi,entity
+the University of Sydney,moreThanYear,the late 1960s,http://example.org/entity/the_University_of_Sydney,http://example.org/relation/moreThanYear,http://example.org/entity/the_late_1960s,entity
+the Wayback Machine,archive,CAEWatch,http://example.org/entity/the_Wayback_Machine,http://example.org/relation/archive,http://example.org/entity/CAEWatch,entity
+the Wayback Machine,archive,"September 12, 2011",http://example.org/entity/the_Wayback_Machine,http://example.org/relation/archive,http://example.org/entity/September_12%2C_2011,entity
+the Wayback Machine,design,Encyclopedia of Computer Science,http://example.org/entity/the_Wayback_Machine,http://example.org/relation/design,http://example.org/entity/Encyclopedia_of_Computer_Science,entity
+the Wayback Machine,magazine,December 2011,http://example.org/entity/the_Wayback_Machine,http://example.org/relation/magazine,http://example.org/entity/December_2011,entity
+the Wayback Machine,thesis,1970,http://example.org/entity/the_Wayback_Machine,http://example.org/relation/thesis,,literal
+the Wayback Machine,thesis,University of Edinburgh,http://example.org/entity/the_Wayback_Machine,http://example.org/relation/thesis,http://example.org/entity/University_of_Edinburgh,entity
+the early 1950s,pioneerLike,Alan Turing,http://example.org/entity/the_early_1950s,http://example.org/relation/pioneerLike,http://example.org/entity/Alan_Turing,entity
+the early days,transition,the World Wide Web,http://example.org/entity/the_early_days,http://example.org/relation/transition,http://example.org/entity/the_World_Wide_Web,entity
+the late 1960s[50,establishment,Singapore,http://example.org/entity/the_late_1960s%5B50,http://example.org/relation/establishment,http://example.org/entity/Singapore,entity
+the late 1960s[50,establishment,the National Computer Board,http://example.org/entity/the_late_1960s%5B50,http://example.org/relation/establishment,http://example.org/entity/the_National_Computer_Board,entity
+the late 1970s,emerge,early 1980s,http://example.org/entity/the_late_1970s,http://example.org/relation/emerge,http://example.org/entity/early_1980s,entity
+the late 1970s,include,Chuck Eastman's,http://example.org/entity/the_late_1970s,http://example.org/relation/include,http://example.org/entity/Chuck_Eastman%27s,entity
+the late 1980s,begin,University of Twente,http://example.org/entity/the_late_1980s,http://example.org/relation/begin,http://example.org/entity/University_of_Twente,entity
+the late 1980s,begin,the University of Groningen,http://example.org/entity/the_late_1980s,http://example.org/relation/begin,http://example.org/entity/the_University_of_Groningen,entity
+the late 1990s,approve,the American Institute of Steel Construction,http://example.org/entity/the_late_1990s,http://example.org/relation/approve,http://example.org/entity/the_American_Institute_of_Steel_Construction,entity
+the late 1990s,input,Georgia Tech,http://example.org/entity/the_late_1990s,http://example.org/relation/input,http://example.org/entity/Georgia_Tech,entity
+the mid-1980s,acknowledge,1985,http://example.org/entity/the_mid-1980s,http://example.org/relation/acknowledge,,literal
+the mid-2010s,emerge,Autodesk,http://example.org/entity/the_mid-2010s,http://example.org/relation/emerge,http://example.org/entity/Autodesk,entity
+the year 2011,describe,China,http://example.org/entity/the_year_2011,http://example.org/relation/describe,http://example.org/entity/China,entity
+the year 2011,describe,The First Year,http://example.org/entity/the_year_2011,http://example.org/relation/describe,http://example.org/entity/The_First_Year,entity
+the year 2020,lead,CIDB Malaysia,http://example.org/entity/the_year_2020,http://example.org/relation/lead,http://example.org/entity/CIDB_Malaysia,entity
+the year 2020,lead,the Construction Industry Development Board,http://example.org/entity/the_year_2020,http://example.org/relation/lead,http://example.org/entity/the_Construction_Industry_Development_Board,entity
+the ÖNORM A 6241,publish,15 March 2015,http://example.org/entity/the_%C3%96NORM_A_6241,http://example.org/relation/publish,http://example.org/entity/15_March_2015,entity
+today,usePaper,the mid-1980s,http://example.org/entity/today,http://example.org/relation/usePaper,http://example.org/entity/the_mid-1980s,entity
+today,usePaperMid1980,1985,http://example.org/entity/today,http://example.org/relation/usePaperMid1980,,literal
+two to three years,behind,The Netherlands,http://example.org/entity/two_to_three_years,http://example.org/relation/behind,http://example.org/entity/The_Netherlands,entity
+two to three years,behind,UK,http://example.org/entity/two_to_three_years,http://example.org/relation/behind,http://example.org/entity/UK,entity

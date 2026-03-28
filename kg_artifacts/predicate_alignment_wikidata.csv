@@ -1,0 +1,808 @@
+subject,subject_label,relation,object,object_label,subject_qid,object_qid,status,matched_property_id,matched_property_label,matched_property_uri,similarity_score
+"""Design Computing and Cognition",ORG,lead,biannual,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+'PaxSims' blog,ORG,archive,2 November 2022,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+'PaxSims' blog,ORG,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+1 January 2019.[89][90,DATE,issue,Lithuania,GPE,,Q37,entities_not_aligned_to_wikidata,,,,0.0
+10 December 2017,DATE,design,Encyclopedia of Computer Science,ORG,,Q126683668,entities_not_aligned_to_wikidata,,,,0.0
+10 December 2017,DATE,design,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+10 October 2020,DATE,react,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+14 July 2012,DATE,archive.today,2005,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+14 July 2012,DATE,archive.today,Eriksson,PERSON,,Q1354604,entities_not_aligned_to_wikidata,,,,0.0
+14 July 2012,DATE,archive.today,Ulf,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+16 April 2009,DATE,react,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+18 aprile 2016,DATE,archive,25 January 2021,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+19 September 2021,DATE,retrieve,Lindsay,PERSON,,Q13403801,entities_not_aligned_to_wikidata,,,,0.0
+19 September 2021,DATE,retrieve,Richard P.,PERSON,,Q110409222,entities_not_aligned_to_wikidata,,,,0.0
+19 September 2021,DATE,retrieve,September 1964,DATE,,Q16676381,entities_not_aligned_to_wikidata,,,,0.0
+1949,DATE,canadian psychologist,Donald Hebb,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+1949,DATE,describe,Donald Hebb,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+1956,DATE,archive,26 April 2011,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+1956,DATE,discover,Svaetichin,PERSON,,Q45902399,entities_not_aligned_to_wikidata,,,,0.0
+1958,DATE,call,Willy Higginbotham,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+1970s,DATE,use,early 1980s,DATE,Q35014,,entities_not_aligned_to_wikidata,,,,0.0
+1972,DATE,austrian linguist,Edgar W. Schneider,PERSON,,Q83154480,entities_not_aligned_to_wikidata,,,,0.0
+1980,DATE,cause,1984,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+1980,DATE,cause,Acornsoft,ORG,,Q3604604,entities_not_aligned_to_wikidata,,,,0.0
+1981,DATE,book,1999,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+1981,DATE,book,Jean Baudrillard,PERSON,,Q182847,entities_not_aligned_to_wikidata,,,,0.0
+1983,DATE,fall,1985,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+1983,DATE,fall,Nintendo,ORG,,Q3070866,entities_not_aligned_to_wikidata,,,,0.0
+1985,DATE,fall,Nintendo,ORG,,Q3070866,entities_not_aligned_to_wikidata,,,,0.0
+1987,DATE,follow,Universal,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+1987,DATE,regard,ArchiCAD,ORG,,Q506636,entities_not_aligned_to_wikidata,,,,0.0
+1988,DATE,find,Commission for Racial Equality,ORG,,Q5152654,entities_not_aligned_to_wikidata,,,,0.0
+1988,DATE,find,St. George's Medical School,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+1988,DATE,find,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+1989,DATE,support,France,GPE,,Q142,entities_not_aligned_to_wikidata,,,,0.0
+1992,DATE,paper,F. P. Tolman.[16,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+1992,DATE,paper,G.A. van Nederveen,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+1998,DATE,create,Andrew Edmonds,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+1998,DATE,create,Science in Finance Ltd,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+1998,DATE,create,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+2 November 2013,DATE,magazine,December 2011,DATE,,Q386251,entities_not_aligned_to_wikidata,,,,0.0
+2 November 2022,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2002,DATE,archive,2015-05-22,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2002,DATE,form,SSH,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2002,DATE,form,the Society for Simulation in Healthcare,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2002,DATE,release,Autodesk,ORG,,Q628051,entities_not_aligned_to_wikidata,,,,0.0
+2003,DATE,archive,-07-08,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2003,DATE,archive,2017-07-04,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2003,DATE,concern,the University of Sydney,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2004,DATE,research,the University of Hong Kong,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2005,DATE,found,Marc Wirk,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+2005,DATE,include,Greg Lynn,PERSON,,Q513374,entities_not_aligned_to_wikidata,,,,0.0
+2005,DATE,include,Quantum Film,ORG,,Q121357737,entities_not_aligned_to_wikidata,,,,0.0
+2006,DATE,media service provider,Netflix,ORG,,Q907311,entities_not_aligned_to_wikidata,,,,0.0
+2007,DATE,archive,2009-08-12,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2007,DATE,found,DBpedia,ORG,,Q465,entities_not_aligned_to_wikidata,,,,0.0
+2007,DATE,found,Freebase,ORG,,Q1453477,entities_not_aligned_to_wikidata,,,,0.0
+2007,DATE,need,Erezi,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+2007,DATE,need,Utiome,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+2008,DATE,foreword,Eastman,PERSON,,Q3046582,entities_not_aligned_to_wikidata,,,,0.0
+2008,DATE,op cit p.xii,Van Nederveen,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2009,DATE,through initiative,2013,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2009,DATE,through initiative,Switzerland,GPE,,Q39,entities_not_aligned_to_wikidata,,,,0.0
+2010,DATE,article,The Wall Street Journal,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2010,DATE,establish,Cisco Systems,ORG,,Q173395,entities_not_aligned_to_wikidata,,,,0.0
+2010,DATE,establish,the Clinton Foundation,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2011,DATE,attract,Barcelona,GPE,,Q1492,entities_not_aligned_to_wikidata,,,,0.0
+2011,DATE,attract,the Smart City Expo World Congress,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2011,DATE,hear,2020,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,business value,South Korea,GPE,,Q884,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,co founder,", Vinod Khosla",PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,co founder,Sun Microsystems,ORG,,Q14647,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,establish,the Smart Cities Marketplace,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,estimate,2017,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,include,the Civil and Environmental Engineering Department,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,introduce,DBpedia,ORG,,Q465,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,introduce,Freebase,ORG,,Q1453477,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,introduce,Google,ORG,,Q95,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,professional engineer university,Iran,GPE,,Q794,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,status adoption implementation,South Korea.[74,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+2012,DATE,through,Ministry of Housing and Urban-Rural Development.[36,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2013,DATE,develop,2007,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2013,DATE,develop,the United Kingdom,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+2013,DATE,mandate,2015 to 2017,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2013,DATE,show,France,GPE,,Q142,entities_not_aligned_to_wikidata,,,,0.0
+2013,DATE,structural m&e submission,2014,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2013,DATE,survey,European BIM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2014,DATE,state outlook,India,GPE,,Q668,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,archive,14 April 2019,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,archive,16 August 2019,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,chapter,Domingos,PERSON,,Q18695825,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,many project rebuilding,Christchurch,GPE,,Q79990,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,possibility,Russia,GPE,,Q159,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,promote,Portugal,GPE,,Q45,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,promote,the Technical Committee for BIM Standardisation,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,propose,the United Kingdom,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+2015,DATE,tag,Google Photos,ORG,,Q20007086,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,launch,AT&T,ORG,,Q35476,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,launch,Cisco,ORG,,Q173395,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,launch,Deloitte,ORG,,Q491748,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,launch,Ericsson,ORG,,Q52618,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,launch,General Electric,ORG,,Q54173,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,lead,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,set,Quality and Conformity Commission,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,set,UAE,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,test,Microsoft,ORG,,Q2283,entities_not_aligned_to_wikidata,,,,0.0
+2016,DATE,test,Twitter,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2017,DATE,detection,Encyclopedia of Database Systems,ORG,,Q63033999,entities_not_aligned_to_wikidata,,,,0.0
+2017,DATE,detection,Springer New York,ORG,,Q21694652,entities_not_aligned_to_wikidata,,,,0.0
+2017,DATE,supersede,CSTB,ORG,,Q17911028,entities_not_aligned_to_wikidata,,,,0.0
+2017,DATE,supersede,France,GPE,,Q142,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,administer,the Association for the Development of Digital in Construction,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,announce,Belgrade,GPE,,Q3711,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,announce,Huawei,ORG,,Q160120,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,announce,Serbia,GPE,,Q403,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,automation congress,WAC,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,begin,Kuala Lumpur,GPE,,Q1865,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,drive,Uber,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2018,DATE,promote,the Ministry of Economic Affairs,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2019-04-01,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2019-12-05,DATE,archive,28 November 2019,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2019-12-05,DATE,archive,The Sun,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2020-07-28,DATE,external link,1982,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2020-07-28,DATE,external link,MIT,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2020-08-01,DATE,archive,CAEWatch,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2020-08-01,DATE,archive,"September 12, 2011",DATE,,Q22664452,entities_not_aligned_to_wikidata,,,,0.0
+2020-08-01,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2021,DATE,look,NIBS,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2021,DATE,look,the National Institute of Building Sciences,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2022,DATE,forecast,New York City,GPE,,Q60,entities_not_aligned_to_wikidata,,,,0.0
+2022,DATE,forecast,Singapore,GPE,,Q334,entities_not_aligned_to_wikidata,,,,0.0
+2022,DATE,forecast,Tokyo,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+2023,DATE,empower,Salisbury,GPE,,Q160642,entities_not_aligned_to_wikidata,,,,0.0
+2024,DATE,exemplify,LLM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+2025,DATE,start,1 January 2019.[89][90,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+2025-12-05,DATE,b c,Ehrlinger,PERSON,,Q37485558,entities_not_aligned_to_wikidata,,,,0.0
+2025-12-05,DATE,b c,Lisa,PERSON,,Q1588186,entities_not_aligned_to_wikidata,,,,0.0
+2025-12-05,DATE,b c,Wöß,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+22 December 2017,DATE,thesis,1970,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+22 December 2017,DATE,thesis,University of Edinburgh,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+25 February 2021,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+26 April 2011,DATE,circulate,1956,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+27 January 2009,DATE,archive,2 November 2022,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+27 January 2009,DATE,archive,Kratzig,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+27 January 2009,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+28 November 2019,DATE,archive,Nigeria,GPE,,Q1033,entities_not_aligned_to_wikidata,,,,0.0
+28 November 2019,DATE,archive,The Sun,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+31 January 2019,DATE,access,28 January 2024,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+4,DATE,publish,January 2017,DATE,,Q20650869,entities_not_aligned_to_wikidata,,,,0.0
+4 June 2016,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+5 October 2012,DATE,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+6 March 2008,DATE,see,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+82,ORG,develop,Apollo,ORG,,Q665812,entities_not_aligned_to_wikidata,,,,0.0
+AID,ORG,rename,"""Design Computing and Cognition",ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+AND Construction,ORG,found,2017,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+ASCN,ORG,advance across,ASEAN,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+ASP,ORG,script,Kerr,PERSON,,Q4042166,entities_not_aligned_to_wikidata,,,,0.0
+AT&T,ORG,launch,Cisco,ORG,Q35476,Q173395,no_predicate_found,,,,0.0
+AT&T,ORG,launch,Deloitte,ORG,Q35476,Q491748,no_predicate_found,,,,0.0
+AT&T,ORG,launch,Ericsson,ORG,Q35476,Q52618,no_predicate_found,,,,0.0
+AT&T,ORG,launch,General Electric,ORG,Q35476,Q54173,no_predicate_found,,,,0.0
+AT&T Labs-Research,ORG,collaboration team,Big Chaos,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+AT&T Labs-Research,ORG,collaboration team,Pragmatic Theory,ORG,,Q7237641,entities_not_aligned_to_wikidata,,,,0.0
+Accuscore,ORG,license,ESPN,ORG,,Q217776,entities_not_aligned_to_wikidata,,,,0.0
+Acornsoft,ORG,cause,1984,DATE,Q3604604,,entities_not_aligned_to_wikidata,,,,0.0
+Airbnb,ORG,include,Amazon,ORG,Q63327,Q3884,no_predicate_found,,,,0.0
+Airbnb,ORG,include,Microsoft,ORG,Q63327,Q2283,no_predicate_found,,,,0.0
+Airbnb,ORG,include,Uber,ORG,Q63327,,entities_not_aligned_to_wikidata,,,,0.0
+Alexander Bain,PERSON,propose,William James,PERSON,Q384882,,entities_not_aligned_to_wikidata,,,,0.0
+Alfredo,PERSON,reconstruct,2002,DATE,Q645734,,entities_not_aligned_to_wikidata,,,,0.0
+Alibaba,ORG,clash,China,GPE,Q1359568,Q148,candidate_found,P17,http://www.wikidata.org/prop/direct/P17,http://www.wikidata.org/prop/direct/P17,0.056
+Amazon,ORG,include,Uber,ORG,Q3884,,entities_not_aligned_to_wikidata,,,,0.0
+Amazon,ORG,social network such,Facebook,ORG,Q3884,Q355,no_predicate_found,,,,0.0
+Amazon,ORG,social network such,LinkedIn,ORG,Q3884,Q213660,no_predicate_found,,,,0.0
+America,GPE,accord,David K. Owens,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+America,GPE,need,NARUC,ORG,,Q108748987,entities_not_aligned_to_wikidata,,,,0.0
+Amsterdam,GPE,establish,Seoul,GPE,Q727,Q8684,no_predicate_found,,,,0.0
+Andia,PERSON,reconstruct,2002,DATE,Q115925869,,entities_not_aligned_to_wikidata,,,,0.0
+Andia,PERSON,reconstruct,Alfredo,PERSON,Q115925869,Q645734,no_predicate_found,,,,0.0
+Andrew Edmonds,PERSON,create,Science in Finance Ltd,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Andrew Edmonds,PERSON,create,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+Apple,ORG,associate,Amazon,ORG,Q312,Q3884,no_predicate_found,,,,0.0
+Apple,ORG,social network such,LinkedIn,ORG,Q312,Q213660,no_predicate_found,,,,0.0
+April 2016,DATE,publish,the UK Government,ORG,Q2874588,,entities_not_aligned_to_wikidata,,,,0.0
+Arthur Samuel,PERSON,coin,1959,DATE,Q710266,,entities_not_aligned_to_wikidata,,,,0.0
+Associated General Contractors of America,ORG,require,US,GPE,Q21015616,,entities_not_aligned_to_wikidata,,,,0.0
+Atari,ORG,cause,1980,DATE,Q207922,,entities_not_aligned_to_wikidata,,,,0.0
+Atari,ORG,cause,1984,DATE,Q207922,,entities_not_aligned_to_wikidata,,,,0.0
+Atari,ORG,cause,Acornsoft,ORG,Q207922,Q3604604,no_predicate_found,,,,0.0
+August 2004,DATE,estimate,Institute of Standards and Technology,ORG,Q760686,,entities_not_aligned_to_wikidata,,,,0.0
+August 2004,DATE,estimate,NIST,ORG,Q760686,,entities_not_aligned_to_wikidata,,,,0.0
+August 2004,DATE,estimate,US,GPE,Q760686,,entities_not_aligned_to_wikidata,,,,0.0
+Australia,GPE,more than year,the late 1960s,DATE,Q408,,entities_not_aligned_to_wikidata,,,,0.0
+Autodesk,ORG,dominate,Dassault Systèmes,ORG,Q628051,Q1172038,no_predicate_found,,,,0.0
+Autodesk,ORG,dominate,PTC,ORG,Q628051,,entities_not_aligned_to_wikidata,,,,0.0
+Autodesk,ORG,dominate,Siemens PLM Software,ORG,Q628051,,entities_not_aligned_to_wikidata,,,,0.0
+Autodesk,ORG,help,Bentley Systems,ORG,Q628051,Q818314,no_predicate_found,,,,0.0
+Autodesk,ORG,help,Graphisoft,ORG,Q628051,Q743588,no_predicate_found,,,,0.0
+BCA,ORG,magazine,December 2011,DATE,,Q386251,entities_not_aligned_to_wikidata,,,,0.0
+BIM,ORG,enhance,Fashola,PERSON,,Q62356,entities_not_aligned_to_wikidata,,,,0.0
+BIM,ORG,must become standard construction,Germany,GPE,,Q183,entities_not_aligned_to_wikidata,,,,0.0
+BIM,ORG,pencil,2018,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+BIM Africa Initiative,ORG,base,Nigeria,GPE,,Q1033,entities_not_aligned_to_wikidata,,,,0.0
+BIMaS,ORG,establish,January 2013,DATE,Q10429684,Q1206823,no_predicate_found,,,,0.0
+BIMaS,ORG,support,Chamber of Architects,ORG,Q10429684,Q635047,no_predicate_found,,,,0.0
+BIMaS,ORG,support,the Chamber of Civil Engineers,ORG,Q10429684,,entities_not_aligned_to_wikidata,,,,0.0
+BS2015,DATE,14th,Hyderabad,GPE,,Q1361,entities_not_aligned_to_wikidata,,,,0.0
+BS2015,DATE,14th,India,GPE,,Q668,entities_not_aligned_to_wikidata,,,,0.0
+BSI,ORG,launch,CDBB,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Baidu,ORG,clash,China,GPE,Q14772,Q148,candidate_found,P17,http://www.wikidata.org/prop/direct/P17,http://www.wikidata.org/prop/direct/P17,0.056
+Baidu,ORG,develop,Apollo,ORG,Q14772,Q665812,no_predicate_found,,,,0.0
+Banks,PERSON,design,2009,DATE,Q806825,,entities_not_aligned_to_wikidata,,,,0.0
+Barcelona,GPE,establish,ITeC,ORG,Q1492,,entities_not_aligned_to_wikidata,,,,0.0
+Barcelona,GPE,professional,Spain,GPE,Q1492,Q29,candidate_found,P17,http://www.wikidata.org/prop/direct/P17,http://www.wikidata.org/prop/direct/P17,0.186
+Basel,GPE,raise,Felix Platter Hospital[99,ORG,Q78,,entities_not_aligned_to_wikidata,,,,0.0
+Belgrade,GPE,conjunction,Huawei,ORG,Q3711,Q160120,no_predicate_found,,,,0.0
+Bentley Systems,ORG,help,Graphisoft,ORG,Q818314,Q743588,no_predicate_found,,,,0.0
+Bernard P. Zeigler,PERSON,author,Phillip E. Hammonds,PERSON,Q16105529,,entities_not_aligned_to_wikidata,,,,0.0
+Berry,PERSON,get,Christopher R.,PERSON,Q827140,Q109551603,no_predicate_found,,,,0.0
+Big Chaos,ORG,build,Pragmatic Theory,ORG,,Q7237641,entities_not_aligned_to_wikidata,,,,0.0
+Bill East,PERSON,devise,the United States Army Corps of Engineers,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Bing,ORG,associate,Yahoo,ORG,Q182496,,entities_not_aligned_to_wikidata,,,,0.0
+Bischof,PERSON,prove,Pfurtscheller[30,PERSON,Q866108,,entities_not_aligned_to_wikidata,,,,0.0
+Bloomberg Philanthropies,ORG,launch,the Rockefeller Foundation,ORG,Q16987920,,entities_not_aligned_to_wikidata,,,,0.0
+Bloomberg Philanthropies,ORG,launch,the United States Department of Transportation.[21,ORG,Q16987920,,entities_not_aligned_to_wikidata,,,,0.0
+Boston,GPE,television radio station,Polshek Partnership,ORG,Q100,Q107005228,no_predicate_found,,,,0.0
+Boston,GPE,television radio station,WGBH,ORG,Q100,,entities_not_aligned_to_wikidata,,,,0.0
+British Standards Institute,ORG,initiative,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+Bruzzone A.G.,ORG,base,Guide to Simulation-Based Disciplines,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Brydges,PERSON,et al,2013,DATE,Q21507019,,entities_not_aligned_to_wikidata,,,,0.0
+BuildSmart,ORG,archive,2 November 2013,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+BuildSmart,ORG,archive,BCA,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+BuildSmart,ORG,archive,the Wayback Machine,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Building and Construction Authority,ORG,announce,BCA,ORG,Q4986523,,entities_not_aligned_to_wikidata,,,,0.0
+BuildingSmart Hong Kong,ORG,inaugurate,Hong Kong,GPE,,Q8646,entities_not_aligned_to_wikidata,,,,0.0
+BuildingSmart Hong Kong,ORG,inaugurate,late April 2012.[62,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+C. A. Brebbia,PERSON,digital architecture construction abstract,S. Hatzellis,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+C. A. Brebbia,PERSON,digital architecture construction abstract,University of Technology,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+CAEWatch,ORG,archive,"September 12, 2011",DATE,,Q22664452,entities_not_aligned_to_wikidata,,,,0.0
+CANBIM,ORG,found,the Institute for BIM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+CDBB,ORG,launch,the BSI Group,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+CDBB,ORG,launch,the UK BIM Alliance[a,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+CDBB,ORG,launch,the UK BIM Framework,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+CIA,ORG,incorporate,Wikidata,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+CRIDA,ORG,include,"Faculty of Architecture, Building and Planning",ORG,Q77163370,,entities_not_aligned_to_wikidata,,,,0.0
+CRIDA,ORG,include,University of Melbourne,ORG,Q77163370,,entities_not_aligned_to_wikidata,,,,0.0
+CSTB,ORG,supersede,France,GPE,Q17911028,Q142,no_predicate_found,,,,0.0
+CT197-BIM,ORG,create,Portugal,GPE,,Q45,entities_not_aligned_to_wikidata,,,,0.0
+Cambridge,GPE,base,Centre for Digital Built Britain,ORG,Q49111,Q85751274,no_predicate_found,,,,0.0
+Cambridge,GPE,base,December 2017,DATE,Q49111,Q22971091,no_predicate_found,,,,0.0
+Cambridge,GPE,reprint,1991,DATE,Q49111,,entities_not_aligned_to_wikidata,,,,0.0
+Cambridge,GPE,reprint,MA,GPE,Q49111,,entities_not_aligned_to_wikidata,,,,0.0
+Canada,GPE,found,the Institute for BIM,ORG,Q16,,entities_not_aligned_to_wikidata,,,,0.0
+Canada,GPE,paper,Bank of Canada,ORG,Q16,Q806703,candidate_found,P1304,http://www.wikidata.org/prop/direct/P1304,http://www.wikidata.org/prop/direct/P1304,0.211
+Canada,GPE,support,CANBIM,ORG,Q16,,entities_not_aligned_to_wikidata,,,,0.0
+Canada,GPE,support,the Canada BIM Council,ORG,Q16,,entities_not_aligned_to_wikidata,,,,0.0
+Carnegie Mellon,ORG,include,Department of Computer Science,ORG,Q190080,Q5260203,no_predicate_found,,,,0.0
+Carnegie Mellon,ORG,include,University College London,ORG,Q190080,,entities_not_aligned_to_wikidata,,,,0.0
+Celestino Soddu,PERSON,paper,Generative Art Design Papers,ORG,Q5057948,,entities_not_aligned_to_wikidata,,,,0.0
+Centre for Digital Built Britain,ORG,announce,December 2017,DATE,Q85751274,Q22971091,no_predicate_found,,,,0.0
+Centre for Digital Built Britain,ORG,announce,early 2018.[108,DATE,Q85751274,,entities_not_aligned_to_wikidata,,,,0.0
+Chan,PERSON,enable,3 April 2017,DATE,Q29011444,,entities_not_aligned_to_wikidata,,,,0.0
+Chan,PERSON,enable,Karin,PERSON,Q29011444,Q1814118,no_predicate_found,,,,0.0
+Chicoutimi,GPE,research team outdoor research,Laboratoire d'Expertise et de Recherche en Plein Air,ORG,Q952269,,entities_not_aligned_to_wikidata,,,,0.0
+China,GPE,during,Eleventh,DATE,Q148,Q1930430,no_predicate_found,,,,0.0
+China,GPE,during,Five-Year Plan,DATE,Q148,Q2916326,no_predicate_found,,,,0.0
+China,GPE,include,2014-2020,DATE,Q148,,entities_not_aligned_to_wikidata,,,,0.0
+Christmas,DATE,theme around,Santa Claus,PERSON,Q16826756,Q315796,no_predicate_found,,,,0.0
+Cisco,ORG,launch,Deloitte,ORG,Q173395,Q491748,no_predicate_found,,,,0.0
+Cisco,ORG,launch,Ericsson,ORG,Q173395,Q52618,no_predicate_found,,,,0.0
+Cisco,ORG,launch,General Electric,ORG,Q173395,Q54173,no_predicate_found,,,,0.0
+Cisco,ORG,launch,IBM,ORG,Q173395,,entities_not_aligned_to_wikidata,,,,0.0
+Cisco,ORG,launch,Intel,ORG,Q173395,Q248,no_predicate_found,,,,0.0
+Cisco Systems,ORG,establish,the Clinton Foundation,ORG,Q173395,,entities_not_aligned_to_wikidata,,,,0.0
+Commission for Racial Equality,ORG,find,St. George's Medical School,ORG,Q5152654,,entities_not_aligned_to_wikidata,,,,0.0
+Computational Logic,ORG,reprint,1991,DATE,Q5157327,,entities_not_aligned_to_wikidata,,,,0.0
+Computational Logic,ORG,reprint,Cambridge,GPE,Q5157327,Q49111,no_predicate_found,,,,0.0
+Computational Logic,ORG,reprint,MA,GPE,Q5157327,,entities_not_aligned_to_wikidata,,,,0.0
+Computational Logic,ORG,reprint,The MIT Press,ORG,Q5157327,,entities_not_aligned_to_wikidata,,,,0.0
+Critical Research in Digital Architecture,ORG,include,CRIDA,ORG,,Q77163370,entities_not_aligned_to_wikidata,,,,0.0
+Critical Research in Digital Architecture,ORG,include,"Faculty of Architecture, Building and Planning",ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Critical Research in Digital Architecture,ORG,include,University of Melbourne,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Czech Republic,GPE,establish,May 2011,DATE,Q213,Q276430,no_predicate_found,,,,0.0
+DBpedia,ORG,focus,Freebase,ORG,Q465,Q1453477,no_predicate_found,,,,0.0
+DBpedia,ORG,focus,Wikipedia,ORG,Q465,,entities_not_aligned_to_wikidata,,,,0.0
+DBpedia,ORG,found,Freebase,ORG,Q465,Q1453477,no_predicate_found,,,,0.0
+DBpedia,ORG,introduce,Freebase,ORG,Q465,Q1453477,no_predicate_found,,,,0.0
+Dahua Technology,ORG,market,Huawei,ORG,Q18111506,Q160120,no_predicate_found,,,,0.0
+Dahua Technology,ORG,market,ZTE,ORG,Q18111506,,entities_not_aligned_to_wikidata,,,,0.0
+Dassault Systèmes,ORG,dominate,PTC,ORG,Q1172038,,entities_not_aligned_to_wikidata,,,,0.0
+Dassault Systèmes,ORG,dominate,Siemens PLM Software,ORG,Q1172038,,entities_not_aligned_to_wikidata,,,,0.0
+David K. Owens,PERSON,former executive vice president,the Edison Electric Institute,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+David Rumelhart,PERSON,continue,Geoffrey Hinton,PERSON,Q93111,Q92894,no_predicate_found,,,,0.0
+Deakin,PERSON,hamper,Al Waer,PERSON,Q1180978,,entities_not_aligned_to_wikidata,,,,0.0
+December 2011,DATE,approve,National Institute of Building Sciences,ORG,Q386251,Q6973613,no_predicate_found,,,,0.0
+December 2011,DATE,approve,US,GPE,Q386251,,entities_not_aligned_to_wikidata,,,,0.0
+December 2015,DATE,german minister transport,Alexander Dobrindt,PERSON,Q16726269,Q85783,no_predicate_found,,,,0.0
+December 2017,DATE,launch,early 2018.[108,DATE,Q22971091,,entities_not_aligned_to_wikidata,,,,0.0
+Deloitte,ORG,launch,Ericsson,ORG,Q491748,Q52618,no_predicate_found,,,,0.0
+Deloitte,ORG,launch,General Electric,ORG,Q491748,Q54173,no_predicate_found,,,,0.0
+Deloitte,ORG,launch,IBM,ORG,Q491748,,entities_not_aligned_to_wikidata,,,,0.0
+Deloitte,ORG,launch,Intel,ORG,Q491748,Q248,no_predicate_found,,,,0.0
+Department of Computer Science,ORG,include,University College London,ORG,Q5260203,,entities_not_aligned_to_wikidata,,,,0.0
+Design and Computation,ORG,know,MIT,ORG,Q26751087,,entities_not_aligned_to_wikidata,,,,0.0
+Design and Computation,ORG,know,the Massachusetts Institute of Technology,ORG,Q26751087,,entities_not_aligned_to_wikidata,,,,0.0
+Digitaalehituse Klaster,ORG,form,2015,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Digital Construction in Lithuania,ORG,hold,2012,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Digital Construction in Lithuania,ORG,hold,annually,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Disney,ORG,follow,Universal,ORG,Q7414,,entities_not_aligned_to_wikidata,,,,0.0
+Domingos,PERSON,chapter,2015,DATE,Q18695825,,entities_not_aligned_to_wikidata,,,,0.0
+Duda,PERSON,continue,Hart,PERSON,Q24283002,Q1587003,no_predicate_found,,,,0.0
+ERANet,ORG,project,FinSESCo,ORG,Q63398105,,entities_not_aligned_to_wikidata,,,,0.0
+Economist,ORG,provide,2012,DATE,Q188094,,entities_not_aligned_to_wikidata,,,,0.0
+Eder-Van Hook,ORG,note,2004,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Edward Bellamy,PERSON,include,Frank Lloyd Wright,PERSON,Q455776,Q5604,no_predicate_found,,,,0.0
+Edward Bellamy,PERSON,include,Le Corbusier.[45][49,PERSON,Q455776,,entities_not_aligned_to_wikidata,,,,0.0
+Edward L.,PERSON,get,Berry,PERSON,,Q827140,entities_not_aligned_to_wikidata,,,,0.0
+Edward L.,PERSON,get,Christopher R.,PERSON,,Q109551603,entities_not_aligned_to_wikidata,,,,0.0
+Ehrlinger,PERSON,retrieve,2016,DATE,Q37485558,,entities_not_aligned_to_wikidata,,,,0.0
+Ehrlinger,PERSON,retrieve,Lisa,PERSON,Q37485558,Q1588186,no_predicate_found,,,,0.0
+Ehrlinger,PERSON,retrieve,Wolfram,PERSON,Q37485558,,entities_not_aligned_to_wikidata,,,,0.0
+Ehrlinger,PERSON,retrieve,Wöß,PERSON,Q37485558,,entities_not_aligned_to_wikidata,,,,0.0
+Ehud Y.,PERSON,archive,21 August 2021,DATE,Q67241453,,entities_not_aligned_to_wikidata,,,,0.0
+Ehud Y.,PERSON,archive,the Wayback Machine,ORG,Q67241453,,entities_not_aligned_to_wikidata,,,,0.0
+Erich,PERSON,detection,Encyclopedia of Database Systems,ORG,Q15277196,Q63033999,no_predicate_found,,,,0.0
+Ericsson,ORG,launch,General Electric,ORG,Q52618,Q54173,no_predicate_found,,,,0.0
+Ericsson,ORG,launch,IBM,ORG,Q52618,,entities_not_aligned_to_wikidata,,,,0.0
+Ericsson,ORG,launch,Intel,ORG,Q52618,Q248,no_predicate_found,,,,0.0
+Estonia,GPE,digital construction cluster,Digitaalehituse Klaster,ORG,Q191,,entities_not_aligned_to_wikidata,,,,0.0
+Estonia,GPE,form,2015,DATE,Q191,,entities_not_aligned_to_wikidata,,,,0.0
+European BIM,ORG,show,France,GPE,,Q142,entities_not_aligned_to_wikidata,,,,0.0
+European Structural and Investment Funds,ORG,through,Enterprise Estonia,ORG,Q846996,Q11858046,no_predicate_found,,,,0.0
+Facebook,ORG,include,Airbnb,ORG,Q355,Q63327,no_predicate_found,,,,0.0
+Facebook,ORG,include,Amazon,ORG,Q355,Q3884,no_predicate_found,,,,0.0
+Facebook,ORG,include,LinkedIn,ORG,Q355,Q213660,no_predicate_found,,,,0.0
+Facebook,ORG,include,Microsoft,ORG,Q355,Q2283,no_predicate_found,,,,0.0
+Facebook,ORG,include,Uber,ORG,Q355,,entities_not_aligned_to_wikidata,,,,0.0
+"Faculty of Architecture, Building and Planning",ORG,include,Carnegie Mellon,ORG,,Q190080,entities_not_aligned_to_wikidata,,,,0.0
+"Faculty of Architecture, Building and Planning",ORG,include,School of Architecture,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+"Faculty of Architecture, Building and Planning",ORG,include,University of Melbourne,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+February 2015,DATE,summit,Barcelona,GPE,Q15985236,Q1492,no_predicate_found,,,,0.0
+February 2015,DATE,summit professional,Spain,GPE,Q15985236,Q29,no_predicate_found,,,,0.0
+February 2016,DATE,recommend,Infrastructure Australia,ORG,Q19249183,Q6031535,no_predicate_found,,,,0.0
+Feng,PERSON,see,"January 9, 2022",DATE,Q62383161,Q69306299,no_predicate_found,,,,0.0
+Feng,PERSON,see,Shen,PERSON,Q62383161,,entities_not_aligned_to_wikidata,,,,0.0
+Feng,PERSON,see,Zheng,PERSON,Q62383161,,entities_not_aligned_to_wikidata,,,,0.0
+Ford,ORG,use,« Siemens PLM Software Blog,ORG,Q44294,,entities_not_aligned_to_wikidata,,,,0.0
+France,GPE,last place government support,2017,DATE,Q142,,entities_not_aligned_to_wikidata,,,,0.0
+Francis Bacon,PERSON,fade,1597,DATE,Q154340,,entities_not_aligned_to_wikidata,,,,0.0
+Frank Lloyd Wright,PERSON,include,Le Corbusier.[45][49,PERSON,Q5604,,entities_not_aligned_to_wikidata,,,,0.0
+Friedman,PERSON,view,1998,DATE,Q1451887,,entities_not_aligned_to_wikidata,,,,0.0
+Friedman,PERSON,view,Jerome H.,PERSON,Q1451887,,entities_not_aligned_to_wikidata,,,,0.0
+Fuller,PERSON,explanation synergetic geometry,R. Buckminster Fuller,PERSON,Q1158382,Q102289,no_predicate_found,,,,0.0
+G.A. van Nederveen,PERSON,appear,F. P. Tolman.[16,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+GMW,ORG,employee,Jonathan Ingram,PERSON,,Q112136774,entities_not_aligned_to_wikidata,,,,0.0
+General Electric,ORG,launch,IBM,ORG,Q54173,,entities_not_aligned_to_wikidata,,,,0.0
+General Electric,ORG,launch,Intel,ORG,Q54173,Q248,no_predicate_found,,,,0.0
+Georgia Tech,ORG,approve,the American Institute of Steel Construction,ORG,Q864855,,entities_not_aligned_to_wikidata,,,,0.0
+Gerhard Schmitt,PERSON,choose,Birger Sevaldson,PERSON,Q112258986,,entities_not_aligned_to_wikidata,,,,0.0
+Germany,GPE,confirm,2020,DATE,Q183,,entities_not_aligned_to_wikidata,,,,0.0
+Germany,GPE,say,two to three years,DATE,Q183,,entities_not_aligned_to_wikidata,,,,0.0
+Germany,GPE,year behind,The Netherlands,GPE,Q183,,entities_not_aligned_to_wikidata,,,,0.0
+Germany,GPE,year behind,UK,GPE,Q183,,entities_not_aligned_to_wikidata,,,,0.0
+Glaeser,PERSON,get,Berry,PERSON,Q36980600,Q827140,no_predicate_found,,,,0.0
+Glaeser,PERSON,get,Christopher R.,PERSON,Q36980600,Q109551603,no_predicate_found,,,,0.0
+Glaeser,PERSON,get,Edward L.,PERSON,Q36980600,,entities_not_aligned_to_wikidata,,,,0.0
+Google,ORG,achieve,Harvard U,ORG,Q95,Q13371,no_predicate_found,,,,0.0
+Google,ORG,achieve,Purdue,ORG,Q95,Q217741,no_predicate_found,,,,0.0
+Google,ORG,associate,Bing,ORG,Q95,Q182496,no_predicate_found,,,,0.0
+Google,ORG,associate,Yahoo,ORG,Q95,,entities_not_aligned_to_wikidata,,,,0.0
+Google,ORG,include,IBM,ORG,Q95,,entities_not_aligned_to_wikidata,,,,0.0
+Google,ORG,introduce,DBpedia,ORG,Q95,Q465,no_predicate_found,,,,0.0
+Google,ORG,introduce,Freebase,ORG,Q95,Q1453477,no_predicate_found,,,,0.0
+Google,ORG,use,LinkedIn,ORG,Q95,Q213660,no_predicate_found,,,,0.0
+Google,ORG,use,Microsoft,ORG,Q95,Q2283,no_predicate_found,,,,0.0
+Google Cloud AI,ORG,service large scale machine,Google,ORG,,Q95,entities_not_aligned_to_wikidata,,,,0.0
+Gordon Plotkin,PERSON,lay,Ehud Shapiro,PERSON,Q967536,Q5348683,no_predicate_found,,,,0.0
+Graphisoft,ORG,acknowledge,Jonathan Ingram,PERSON,Q743588,Q112136774,no_predicate_found,,,,0.0
+Graphisoft,ORG,develop than,Laiserin,ORG,Q743588,,entities_not_aligned_to_wikidata,,,,0.0
+Graphisoft,ORG,founder,Gábor Bojár,PERSON,Q743588,Q5625718,no_predicate_found,,,,0.0
+Graphisoft,ORG,"other industry observer 2003,[20][unreliable",Jerry Laiserin,PERSON,Q743588,,entities_not_aligned_to_wikidata,,,,0.0
+Greg Lynn,PERSON,choose,Gerhard Schmitt,PERSON,Q513374,Q112258986,no_predicate_found,,,,0.0
+Greg Lynn,PERSON,choose,Greg Lynn FORM,ORG,Q513374,Q117114121,no_predicate_found,,,,0.0
+Greg Lynn,PERSON,choose,Jacob van Rijs,PERSON,Q513374,Q225927,no_predicate_found,,,,0.0
+Greg Lynn,PERSON,choose,MVRDV,ORG,Q513374,Q932801,no_predicate_found,,,,0.0
+Greg Lynn FORM,ORG,choose,Birger Sevaldson,PERSON,Q117114121,,entities_not_aligned_to_wikidata,,,,0.0
+Greg Lynn FORM,ORG,choose,Gerhard Schmitt,PERSON,Q117114121,Q112258986,no_predicate_found,,,,0.0
+Greg Lynn FORM,ORG,choose,Jacob van Rijs,PERSON,Q117114121,Q225927,no_predicate_found,,,,0.0
+Greg Lynn FORM,ORG,choose,MVRDV,ORG,Q117114121,Q932801,no_predicate_found,,,,0.0
+Gábor Bojár,PERSON,acknowledge,Jonathan Ingram,PERSON,Q5625718,Q112136774,no_predicate_found,,,,0.0
+Hamstra,PERSON,et al,2013,DATE,Q37044479,,entities_not_aligned_to_wikidata,,,,0.0
+Helsinki,ORG,plan carbon neutral,2030,DATE,Q1757,,entities_not_aligned_to_wikidata,,,,0.0
+Hong Kong,GPE,inaugurate,late April 2012.[62,DATE,Q8646,,entities_not_aligned_to_wikidata,,,,0.0
+Hong Kong,GPE,introduce,2006,DATE,Q8646,,entities_not_aligned_to_wikidata,,,,0.0
+Hong Kong,GPE,introduce,the Hong Kong Housing Authority,ORG,Q8646,,entities_not_aligned_to_wikidata,,,,0.0
+Huawei,ORG,market,ZTE,ORG,Q160120,,entities_not_aligned_to_wikidata,,,,0.0
+IBIMA,ORG,found,2012,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+IBIMA,ORG,found,Iran,GPE,,Q794,entities_not_aligned_to_wikidata,,,,0.0
+IBM,ORG,fail after,years,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+IBM,ORG,include,Google,ORG,,Q95,entities_not_aligned_to_wikidata,,,,0.0
+IBM,ORG,launch,Intel,ORG,,Q248,entities_not_aligned_to_wikidata,,,,0.0
+IBM,ORG,recommend,STAT,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+IBM,ORG,recommend,Watson,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+IDC,ORG,forecast,2022,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Innovation,ORG,automate,Helsinki,ORG,Q174165,Q1757,no_predicate_found,,,,0.0
+Innovation,ORG,plan carbon neutral,2030,DATE,Q174165,,entities_not_aligned_to_wikidata,,,,0.0
+Institute of Standards and Technology,ORG,estimate,NIST,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Institute of Standards and Technology,ORG,estimate,annually,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Iran,GPE,include,Amirkabir University of Technology.[67,ORG,Q794,,entities_not_aligned_to_wikidata,,,,0.0
+Iran,GPE,include,the Civil and Environmental Engineering Department,ORG,Q794,,entities_not_aligned_to_wikidata,,,,0.0
+Iran,GPE,preliminary result,September 2016,DATE,Q794,Q19249552,no_predicate_found,,,,0.0
+Ireland,GPE,pilot,Department for Public Expenditure and Reform,ORG,Q27,,entities_not_aligned_to_wikidata,,,,0.0
+Ireland,GPE,pilot,November 2017,DATE,Q27,Q21706740,no_predicate_found,,,,0.0
+J.-L. Lassez,PERSON,reprint,Computational Logic,ORG,,Q5157327,entities_not_aligned_to_wikidata,,,,0.0
+J.-L. Lassez,PERSON,reprint,Plotkin,PERSON,,Q21496946,entities_not_aligned_to_wikidata,,,,0.0
+J.-L. Lassez,PERSON,reprint,The MIT Press,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+JIA,ORG,release,2012,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Jacob van Rijs,PERSON,choose,Birger Sevaldson,PERSON,Q225927,,entities_not_aligned_to_wikidata,,,,0.0
+Jacob van Rijs,PERSON,choose,Gerhard Schmitt,PERSON,Q225927,Q112258986,no_predicate_found,,,,0.0
+Jacob van Rijs,PERSON,choose,MVRDV,ORG,Q225927,Q932801,no_predicate_found,,,,0.0
+January 2017,DATE,follow within,a year,DATE,Q20650869,,entities_not_aligned_to_wikidata,,,,0.0
+January 2019,DATE,publish,ISO,ORG,Q46992899,,entities_not_aligned_to_wikidata,,,,0.0
+Japan Institute of Architects,ORG,release,2012,DATE,Q1683375,,entities_not_aligned_to_wikidata,,,,0.0
+Japan Institute of Architects,ORG,release,JIA,ORG,Q1683375,,entities_not_aligned_to_wikidata,,,,0.0
+Jerome H.,PERSON,view,1998,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Jerry,PERSON,foreword,Eastman,PERSON,Q3808011,Q3046582,no_predicate_found,,,,0.0
+Jie,PERSON,et al,2020,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+John Fontana,PERSON,pull,4 Dec 2007,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+John Hopfield,PERSON,continue,David Rumelhart,PERSON,Q391237,Q93111,no_predicate_found,,,,0.0
+John Hopfield,PERSON,continue,Geoffrey Hinton,PERSON,Q391237,Q92894,no_predicate_found,,,,0.0
+John Maeda,PERSON,design number,2001,DATE,Q93024,,entities_not_aligned_to_wikidata,,,,0.0
+John Maeda,PERSON,design number,MIT Press,ORG,Q93024,Q73820,no_predicate_found,,,,0.0
+Jonathan Ingram,PERSON,open letter advanced,1986,DATE,Q112136774,,entities_not_aligned_to_wikidata,,,,0.0
+July 2015,DATE,meeting,Ministry of Infrastructure,ORG,Q16726273,,entities_not_aligned_to_wikidata,,,,0.0
+July 2015,DATE,meeting,Spain,GPE,Q16726273,Q29,no_predicate_found,,,,0.0
+June 2011,DATE,publish,UK,GPE,Q330356,,entities_not_aligned_to_wikidata,,,,0.0
+KCDC,ORG,know,the Design Lab,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+KCDC,ORG,know,the University of Sydney,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Karin,PERSON,enable,3 April 2017,DATE,Q1814118,,entities_not_aligned_to_wikidata,,,,0.0
+Keinrath,PERSON,prove,Bischof,PERSON,Q83361878,Q866108,no_predicate_found,,,,0.0
+Keinrath,PERSON,prove,Pfurtscheller[30,PERSON,Q83361878,,entities_not_aligned_to_wikidata,,,,0.0
+Keinrath,PERSON,prove,Scherer,PERSON,Q83361878,Q47164208,no_predicate_found,,,,0.0
+La Comissió Construïm el Futur,ORG,transl,The Commission Building the Future,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Laiserin,PERSON,archive,-07-08,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Laiserin,PERSON,archive,2017-07-04,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Laiserin,PERSON,comment letter,John Mullan,PERSON,,Q6249752,entities_not_aligned_to_wikidata,,,,0.0
+Laiserin,PERSON,foreword,Eastman,PERSON,,Q3046582,entities_not_aligned_to_wikidata,,,,0.0
+Laiserin,PERSON,foreword,"Eastman, et al",ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Lee,PERSON,prove,Bischof,PERSON,,Q866108,entities_not_aligned_to_wikidata,,,,0.0
+Lee,PERSON,prove,Keinrath,PERSON,,Q83361878,entities_not_aligned_to_wikidata,,,,0.0
+Lee,PERSON,prove,Pfurtscheller[30,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+Lee,PERSON,prove,Scherer,PERSON,,Q47164208,entities_not_aligned_to_wikidata,,,,0.0
+Leite,ORG,address,Akinci,PERSON,Q21482960,,entities_not_aligned_to_wikidata,,,,0.0
+Lindsay,PERSON,retrieve,Richard P.,PERSON,Q13403801,Q110409222,no_predicate_found,,,,0.0
+Lindsay,PERSON,retrieve,September 1964,DATE,Q13403801,Q16676381,no_predicate_found,,,,0.0
+LinkedIn,ORG,associate,Facebook,ORG,Q213660,Q355,no_predicate_found,,,,0.0
+LinkedIn,ORG,include,Airbnb,ORG,Q213660,Q63327,no_predicate_found,,,,0.0
+LinkedIn,ORG,include,Amazon,ORG,Q213660,Q3884,no_predicate_found,,,,0.0
+LinkedIn,ORG,include,Microsoft,ORG,Q213660,Q2283,no_predicate_found,,,,0.0
+LinkedIn,ORG,include,Uber,ORG,Q213660,,entities_not_aligned_to_wikidata,,,,0.0
+LinkedIn,ORG,use,Facebook,ORG,Q213660,Q355,no_predicate_found,,,,0.0
+Lisa,PERSON,retrieve,2016,DATE,Q1588186,,entities_not_aligned_to_wikidata,,,,0.0
+Lisa,PERSON,retrieve,Wolfram,PERSON,Q1588186,,entities_not_aligned_to_wikidata,,,,0.0
+Lisa,PERSON,retrieve,Wöß,PERSON,Q1588186,,entities_not_aligned_to_wikidata,,,,0.0
+Liu,PERSON,influence,2022,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+London,GPE,introduce,2009,DATE,Q84,,entities_not_aligned_to_wikidata,,,,0.0
+Los Angeles,GPE,experience,the late 1960s[50,DATE,Q65,,entities_not_aligned_to_wikidata,,,,0.0
+Los Angeles,GPE,late establishment,Singapore,GPE,Q65,Q334,no_predicate_found,,,,0.0
+Los Angeles,GPE,late establishment,the National Computer Board,ORG,Q65,,entities_not_aligned_to_wikidata,,,,0.0
+MA,GPE,reprint,1991,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+MIT Press,ORG,isbn,1995,DATE,Q73820,,entities_not_aligned_to_wikidata,,,,0.0
+MIT Press,ORG,isbn,Bishop,PERSON,Q73820,Q611644,no_predicate_found,,,,0.0
+MIT Technology Review,ORG,vol no,May/June 2021,DATE,Q796078,Q137548546,no_predicate_found,,,,0.0
+MVRDV,ORG,choose,Birger Sevaldson,PERSON,Q932801,,entities_not_aligned_to_wikidata,,,,0.0
+MVRDV,ORG,choose,Gerhard Schmitt,PERSON,Q932801,Q112258986,no_predicate_found,,,,0.0
+Malaysia,GPE,target towards,the year 2020,DATE,Q833,,entities_not_aligned_to_wikidata,,,,0.0
+Massachusetts Institute of Technology's,ORG,group,Georgia Tech,ORG,,Q864855,entities_not_aligned_to_wikidata,,,,0.0
+Massei M.,PERSON,base,Guide to Simulation-Based Disciplines,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+May 2011,DATE,call,Paul Morrell,PERSON,Q276430,Q16732880,no_predicate_found,,,,0.0
+McGraw Hill,ORG,publish,2012,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+McGraw Hill Construction[page,ORG,need,Drogemuller,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+McGraw Hill Construction[page,ORG,need,Erezi,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+McGraw Hill Construction[page,ORG,need,Robin,PERSON,,Q1158139,entities_not_aligned_to_wikidata,,,,0.0
+McGraw Hill Construction[page,ORG,need,Utiome,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+Mediaconstruct,ORG,exist,1989,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Mediaconstruct,ORG,exist,France,GPE,,Q142,entities_not_aligned_to_wikidata,,,,0.0
+Meintjes,PERSON,see,Keith,PERSON,Q32856266,Q1159033,no_predicate_found,,,,0.0
+Microsoft,ORG,include,Amazon,ORG,Q2283,Q3884,no_predicate_found,,,,0.0
+Microsoft,ORG,include,Uber,ORG,Q2283,,entities_not_aligned_to_wikidata,,,,0.0
+Microsoft,ORG,pull,4 Dec 2007,DATE,Q2283,,entities_not_aligned_to_wikidata,,,,0.0
+Microsoft,ORG,pull,John Fontana,PERSON,Q2283,,entities_not_aligned_to_wikidata,,,,0.0
+Microsoft,ORG,test,Twitter,ORG,Q2283,,entities_not_aligned_to_wikidata,,,,0.0
+Microsoft,ORG,use,Facebook,ORG,Q2283,Q355,no_predicate_found,,,,0.0
+Microsoft,ORG,use,LinkedIn,ORG,Q2283,Q213660,candidate_found,P1830,http://www.wikidata.org/prop/direct/P1830,http://www.wikidata.org/prop/direct/P1830,0.056
+Microsoft Research’s,ORG,exemplify,2024,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Microsoft Research’s,ORG,exemplify,LLM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Mitchell,PERSON,archive,1997,DATE,Q179205,,entities_not_aligned_to_wikidata,,,,0.0
+NIBS,ORG,look,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+NIBS,ORG,look,US,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+NIST,ORG,estimate,annually,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+NORAD,ORG,track,Santa Claus,PERSON,,Q315796,entities_not_aligned_to_wikidata,,,,0.0
+NORAD,ORG,track,today,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+National Aeronautics and Space Administration,ORG,document revision,2009,DATE,Q23548,,entities_not_aligned_to_wikidata,,,,0.0
+National Aeronautics and Space Administration,ORG,revision,June 2009,DATE,Q23548,Q235735,no_predicate_found,,,,0.0
+National Building Specification,ORG,publish into,UK,GPE,Q6971141,,entities_not_aligned_to_wikidata,,,,0.0
+New Zealand,GPE,commission,2015,DATE,Q664,,entities_not_aligned_to_wikidata,,,,0.0
+New Zealand,GPE,many project rebuilding,Christchurch,GPE,Q664,Q79990,no_predicate_found,,,,0.0
+Nikolai,PERSON,archive,14 April 2019,DATE,Q30442370,,entities_not_aligned_to_wikidata,,,,0.0
+Nikolai,PERSON,possibility,Russia,GPE,Q30442370,Q159,no_predicate_found,,,,0.0
+Nils J.,PERSON,archive,16 August 2019,DATE,Q12717215,,entities_not_aligned_to_wikidata,,,,0.0
+Nils J.,PERSON,archive,the Wayback Machine,ORG,Q12717215,,entities_not_aligned_to_wikidata,,,,0.0
+Nilsson,PERSON,archive,16 August 2019,DATE,Q15829860,,entities_not_aligned_to_wikidata,,,,0.0
+Nima,ORG,put,UK BIM Alliance,ORG,Q465164,,entities_not_aligned_to_wikidata,,,,0.0
+November 2017,DATE,merge,Ireland,GPE,Q21706740,Q27,no_predicate_found,,,,0.0
+November 2017,DATE,merge,UK,GPE,Q21706740,,entities_not_aligned_to_wikidata,,,,0.0
+November 2017,DATE,merge,the UK BIM Alliance,ORG,Q21706740,,entities_not_aligned_to_wikidata,,,,0.0
+November 2017,DATE,pilot,Department for Public Expenditure and Reform,ORG,Q21706740,,entities_not_aligned_to_wikidata,,,,0.0
+November 2017,DATE,pilot,Ireland,GPE,Q21706740,Q27,no_predicate_found,,,,0.0
+Oceania,GPE,recommend,February 2016,DATE,Q538,Q19249183,no_predicate_found,,,,0.0
+Oceania,GPE,recommend,Infrastructure Australia,ORG,Q538,Q6031535,no_predicate_found,,,,0.0
+October 2019,DATE,launch,CDBB,ORG,Q47087606,,entities_not_aligned_to_wikidata,,,,0.0
+October 2019,DATE,launch,the BSI Group,ORG,Q47087606,,entities_not_aligned_to_wikidata,,,,0.0
+October 2019,DATE,launch,the UK BIM Alliance[a,ORG,Q47087606,,entities_not_aligned_to_wikidata,,,,0.0
+Oh,PERSON,propose,2019,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+OpenBIM,ORG,initiative,buildingSMART,ORG,Q128333838,,entities_not_aligned_to_wikidata,,,,0.0
+PTNB,ORG,create,2013,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+PTNB,ORG,create,2015 to 2017,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+PTNB,ORG,supersede,2018,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Patrick Jensen,PERSON,research,the University of Hong Kong,ORG,Q50365085,,entities_not_aligned_to_wikidata,,,,0.0
+Patrick Jensen,PERSON,trace,2004,DATE,Q50365085,,entities_not_aligned_to_wikidata,,,,0.0
+Pittsburgh,GPE,put,San Diego,GPE,Q1342,Q16552,no_predicate_found,,,,0.0
+Plotkin,PERSON,reprint,Cambridge,GPE,Q21496946,Q49111,no_predicate_found,,,,0.0
+Plotkin,PERSON,reprint,Computational Logic,ORG,Q21496946,Q5157327,no_predicate_found,,,,0.0
+Plotkin,PERSON,reprint,The MIT Press,ORG,Q21496946,,entities_not_aligned_to_wikidata,,,,0.0
+Poland,GPE,centre,BIM Cluster,ORG,Q36,,entities_not_aligned_to_wikidata,,,,0.0
+Portugal,GPE,begin,2015,DATE,Q45,,entities_not_aligned_to_wikidata,,,,0.0
+Portugal,GPE,normalisation,CT197-BIM,ORG,Q45,,entities_not_aligned_to_wikidata,,,,0.0
+Portugal,GPE,normalisation,the Technical Committee for BIM Standardisation,ORG,Q45,,entities_not_aligned_to_wikidata,,,,0.0
+Pragmatic Theory,ORG,build,2009,DATE,Q7237641,,entities_not_aligned_to_wikidata,,,,0.0
+Public Services and Procurement Canada,ORG,update,31 January 2019,DATE,Q7257673,,entities_not_aligned_to_wikidata,,,,0.0
+Purdue,ORG,achieve,Harvard U,ORG,Q217741,Q13371,no_predicate_found,,,,0.0
+Quantum Film,ORG,choose,Greg Lynn,PERSON,Q121357737,Q513374,no_predicate_found,,,,0.0
+Quantum Film,ORG,choose,Greg Lynn FORM,ORG,Q121357737,Q117114121,no_predicate_found,,,,0.0
+Quantum Film,ORG,choose,Jacob van Rijs,PERSON,Q121357737,Q225927,no_predicate_found,,,,0.0
+Quantum Film,ORG,choose,MVRDV,ORG,Q121357737,Q932801,no_predicate_found,,,,0.0
+Rakesh Agrawal,PERSON,introduce,Arun Swami,PERSON,Q3418043,Q51140510,no_predicate_found,,,,0.0
+Rakesh Agrawal,PERSON,introduce,Tomasz Imieliński,PERSON,Q3418043,,entities_not_aligned_to_wikidata,,,,0.0
+Ray,PERSON,archive,26 April 2011,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Rebellion Research,ORG,predict,2008,DATE,Q24884471,,entities_not_aligned_to_wikidata,,,,0.0
+Richard P.,PERSON,retrieve,September 1964,DATE,Q110409222,Q16676381,no_predicate_found,,,,0.0
+Robert South,PERSON,fade,1697,DATE,Q216838,,entities_not_aligned_to_wikidata,,,,0.0
+Robert South,PERSON,fade,South,PERSON,Q216838,Q667,no_predicate_found,,,,0.0
+Royal Academy of Engineering;[6,ORG,former,GMW,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Royal Academy of Engineering;[6,ORG,former employee,Jonathan Ingram,PERSON,,Q112136774,entities_not_aligned_to_wikidata,,,,0.0
+Russia,GPE,archive,14 April 2019,DATE,Q159,,entities_not_aligned_to_wikidata,,,,0.0
+Russia,GPE,archive,the Wayback Machine,ORG,Q159,,entities_not_aligned_to_wikidata,,,,0.0
+Sagrada Família,ORG,base,Buckminster Fuller's,PERSON,,Q110890662,entities_not_aligned_to_wikidata,,,,0.0
+Samuel Johnson,PERSON,think,South,PERSON,Q183266,Q667,no_predicate_found,,,,0.0
+San Francisco,GPE,establish,Amsterdam,GPE,Q62,Q727,no_predicate_found,,,,0.0
+San Francisco,GPE,establish,Seoul,GPE,Q62,Q8684,candidate_found,P190,http://www.wikidata.org/prop/direct/P190,http://www.wikidata.org/prop/direct/P190,0.146
+Santa,PERSON,run,ASP,ORG,Q16281197,,entities_not_aligned_to_wikidata,,,,0.0
+Santa,PERSON,run,Kerr,PERSON,Q16281197,Q4042166,no_predicate_found,,,,0.0
+Scherer,PERSON,prove,Bischof,PERSON,Q47164208,Q866108,no_predicate_found,,,,0.0
+Scherer,PERSON,prove,Pfurtscheller[30,PERSON,Q47164208,,entities_not_aligned_to_wikidata,,,,0.0
+School of Architecture,ORG,include,Carnegie Mellon,ORG,,Q190080,entities_not_aligned_to_wikidata,,,,0.0
+School of Architecture,ORG,include,Department of Computer Science,ORG,,Q5260203,entities_not_aligned_to_wikidata,,,,0.0
+School of Architecture,ORG,include,University College London,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+School of Architecture + Planning,ORG,group,Georgia Tech,ORG,,Q864855,entities_not_aligned_to_wikidata,,,,0.0
+Schubert,PERSON,detection,Encyclopedia of Database Systems,ORG,Q1557438,Q63033999,no_predicate_found,,,,0.0
+Science in Finance Ltd,ORG,create,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+Seoul,GPE,shape,Milan,GPE,Q8684,Q1076681,no_predicate_found,,,,0.0
+September 2016,DATE,begin,the Ministry of Infrastructure and Construction,ORG,Q19249552,,entities_not_aligned_to_wikidata,,,,0.0
+Serbia,GPE,announce,Belgrade,GPE,Q403,Q3711,candidate_found,P36,http://www.wikidata.org/prop/direct/P36,http://www.wikidata.org/prop/direct/P36,0.154
+Serbia,GPE,announce,Huawei,ORG,Q403,Q160120,no_predicate_found,,,,0.0
+Shao,PERSON,see,Feng,PERSON,Q1680909,Q62383161,no_predicate_found,,,,0.0
+Shao,PERSON,see,"January 9, 2022",DATE,Q1680909,Q69306299,no_predicate_found,,,,0.0
+Shao,PERSON,see,Shen,PERSON,Q1680909,,entities_not_aligned_to_wikidata,,,,0.0
+Shao,PERSON,see,Zheng,PERSON,Q1680909,,entities_not_aligned_to_wikidata,,,,0.0
+Shapiro,PERSON,archive,21 August 2021,DATE,Q21448747,,entities_not_aligned_to_wikidata,,,,0.0
+Shapiro,PERSON,build,1981,DATE,Q21448747,,entities_not_aligned_to_wikidata,,,,0.0
+Shen,PERSON,see,"January 9, 2022",DATE,,Q69306299,entities_not_aligned_to_wikidata,,,,0.0
+Shen,PERSON,see,Zheng,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+Shubin,PERSON,archive,14 April 2019,DATE,Q21450387,,entities_not_aligned_to_wikidata,,,,0.0
+Shubin,PERSON,possibility,Russia,GPE,Q21450387,Q159,no_predicate_found,,,,0.0
+Sidewalk Labs,ORG,showcase,Singapore,GPE,Q24192719,Q334,no_predicate_found,,,,0.0
+Sidewalk Labs,ORG,showcase,Smart Nation Initiative,ORG,Q24192719,,entities_not_aligned_to_wikidata,,,,0.0
+Sidewalk Labs,ORG,showcase,Toronto,GPE,Q24192719,,entities_not_aligned_to_wikidata,,,,0.0
+Siemens,ORG,platform,Honeywell,ORG,Q81230,Q37147733,no_predicate_found,,,,0.0
+Siemens,ORG,retrieve,2004,DATE,Q81230,,entities_not_aligned_to_wikidata,,,,0.0
+Siemens PLM Software,ORG,dominate,PTC,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Singapore,GPE,experience,the National Computer Board,ORG,Q334,,entities_not_aligned_to_wikidata,,,,0.0
+Singapore,GPE,forecast,New York City,GPE,Q334,Q60,no_predicate_found,,,,0.0
+Singapore,GPE,forecast,Tokyo,GPE,Q334,,entities_not_aligned_to_wikidata,,,,0.0
+Singapore,GPE,showcase,Smart Nation Initiative,ORG,Q334,,entities_not_aligned_to_wikidata,,,,0.0
+Skywalker,PERSON,turn off,1977,DATE,Q20088958,,entities_not_aligned_to_wikidata,,,,0.0
+Slovakia,GPE,establish,BIMaS,ORG,Q214,Q10429684,no_predicate_found,,,,0.0
+Slovakia,GPE,establish,January 2013,DATE,Q214,Q1206823,no_predicate_found,,,,0.0
+Sokolowski,PERSON,design,2009,DATE,Q37553056,,entities_not_aligned_to_wikidata,,,,0.0
+Sokolowski,PERSON,design,Banks,PERSON,Q37553056,Q806825,no_predicate_found,,,,0.0
+Solomonoff,PERSON,archive,26 April 2011,DATE,Q74351358,,entities_not_aligned_to_wikidata,,,,0.0
+Soramäki,PERSON,economize,Reserve Bank of New York Economic Policy Review,ORG,Q104669312,,entities_not_aligned_to_wikidata,,,,0.0
+South,PERSON,fade,1697,DATE,Q667,,entities_not_aligned_to_wikidata,,,,0.0
+South Africa,GPE,establish,May 2015,DATE,Q258,Q16726271,no_predicate_found,,,,0.0
+South Korea,GPE,exist,the 1990s,DATE,Q884,,entities_not_aligned_to_wikidata,,,,0.0
+Spain,GPE,establish,ITeC,ORG,Q29,,entities_not_aligned_to_wikidata,,,,0.0
+Spain,GPE,launch,2018,DATE,Q29,,entities_not_aligned_to_wikidata,,,,0.0
+Spain,GPE,launch,BIM,ORG,Q29,,entities_not_aligned_to_wikidata,,,,0.0
+Spain,GPE,launch,Ministry of Infrastructure,ORG,Q29,,entities_not_aligned_to_wikidata,,,,0.0
+Steel Construction Institute,ORG,develop,the late 1990s,DATE,Q30252808,,entities_not_aligned_to_wikidata,,,,0.0
+Steel Construction Institute,ORG,late 1990 input,Georgia Tech,ORG,Q30252808,Q864855,no_predicate_found,,,,0.0
+SteelVis,ORG,viewer,NIST,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Stockholm,GPE,see,Hong Kong,GPE,Q1754,Q8646,no_predicate_found,,,,0.0
+Stockholm,GPE,see,the Cyberport Zone,GPE,Q1754,,entities_not_aligned_to_wikidata,,,,0.0
+Switzerland,GPE,raise,2009,DATE,Q39,,entities_not_aligned_to_wikidata,,,,0.0
+Switzerland,GPE,raise,2013,DATE,Q39,,entities_not_aligned_to_wikidata,,,,0.0
+Switzerland,GPE,through initiative,2013,DATE,Q39,,entities_not_aligned_to_wikidata,,,,0.0
+Sydney Australia,GPE,page,Yu-Tung Liu,PERSON,Q3845253,,entities_not_aligned_to_wikidata,,,,0.0
+Taipei,GPE,showcase,Taiwan,GPE,Q1867,Q22502,candidate_found,P1376,http://www.wikidata.org/prop/direct/P1376,http://www.wikidata.org/prop/direct/P1376,0.146
+"Taoyuan,[165",GPE,partner,Tainan[166,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+Tencent,ORG,clash,China,GPE,Q860580,Q148,candidate_found,P17,http://www.wikidata.org/prop/direct/P17,http://www.wikidata.org/prop/direct/P17,0.056
+Tencent,ORG,launch,Tencent Doctorwork,ORG,Q860580,,entities_not_aligned_to_wikidata,,,,0.0
+Tencent,ORG,launch,WeChat Intelligent Healthcare,ORG,Q860580,,entities_not_aligned_to_wikidata,,,,0.0
+Tencent,ORG,shape,China,GPE,Q860580,Q148,candidate_found,P17,http://www.wikidata.org/prop/direct/P17,http://www.wikidata.org/prop/direct/P17,0.25
+The BCA Academy,ORG,train,Japan,GPE,,Q17,entities_not_aligned_to_wikidata,,,,0.0
+The European Commission,ORG,establish,2012,DATE,Q99921735,,entities_not_aligned_to_wikidata,,,,0.0
+The European Commission,ORG,establish,the Smart Cities Marketplace,ORG,Q99921735,,entities_not_aligned_to_wikidata,,,,0.0
+The First Year,DATE,describe,China,GPE,Q54121449,Q148,no_predicate_found,,,,0.0
+The MIT Press,ORG,reprint,1991,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+The MIT Press,ORG,reprint,Cambridge,GPE,,Q49111,entities_not_aligned_to_wikidata,,,,0.0
+The MIT Press,ORG,reprint,MA,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+The Ministry of Science and Technology,ORG,announce,MOST,ORG,,Q146363,entities_not_aligned_to_wikidata,,,,0.0
+The Netherlands,GPE,say,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+The Sun,ORG,archive,Nigeria,GPE,,Q1033,entities_not_aligned_to_wikidata,,,,0.0
+The University of Sydney,ORG,offer,the University of New South Wales,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+The Wall Street Journal,ORG,note,2008,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+The Wall Street Journal,ORG,note,Rebellion Research,ORG,,Q24884471,entities_not_aligned_to_wikidata,,,,0.0
+Tokyo,GPE,forecast,New York City,GPE,,Q60,entities_not_aligned_to_wikidata,,,,0.0
+Tomasz Imieliński,PERSON,introduce,Arun Swami,PERSON,,Q51140510,entities_not_aligned_to_wikidata,,,,0.0
+Toronto,GPE,showcase,Singapore,GPE,,Q334,entities_not_aligned_to_wikidata,,,,0.0
+Toronto,GPE,showcase,Smart Nation Initiative,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UAE,GPE,set,Quality and Conformity Commission,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,adopt,US,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,call,Paul Morrell,PERSON,,Q16732880,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,describe,2011,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,develop,Steel Construction Institute,ORG,,Q30252808,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,develop,US,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,develop,the late 1990s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,find,Commission for Racial Equality,ORG,,Q5152654,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,find,St. George's Medical School,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,former,GMW,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,former employee,Jonathan Ingram,PERSON,,Q112136774,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,help,US,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,late 1990 input,Georgia Tech,ORG,,Q864855,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,merge,Ireland,GPE,,Q27,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,process practice.[112,National Building Specification,ORG,,Q6971141,entities_not_aligned_to_wikidata,,,,0.0
+UK,GPE,work,Royal Academy of Engineering;[6,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UK BIM Alliance,ORG,launch,BSI,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UK BIM Alliance,ORG,launch,CDBB,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UK BIM Alliance,ORG,merge,BIM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+UN,ORG,forecast,2100,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+UN,ORG,member,United States,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+US,GPE,base,National Institute of Building Sciences,ORG,,Q6973613,entities_not_aligned_to_wikidata,,,,0.0
+US,GPE,estimate,Institute of Standards and Technology,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+US,GPE,estimate,NIST,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+US,GPE,know,Design and Computation,ORG,,Q26751087,entities_not_aligned_to_wikidata,,,,0.0
+United Arab Emirates,GPE,issue,2014,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+United Kingdom,GPE,call,May 2011,DATE,,Q276430,entities_not_aligned_to_wikidata,,,,0.0
+United Kingdom,GPE,call,Paul Morrell,PERSON,,Q16732880,entities_not_aligned_to_wikidata,,,,0.0
+United Kingdom,GPE,call,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+United States,GPE,require,Associated General Contractors of America,ORG,,Q21015616,entities_not_aligned_to_wikidata,,,,0.0
+United States,GPE,require,US,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+University of Melbourne,ORG,include,Carnegie Mellon,ORG,,Q190080,entities_not_aligned_to_wikidata,,,,0.0
+University of Melbourne,ORG,include,Department of Computer Science,ORG,,Q5260203,entities_not_aligned_to_wikidata,,,,0.0
+University of Melbourne,ORG,include,School of Architecture,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+University of Technology,ORG,page,Yu-Tung Liu,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+University of Twente,ORG,begin,Knowledge Graphs,ORG,,Q33002955,entities_not_aligned_to_wikidata,,,,0.0
+Virginia Tech’s,ORG,utilize,SmithGroup,ORG,,Q7544941,entities_not_aligned_to_wikidata,,,,0.0
+Volker Wissing,PERSON,announced,2025,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+WGBH,ORG,discuss,Polshek Partnership,ORG,,Q107005228,entities_not_aligned_to_wikidata,,,,0.0
+Walter Pitts,PERSON,contribute,Warren McCulloch,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+Walter Pitts,PERSON,follow,Frank Rosenblatt,PERSON,,Q93018,entities_not_aligned_to_wikidata,,,,0.0
+Warren McCulloch,PERSON,become,Walter Pitts,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+Watson,PERSON,recommend,STAT,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+WeChat Intelligent Healthcare,ORG,launch,Tencent Doctorwork,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+What If,ORG,specialize,StatFox,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Wikipedia,ORG,focus,Freebase,ORG,,Q1453477,entities_not_aligned_to_wikidata,,,,0.0
+Wolfram,PERSON,retrieve,2016,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+WolframAlpha,ORG,associate,Amazon,ORG,,Q3884,entities_not_aligned_to_wikidata,,,,0.0
+WolframAlpha,ORG,associate,Apple,ORG,,Q312,entities_not_aligned_to_wikidata,,,,0.0
+Wöß,PERSON,retrieve,2016,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Wöß,PERSON,retrieve,Wolfram,PERSON,,,entities_not_aligned_to_wikidata,,,,0.0
+YAGO,ORG,use,Wikidata,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Yahoo,ORG,answer,Apple,ORG,,Q312,entities_not_aligned_to_wikidata,,,,0.0
+Yahoo,ORG,answer,WolframAlpha,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+Yahoo,ORG,semantic search assistant,Google,ORG,,Q95,entities_not_aligned_to_wikidata,,,,0.0
+Yahoo,ORG,semantic search assistant,Microsoft,ORG,,Q2283,entities_not_aligned_to_wikidata,,,,0.0
+Zendejas,PERSON,et al,2013,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+Zheng,PERSON,see,"January 9, 2022",DATE,,Q69306299,entities_not_aligned_to_wikidata,,,,0.0
+Zhou,PERSON,et al,2020,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+annual,DATE,become,Taipei,GPE,,Q1867,entities_not_aligned_to_wikidata,,,,0.0
+annually,DATE,estimate,U.S.,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+annually,DATE,hold,2012,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+buildingSMART,ORG,call,1989,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+buildingSMART,ORG,call,Mediaconstruct,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+buildingSMART,ORG,merge,BIM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+buildingSMART Canada,ORG,canadian chapter,buildingSMART International).[117,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+buildingSMART Norway,ORG,represent,Poland,GPE,,Q36,entities_not_aligned_to_wikidata,,,,0.0
+early 1980s,DATE,fall,1983,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+early 1980s,DATE,fall,1985,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+early 1980s,DATE,include,Chuck Eastman's,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+early 1980s to 1990s,DATE,edit]advance technology,the 1980s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+early 2000s–present,DATE,advent virtual cinematography,the early 2000s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+early 2018,DATE,italian,Ministry of Infrastructure and Transport,ORG,,Q127973263,entities_not_aligned_to_wikidata,,,,0.0
+early 2018.[108,DATE,outside government industry adoption,2016,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+early March 2026,DATE,schedule,June 2026.[34,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+et al.,ORG,propose,2019,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+monthly,DATE,electricity usage around average,U.S.,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+the 1950s,DATE,use,Arthur Samuel,PERSON,,Q710266,entities_not_aligned_to_wikidata,,,,0.0
+the 1970s,DATE,agree,the early 2000s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the 1970s,DATE,describe,Duda,PERSON,,Q24283002,entities_not_aligned_to_wikidata,,,,0.0
+the 1970s,DATE,describe,Hart,PERSON,,Q1587003,entities_not_aligned_to_wikidata,,,,0.0
+the 1970s,DATE,fall,1983,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the 1970s,DATE,fall,early 1980s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the 1980s,DATE,make computer affordable capable,"previous decades,[61",DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the 2010s,DATE,launch,Bloomberg Philanthropies,ORG,,Q16987920,entities_not_aligned_to_wikidata,,,,0.0
+the 2010s,DATE,launch,the Rockefeller Foundation,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the 2010s,DATE,launch,the United States Department of Transportation.[21,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Association for the Development of Digital in Construction,ORG,found,2017,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Association for the Development of Digital in Construction,ORG,supersede,AND Construction,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Australian Government,ORG,commission,the Australasian Procurement and Construction Council,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the BIM Task Group,ORG,continue under,Cambridge,GPE,,Q49111,entities_not_aligned_to_wikidata,,,,0.0
+the BIM Task Group,ORG,continue under,Centre for Digital Built Britain,ORG,,Q85751274,entities_not_aligned_to_wikidata,,,,0.0
+the BSI Group,ORG,launch,the UK BIM Framework,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Canada BIM Council,ORG,found,the Institute for BIM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Canada BIM Council,ORG,support,CANBIM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Civil and Environmental Engineering Department,ORG,found,Amirkabir University of Technology.[67,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Clinton Foundation,ORG,establish,San Francisco,GPE,,Q62,entities_not_aligned_to_wikidata,,,,0.0
+the Community Analysis Bureau,ORG,experience,Los Angeles,GPE,,Q65,entities_not_aligned_to_wikidata,,,,0.0
+the Community Analysis Bureau,ORG,experience,the late 1960s[50,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Community Analysis Bureau,ORG,late establishment,Singapore,GPE,,Q334,entities_not_aligned_to_wikidata,,,,0.0
+the Computing Research Association,ORG,make,2021,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Construction Industry Development Board,ORG,aim,CIDB Malaysia,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Cyberport Zone,GPE,see,Hong Kong,GPE,,Q8646,entities_not_aligned_to_wikidata,,,,0.0
+the Institute for BIM,ORG,canadian chapter,buildingSMART International).[117,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Institute for BIM,ORG,support,buildingSMART Canada,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Key Centre of Design Computing and Cognition,ORG,know,the Design Lab,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Key Centre of Design Computing and Cognition,ORG,know,the University of Sydney,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Kista Science City,GPE,see,Hong Kong,GPE,,Q8646,entities_not_aligned_to_wikidata,,,,0.0
+the Kista Science City,GPE,see,Stockholm,GPE,,Q1754,entities_not_aligned_to_wikidata,,,,0.0
+the Kista Science City,GPE,see,the Cyberport Zone,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Massachusetts Institute of Technology,ORG,know,MIT,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the National Institute of Building Sciences,ORG,look,NIBS,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the National Institute of Building Sciences,ORG,look,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+the National Institute of Building Sciences,ORG,look,US,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+"the Rijksgebouwendienst,",ORG,agency within,"Ministry of Housing, Spatial Planning and the Environment",ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Rockefeller Foundation,ORG,launch,the United States Department of Transportation.[21,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Smart Cities Marketplace,ORG,centralized hub urban initiative,the European Union.[57,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Smart City Expo World Congress,ORG,attract,Barcelona,GPE,,Q1492,entities_not_aligned_to_wikidata,,,,0.0
+the Society for Simulation in Healthcare,ORG,form,SSH,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Swiss Society for Engineers and Architects,ORG,call,May 2011,DATE,,Q276430,entities_not_aligned_to_wikidata,,,,0.0
+the Swiss Society for Engineers and Architects,ORG,call,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Swiss Society for Engineers and Architects,ORG,call,United Kingdom,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Technical Committee for BIM Standardisation,ORG,begin,CT197-BIM,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the UK BIM Alliance,ORG,merge,Ireland,GPE,,Q27,entities_not_aligned_to_wikidata,,,,0.0
+the UK BIM Alliance,ORG,merge,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+the UK BIM Alliance[a,ORG,launch,the BSI Group,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the UK BIM Alliance[a,ORG,launch,the UK BIM Framework,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the United Kingdom,GPE,become,2007,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the United Nations Development Programme,ORG,use revised form,the World Bank,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the University of Groningen,ORG,begin,Knowledge Graphs,ORG,,Q33002955,entities_not_aligned_to_wikidata,,,,0.0
+the University of Groningen,ORG,begin,University of Twente,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the University of Illinois at Chicago,ORG,allow,UIC,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the University of Leeds,ORG,develop,Steel Construction Institute,ORG,,Q30252808,entities_not_aligned_to_wikidata,,,,0.0
+the University of Leeds,ORG,develop,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+the University of Leeds,ORG,develop,the late 1990s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the University of New South Wales,ORG,offer,Sydney,GPE,,Q3130,entities_not_aligned_to_wikidata,,,,0.0
+the University of Québec,ORG,specialize,Chicoutimi,GPE,,Q952269,entities_not_aligned_to_wikidata,,,,0.0
+the University of Sydney,ORG,more than year,the late 1960s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Wayback Machine,ORG,archive,CAEWatch,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the Wayback Machine,ORG,archive,"September 12, 2011",DATE,,Q22664452,entities_not_aligned_to_wikidata,,,,0.0
+the Wayback Machine,ORG,design,Encyclopedia of Computer Science,ORG,,Q126683668,entities_not_aligned_to_wikidata,,,,0.0
+the Wayback Machine,ORG,magazine,December 2011,DATE,,Q386251,entities_not_aligned_to_wikidata,,,,0.0
+the Wayback Machine,ORG,thesis,1970,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the Wayback Machine,ORG,thesis,University of Edinburgh,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the early 1950s,DATE,pioneer like,Alan Turing,PERSON,,Q7251,entities_not_aligned_to_wikidata,,,,0.0
+the early days,DATE,transition,the World Wide Web,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the late 1960s[50,DATE,establishment,Singapore,GPE,,Q334,entities_not_aligned_to_wikidata,,,,0.0
+the late 1960s[50,DATE,establishment,the National Computer Board,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the late 1970s,DATE,emerge,early 1980s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the late 1970s,DATE,include,Chuck Eastman's,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the late 1980s,DATE,begin,University of Twente,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the late 1980s,DATE,begin,the University of Groningen,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the late 1990s,DATE,approve,the American Institute of Steel Construction,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the late 1990s,DATE,input,Georgia Tech,ORG,,Q864855,entities_not_aligned_to_wikidata,,,,0.0
+the mid-1980s,DATE,acknowledge,1985,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+the mid-2010s,DATE,emerge,Autodesk,ORG,,Q628051,entities_not_aligned_to_wikidata,,,,0.0
+the year 2011,DATE,describe,China,GPE,,Q148,entities_not_aligned_to_wikidata,,,,0.0
+the year 2011,DATE,describe,The First Year,DATE,,Q54121449,entities_not_aligned_to_wikidata,,,,0.0
+the year 2020,DATE,lead,CIDB Malaysia,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the year 2020,DATE,lead,the Construction Industry Development Board,ORG,,,entities_not_aligned_to_wikidata,,,,0.0
+the ÖNORM A 6241,ORG,publish,15 March 2015,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+today,DATE,use paper,the mid-1980s,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+today,DATE,use paper mid-1980,1985,DATE,,,entities_not_aligned_to_wikidata,,,,0.0
+two to three years,DATE,behind,The Netherlands,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
+two to three years,DATE,behind,UK,GPE,,,entities_not_aligned_to_wikidata,,,,0.0
