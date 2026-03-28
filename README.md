@@ -66,6 +66,8 @@ python src/rag/lab_rag_sparql_gen.py
 ```
 Execution Time Notice
 Some parts of this project can take a significant amount of time to run.
+
+
 In particular, Step 4 of Lab Session 2 (the graph enrichment step) is computationally expensive and may take a long time to execute.
 To make things easier, we provide a precomputed output file (kb_expansion_all.csv) that you can directly use without running this step.
 
