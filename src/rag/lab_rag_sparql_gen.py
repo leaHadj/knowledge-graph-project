@@ -19,7 +19,7 @@ from rdflib import Graph
 import requests
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-TTL_FILE = os.path.join(SCRIPT_DIR, "kb_graph.ttl")
+TTL_FILE = os.path.join(SCRIPT_DIR, "..", "..", "kg_artifacts", "graph_clean.ttl")
 
 if not os.path.exists(TTL_FILE):
     print(f"Warning: {TTL_FILE} not found")
