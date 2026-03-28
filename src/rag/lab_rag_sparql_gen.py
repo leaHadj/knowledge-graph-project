@@ -1,7 +1,7 @@
 """
 RAG with RDF/SPARQL and a Local Small LLM
 Project: AI in Architecture Knowledge Base
-Author: Clarisse Ballon — ESILV A4/S8 2025-2026
+Authors: Clarisse Ballon, Léa Hadj-said — ESILV A4/S8 2025-2026
 
 Requirements:
     pip install rdflib requests
