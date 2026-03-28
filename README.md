@@ -174,6 +174,7 @@ The RAG pipeline works as follows:
 ## Example Output
 
 Add here a screenshot of a query and its result from the RAG system.
+![RAG Example](results/rag_example.png)
 
 ---
 
